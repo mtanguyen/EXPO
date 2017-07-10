@@ -14,6 +14,10 @@ public:
 	Word();
 } word;
 
+Word::Word(){
+
+}
+
 class Subject{
 private:
 	vector<word> *subjects;

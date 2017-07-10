@@ -1,19 +1,25 @@
-boolean file_parse(string line){
-	int a = 0;
+vector<string> file_parse(string line){
+	int a = 0, b = 0;
+	vector<string> words;
 	
 	if(line != NULL){
 		while(line[a] != '/0'){
 			switch(line[a]){
-				case 0x41 ... 0x5A:
+				case 0x41 ... 0x5A:	// Upper Case Letters
+					words[b][a] = line[a];
 					break;
-				case 0x61 .. 0x7A:
+				case 0x61 .. 0x7A:	// Lower Case Letters
+					words[b][a] = line[a];
+					break;
+				case 0x20:			// Space
+					b++;
 					break;
 			}
 		
 			a++;
 		}
 	
-		return true;
+		return words;
 	}
-	else return false;
+	else return NULL;
 }

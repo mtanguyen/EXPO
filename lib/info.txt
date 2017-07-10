@@ -1,0 +1,1 @@
+Any libs that get compiled by the project, third party or any needed in development.

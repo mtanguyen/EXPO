@@ -1,3 +1,11 @@
+//--------------------------------------------------------------
+// Author:		Alejandro Dominguez								
+// Date:		July 10th, 2017									
+// Description:	Program to parse through the line and pick 
+//				out the words.				
+//--------------------------------------------------------------
+#include <iostream>
+
 vector<string> file_parse(string line){
 	int a = 0, b = 0;
 	vector<string> words;

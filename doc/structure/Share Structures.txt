@@ -1,0 +1,54 @@
+{\rtf1\ansi\ansicpg1252\cocoartf1504\cocoasubrtf830
+{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
+{\colortbl;\red255\green255\blue255;\red0\green0\blue0;\red255\green255\blue255;}
+{\*\expandedcolortbl;;\cssrgb\c0\c0\c0;\cssrgb\c100000\c100000\c100000;}
+\margl1440\margr1440\vieww28600\viewh16500\viewkind0
+\pard\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\pardirnatural\partightenfactor0
+
+\f0\b\fs24 \cf0 Original Sentence\
+\pard\pardeftab720\sl220\sa240\partightenfactor0
+\cf2 \cb3 \expnd0\expndtw0\kerning0
+Example 1: \
+
+\b0 This AGREEMENT AND PLAN OF MERGER (this "Agreement") is made and entered into as of August 15, 2011, by and among GOOGLE INC., a Delaware corporation ("Parent"), RB98 INC., a Delaware corporation and a wholly owned subsidiary of Parent ("Merger Sub"), and MOTOROLA MOBILITY HOLDINGS, INC., a Delaware corporation (the "Company"). 
+\b \cf0 \cb1 \kerning1\expnd0\expndtw0 \
+\pard\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\pardirnatural\partightenfactor0
+\cf0 Example 2: \
+\pard\pardeftab720\sl220\sa240\partightenfactor0
+
+\b0 \cf2 \cb3 \expnd0\expndtw0\kerning0
+AMENDMENT NO. 1 (this "Amendment"), dated as of March 16, 2015, to that certain Agreement and Plan of Merger, dated as of February 20, 2015 (the "Agreement"), by and among Valeant Pharmaceuticals International, a Delaware corporation ("Parent"), Sun Merger Sub, Inc., a Delaware corporation and a wholly owned Subsidiary of Parent ("Merger Sub"), Salix Pharmaceuticals, Ltd., a Delaware corporation (the "Company"), and solely for purposes of Section 8.16 of the Agreement, Valeant Pharmaceuticals International, Inc., a British Columbia corporation ("Guarantor"). \cb1 \
+\pard\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\pardirnatural\partightenfactor0
+
+\b \cf0 \kerning1\expnd0\expndtw0 \
+Breakdown of Sentence				Link\
+Example 1: 
+\b0 \
+Agreement and Plan of Merger 			Agreement\
+made and entered into as of			August 15, 2011\
+by and among					will list companies/mergers\
+Google Inc.						Parent\
+RB98 Inc.						Merger Sub\
+Motorola Mobility Holdings, Inc.			Company\
+\pard\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\pardirnatural\partightenfactor0
+\cf2 \expnd0\expndtw0\kerning0
+\
+
+\b Example 2: 
+\b0 \
+\cf0 \kerning1\expnd0\expndtw0 Agreement and Plan of Merger 			Agreement\
+made and entered into as of			August 15, 2011\
+by and among					will list companies/mergers\
+Google Inc.						Parent\
+RB98 Inc.						Merger Sub\
+Motorola Mobility Holdings, Inc.			Company\cf2 \expnd0\expndtw0\kerning0
+\
+\pard\pardeftab720\sl220\sa240\partightenfactor0
+
+\b \cf2 \
+\pard\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\pardirnatural\partightenfactor0
+
+\b0 \cf2 \
+\pard\pardeftab720\sl220\sa240\partightenfactor0
+\cf2 \
+}

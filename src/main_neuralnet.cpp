@@ -1,12 +1,12 @@
-//--------------------------------------------------------------//
-// Author:		Alejandro Dominguez								//
-// Date:		July 10th, 2017									//
-// Description:	Main file, all spawns from here.				//
-//--------------------------------------------------------------//
-//--------------------------------------------------------------//
-// Command line call:											//
-//		fastnet "file/location.txt" [modifiers]					//
-//--------------------------------------------------------------//
+//--------------------------------------------------------------
+// Author:		Alejandro Dominguez								
+// Date:		July 10th, 2017									
+// Description:	Main file, all spawns from here.				
+//--------------------------------------------------------------
+//--------------------------------------------------------------
+// Command line call:											
+//		fastnet "file/location.txt" [modifiers]					
+//--------------------------------------------------------------
 
 #include "funtions"
 
@@ -22,6 +22,7 @@ extern Result	result;
 
 extern vector<string>	file_parse(string);
 extern void				word_init(vector<string>);
+
 using namespace std;
 
 int main(int argc, char **argv){

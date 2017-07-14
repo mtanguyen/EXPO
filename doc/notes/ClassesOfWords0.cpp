@@ -4,16 +4,21 @@
 using namespace std;
 
 // void sorting_algorithm(String word, in sentence_position, int line_number);
+class Sort{
+    void merge(Comparable[] a, Comparable [] aux, int lo, int mid, int high){
+        int i = lo, j = mid;
+        for (int k = lo; k < hi; k++) {
+            if      (i == mid)                 aux[k] = a[j++];
+            else if (j == hi)                  aux[k] = a[i++];
+            else if (a[j].compareTo(a[i]) < 0) aux[k] = a[j++];
+            else                               aux[k] = a[i++];
+        }
 
-class word{
-
-public:
-    string type;
-    int position;
-    int linenumber;
-
+        // copy back
+        for (int k = lo; k < hi; k++)
+            a[k] = aux[k];
+    }
 };
-
 void sorting_algorithm(string word, int sentence_position, int line_number){
     string mockWord = word;
     int position = sentence_position;

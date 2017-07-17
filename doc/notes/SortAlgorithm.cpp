@@ -3,35 +3,29 @@
 #include <string>
 using namespace std;
 
-// void sorting_algorithm(String word, in sentence_position, int line_number);
-
-class word{
-
+// word --> new instance of class --> new variable --> class type = plugin(word);
+class Word{
 public:
-    string type;
-    int position;
-    int linenumber;
-
+    void setName(string n){
+        string name = n;
+    }
+    void setPosition(int p){
+        int position = p;
+    }
+    void setLineNumber(int num){
+        int LineNumber = num;
+    }
+    void getClassType(string type){
+        string classType = type;
+    }
 };
 
 void sorting_algorithm(string word, int sentence_position, int line_number){
-    string mockWord = word;
-    int position = sentence_position;
-    int number = line_number;
-    bool flag = true;
-    int array[0];
-
-    for (int i = 0; i < position; i++){
-        int index_of_min = i;
-        for (int j = i; j < position; j++){
-            if (array[index_of_min] > array[j]){
-                index_of_min = j;
-            }
-        }
-        int temp = array[i];
-        array[i] = array[index_of_min];
-        array[index_of_min] = temp;
-    }
+    Word newWord;
+    newWord.setName("MOTOROLA MOBILITY HOLDINGS, INC.,");
+    newWord.setPosition(1);
+    newWord.setLineNumber(2);
+    neword.getClassType = plugin(newWord);
 
     // warning error
     if (!flag){
@@ -47,5 +41,3 @@ void sorting_algorithm(string word, int sentence_position, int line_number){
     }
 
 }
-
-// word --> new instance of class --> new variable --> class type = plugin(word);

@@ -25,7 +25,7 @@ void sorting_algorithm(string word, int sentence_position, int line_number){
     newWord.setName(word);
     newWord.setPosition(sentence_position);
     newWord.setLineNumber(line_number);
-    //neword.getClassType = plugin(newWord);
+    //newWord.getClassType = plugin(newWord);
 
     // // warning error
     // if (!flag){

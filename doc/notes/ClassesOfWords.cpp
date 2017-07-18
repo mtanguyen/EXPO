@@ -30,12 +30,18 @@ int main()
 
     while (n < N && i < text.size())
     {
-        while (i < text.size() && text[i] == ' ') ++i;
+        while (i < text.size() && text[i] == ' ') {
+            ++i;
+        }
 
         std::string::size_type j = i;
-        while (i < text.size() && text[i] != ' ') ++i;
+        while (i < text.size() && text[i] != ' '){
+            ++i;
+        }
 
-        if (j != i) docWordCount[n++].word.assign(text, j, i - j);
+        if (j != i){
+            docWordCount[n++].word.assign(text, j, i - j);
+        }
     }
 
     ofstream file;

@@ -8,13 +8,13 @@ obj = $(src:.cpp=.o)
 dep = $(obj:.o=.d)
 
 FASTNet: $(obj)
-	$(CC) $(LFLAGS) $(OBJS) -o FASTNet
+	$(CC) $(LFLAGS) $(obj) -o FASTNet
 
 $(obj): $(src)
 	$(CC) $(CFLAGS) $(src)
 
 clean:
-	\rm $(OBJECTS)/*.o*~ $(PROGRAM)
+	\rm $(obj) $(PROGRAM)
 
 tar:
 	tar cfv $(PROGRAM).tar $(src)

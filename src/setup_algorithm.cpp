@@ -4,52 +4,43 @@
 #include <fstream>
 #include <istream>
 #include <ostream>
+#include <vector>
 
 using namespace std;
 
-// word --> new instance of class --> new variable --> class type = plugin(word);
+extern string date_time();
+
 string parts_speech[3][3500];
 
 void setup_algorithm(){
-    string files[3];
-    files[0] = "Nouns.txt";
-    files[1] = "Adjectives.txt";
-    files[2] = "Verbs.txt";
+    cout << date_time() << " [SETUP_ALGORITHM]: Entered function." << endl;
+
+    vector<string> word_files;
+    word_files.push_back("Nouns.txt");
+    word_files.push_back("Adjectives.txt");
+    word_files.push_back("Verbs.txt");
 
     
     int i = 0,j = 0;
     string line;
 
     while (i<3){
-        ifstream file(files[i]);
+        ifstream file((word_files.at(i)).c_str());
 
-        while(getline(file, line){
-            if(file.is_open())
-            {
-                parts_speech[i][j] = line;
-                cout << line << endl;
-                // take away extra space
+        if(file.is_open()){
+            cout << date_time() << " [SETUP_ALGORITHM]: File " << word_files.at(i) << " succesfully opened." << endl;
+                
+            while(getline(file, line)){
+                    parts_speech[i][j] = line;
+                    j++;
             }
-            j++;
         }
+        else cout << date_time() <<" [ERROR][SETUP_ALGORITHM]: line 27 failure, file did not open." << endl;
 
         i++;
 
         file.close();
     }
+
+    cout << date_time() << " [SETUP_ALGORITHM]: Exited function." << endl;
 }
-
-    //newWord.getClassType = plugin(newWord);
-
-    // // warning error
-    // if (!flag){
-    //     // type, name of word, what it did, where
-    //     cout << "[Error]: sorting algorithm failed in code block 53-72." << endl;
-    //
-    // }
-    //
-    // // error -- just one portion
-    // if (position = " "){
-    //
-    //
-    // }

@@ -15,13 +15,19 @@
 
 using namespace std;
 
+extern string date_time();
+
 void line_reader(string line, int line_num){
+	cout << date_time() << " [LINE_READER]: Entered function." << endl;
+
 	string word = "";
 	int word_num = 0; 
 
 	for (unsigned int i = 0; i < line.size(); ++i){
 		if(line[i] == 0x20 || line[i] == '\0'){
 			word_num++;
+
+			cout << "word size" << word.size() << endl;
 
 			if(word.size() > 0){
 				if (word.size() == 1)
@@ -35,4 +41,6 @@ void line_reader(string line, int line_num){
 		}
 		else word += line[i];
 	}
+
+	cout << date_time() << " [LINE_READER]: Exiting function." << endl;
 }

@@ -13,19 +13,36 @@ private:
     string type;
 };
 
-int main(){
-    ifstream file ("Nouns.txt");
-    if(file.is_open())
-    {
-        char noun[3500][25];
-        for (int i = 0; i < sizeof(noun); i++)
-        {
-            file >> noun[i];
+void sortingalgorithm(string word, int line, int wordnum){
+    string files[3];
+    files[0] = "Nouns.txt";
+    files[1] = "Adjextives.txt";
+    files[2] = "Verbs.txt";
 
+    ifstream file ();
+    int i = 0;
+    while (){
+        file.open(files[i]);
+
+        if(files[0].is_open())
+        {
+            char noun[3500][10];
+            for (int j = 0; j < sizeof(noun); j++)
+            {
+                file >> noun[j];
+                // take away extra space
+            }
         }
 
-        for (int i = 0; i < sizeof(noun); i++) cout << noun[i] << endl;
+        i++;
+        file.close();
+
     }
+
+
+
+
+
 
     Word word1;
 }

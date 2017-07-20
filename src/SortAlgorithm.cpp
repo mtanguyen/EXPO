@@ -1,30 +1,35 @@
 // sorting algorithm
 #include <iostream>
 #include <string>
+#include <fstream>
 using namespace std;
 
 // word --> new instance of class --> new variable --> class type = plugin(word);
 class Word{
-public:
-    void setName(string n){
-        string name = n;
-    }
-    void setPosition(int p){
-        int position = p;
-    }
-    void setLineNumber(int num){
-        int lineNumber = num;
-    }
-    void getClassType(string type){
-        string classType = type;
-    }
+private:
+    string word;
+    int line;
+    int wordnum;
+    string type;
 };
 
-void sorting_algorithm(string word, int sentence_position, int line_number){
-    Word newWord;
-    newWord.setName(word);
-    newWord.setPosition(sentence_position);
-    newWord.setLineNumber(line_number);
+int main(){
+    ifstream file ("Nouns.txt");
+    if(file.is_open())
+    {
+        char noun[3500][25];
+        for (int i = 0; i < sizeof(noun); i++)
+        {
+            file >> noun[i];
+
+        }
+
+        for (int i = 0; i < sizeof(noun); i++) cout << noun[i] << endl;
+    }
+
+    Word word1;
+}
+
     //newWord.getClassType = plugin(newWord);
 
     // // warning error
@@ -39,5 +44,3 @@ void sorting_algorithm(string word, int sentence_position, int line_number){
     //
     //
     // }
-
-}

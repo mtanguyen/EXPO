@@ -14,50 +14,21 @@ private:
 };
 
 void sortingalgorithm(string word, int line, int wordnum){
-    string files[3];
-    files[0] = "Nouns.txt";
-    files[1] = "Adjextives.txt";
-    files[2] = "Verbs.txt";
 
-    ifstream file ();
-    int i = 0;
-    while (){
-        file.open(files[i]);
-
-        if(files[0].is_open())
-        {
-            char noun[3500][10];
-            for (int j = 0; j < sizeof(noun); j++)
-            {
-                file >> noun[j];
-                // take away extra space
+    int i = 0, j = 0;
+    for (i = 0; i < 3; i++){
+        for (j = 0; j < 3500; j++){
+            if (word == parts_speech[i][j]){
+                cout << i << endl;
+                cout << j << endl;
             }
         }
-
-        i++;
-        file.close();
-
     }
 
+    line = i;
+    wordnum = j;
+    cout << line << endl;
+    cout << wordnum << endl;
 
 
-
-
-
-    Word word1;
 }
-
-    //newWord.getClassType = plugin(newWord);
-
-    // // warning error
-    // if (!flag){
-    //     // type, name of word, what it did, where
-    //     cout << "[Error]: sorting algorithm failed in code block 53-72." << endl;
-    //
-    // }
-    //
-    // // error -- just one portion
-    // if (position = " "){
-    //
-    //
-    // }

@@ -23,6 +23,9 @@ void sortingalgorithm(string word, int line, int wordnum){
                 cout << j << endl;
                 cout << i << endl;
             }
+            else {
+                // add to array of verbs, nouns, adjs
+            }
         }
     }
 

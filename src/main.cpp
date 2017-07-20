@@ -14,13 +14,21 @@
 
 using namespace std;
 
+extern void line_reader(string line, int line_num);
+extern void setup_algorithm();
+
 int main(int argc, char **argv){
 	ifstream file (argv[1]);
 	string line;
 
+	setup_algorithm();
+
+	int line_num = 0;
+
 	if(file.is_open()){
 		while(getline(file, line)){
-			cout << line << endl;
+			line_num++;
+			line_reader(line,line_num);
 		}
 	}
 

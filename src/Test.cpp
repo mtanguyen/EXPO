@@ -41,18 +41,3 @@ int main(){
 
 
 }
-
-    //newWord.getClassType = plugin(newWord);
-
-    // // warning error
-    // if (!flag){
-    //     // type, name of word, what it did, where
-    //     cout << "[Error]: sorting algorithm failed in code block 53-72." << endl;
-    //
-    // }
-    //
-    // // error -- just one portion
-    // if (position = " "){
-    //
-    //
-    // }

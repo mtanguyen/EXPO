@@ -4,7 +4,7 @@
 #include <fstream>
 using namespace std;
 
-string parts_speech [3][3500];
+string parts_speech [3][3500] = {"Nouns", "Verbs", "Adjectives"};
 
 // word --> new instance of class --> new variable --> class type = plugin(word);
 class Word{

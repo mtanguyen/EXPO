@@ -1,4 +1,5 @@
-// sorting algorithm
+#include "declarations.h"
+
 #include <iostream>
 #include <string>
 #include <fstream>
@@ -8,17 +9,17 @@
 
 using namespace std;
 
-extern string date_time();
+std::string parts_speech[3][3500];
 
-string parts_speech[3][3500];
+extern string date_time();
 
 void setup_algorithm(){
     cout << date_time() << " [SETUP_ALGORITHM]: Entered function." << endl;
 
     vector<string> word_files;
-    word_files.push_back("Nouns.txt");
-    word_files.push_back("Adjectives.txt");
-    word_files.push_back("Verbs.txt");
+    word_files.push_back("~/EXPO/doc/Nouns.txt");
+    word_files.push_back("~/EXPO/doc/Adjectives.txt");
+    word_files.push_back("~/EXPO/doc/Verbs.txt");
 
     
     int i = 0,j = 0;

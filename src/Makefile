@@ -2,13 +2,14 @@ CC = g++
 DEBUG = -g
 CFLAGS = -Wall -c $(DEBUG)
 LFLAGS = -Wall $(DEBUG)
+PROGRAM = FASTNet
 
 src = $(wildcard *.cpp)
 obj = $(src:.cpp=.o)
 dep = $(obj:.o=.d)
 
-FASTNet: $(obj)
-	$(CC) $(LFLAGS) $(obj) -o FASTNet
+$(PROGRAM): $(obj)
+	$(CC) $(LFLAGS) $(obj) -o $(PROGRAM)
 
 $(obj): $(src)
 	$(CC) $(CFLAGS) $(src)

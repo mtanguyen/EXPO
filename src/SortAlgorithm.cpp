@@ -59,19 +59,5 @@ void sortingalgorithm(string char_word, int line, int wordnum){
         }
     }
 
-<<<<<<< HEAD
-    if (word != parts_speech[i][j]){
-        
-    }
-
-    line = i;
-    wordnum = j;
-    cout << line << endl;
-    cout << wordnum << endl;
-=======
-    Word newword = words.at(0);
-    cout << newword.get_word() << endl;
->>>>>>> 980cf0e12a8e23ce4abafeaad88858d9db034e5e
-
     cout << date_time() << " [SORTALGORITHM]: Exiting function." << endl;
 }

@@ -1,18 +1,9 @@
 #include "declarations.h"
 
-#include <iostream>
-#include <string>
-#include <fstream>
-#include <istream>
-#include <ostream>
-#include <vector>
-
 using namespace std;
 
 vector<string> parts;
-
-extern string parts_speech[3][3500];
-extern string date_time();
+vector<Word> words;
 
 Word::Word(string line, int line_num, int word_num, string plugin_type){
     word = line;
@@ -34,9 +25,9 @@ string Word::get_type(){
     return type;
 }
 
-void sortingalgorithm(string char_word, int line, int wordnum){
-    cout << date_time() << " [SORTALGORITHM]: Entered function." << endl;
-    vector<Word> words;
+void sorting_algorithm(string char_word, int line, int wordnum){
+    cout << date_time() << " [SORT_ALGORITHM]: Entered function." << endl;
+    
     Word *word;
 
     parts.push_back("Noun");
@@ -50,17 +41,20 @@ void sortingalgorithm(string char_word, int line, int wordnum){
             if (char_word == parts_speech[i][j]){
                 word = new Word(char_word, line, wordnum, parts.at(i));
                 words.push_back(*word);
+                
+                cout << date_time() << "[SORT_ALGORITHM]: New word created " << word << endl;
             }
             else {
                 // string type = plugin(word);
                 // Word word(word, line, wordnum, type);
                 // words.push_back(word);
+
+                cout << date_time() << "[SORT_ALGORITHM]: No new word created for word: " << char_word << endl;
+                cout << date_time() << "[SORT_ALGORITHM]: At this point parts_speech was: " << parts_speech[i][j] << endl;
+                
             }
         }
     }
 
-    Word newword = words.at(0);
-    cout << newword.get_word() << endl;
-
-    cout << date_time() << " [SORTALGORITHM]: Exiting function." << endl;
+    cout << date_time() << " [SORT_ALGORITHM]: Exiting function." << endl;
 }

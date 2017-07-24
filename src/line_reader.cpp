@@ -5,21 +5,12 @@
 // Description:		Program for reading the lines, and taking
 //					out the lines.
 //------------------------------------------------------------
-
-#include <iostream>
-#include <string>
-#include <fstream>
-#include <istream>
-#include <ostream>
-#include <vector>
+#include "declarations.h"
 
 using namespace std;
 
-extern string date_time();
-extern void sortingalgorithm(string word, int line, int wordnum);
-
 void line_reader(string line, int line_num){
-	cout << date_time() << " [LINE_READER]: Entered function." << endl;
+    cout << date_time() << " [LINE_READER]: Entered function." << endl;
 
 	string word = "";
 	int word_num = 0; 
@@ -28,22 +19,21 @@ void line_reader(string line, int line_num){
 		if(line[i] == 0x20 || line[i] == '\0'){
 			word_num++;
 
-			cout << "word size" << word.size() << endl;
+			// cout << "Word Size: " << word.size() << endl;
 
 			if(word.size() > 0){
-				if (word.size() == 1)
-					cout << "Word: " << word << "\t\t";
-				else cout << "Word: " << word << '\t';
-				cout << "Word Number: " << word_num << '\t';
-				cout << "Line Number: " << line_num << endl;
+				// if (word.size() == 1)
+				// 	cout << "Word: " << word << "\t\t";
+				// else cout << "Word: " << word << '\t';
+				// cout << "Word Number: " << word_num << '\t';
+				// cout << "Line Number: " << line_num << endl;
 
-				sortingalgorithm(word,line_num,word_num);
+				//sorting_algorithm(word,line_num,word_num);
+				word = "";
 			}
-			
-			word = "";
 		}
 		else word += line[i];
 	}
 
-	cout << date_time() << " [LINE_READER]: Exiting function." << endl;
+    cout << date_time() << " [LINE_READER]: Exiting function." << endl;
 }

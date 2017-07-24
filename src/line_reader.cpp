@@ -1,21 +1,22 @@
 //------------------------------------------------------------
 // Author:			Alejandro Dominguez
 // Origin Date:		July 19, 2017
-// Last Modified:	July 19, 2017
+// Last Modified:	July 21, 2017
 // Description:		Program for reading the lines, and taking
 //					out the lines.
 //------------------------------------------------------------
 
 #include <iostream>
 #include <string>
-#include <vector>
+#include <fstream>
 #include <istream>
 #include <ostream>
-#include <fstream>
+#include <vector>
 
 using namespace std;
 
 extern string date_time();
+extern void sortingalgorithm(string word, int line, int wordnum);
 
 void line_reader(string line, int line_num){
 	cout << date_time() << " [LINE_READER]: Entered function." << endl;
@@ -35,6 +36,8 @@ void line_reader(string line, int line_num){
 				else cout << "Word: " << word << '\t';
 				cout << "Word Number: " << word_num << '\t';
 				cout << "Line Number: " << line_num << endl;
+
+				sortingalgorithm(word,line_num,word_num);
 			}
 			
 			word = "";

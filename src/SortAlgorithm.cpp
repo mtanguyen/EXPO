@@ -29,6 +29,10 @@ void sortingalgorithm(string word, int line, int wordnum){
         }
     }
 
+    if (word != parts_speech[i][j]){
+        
+    }
+
     line = i;
     wordnum = j;
     cout << line << endl;

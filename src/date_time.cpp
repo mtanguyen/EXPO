@@ -1,9 +1,4 @@
-#include <iostream>
-#include <string>
-#include <fstream>
-#include <istream>
-#include <ostream>
-#include <vector>
+#include "declarations.h"
 
 using namespace std;
 

@@ -3,17 +3,28 @@
 #include <istream>
 #include <ostream>
 #include <vector>
+#include <string>
+#include <cstring>
+
+using namespace std;
+
+extern string parts_speech[3][3500];
+
+extern void line_reader(string line, int line_num);
+extern void setup_algorithm();
+extern string date_time();
+extern void sorting_algorithm(string word, int line, int wordnum);
 
 class Word{
 private:
-    std::string word;
+    string word;
     int line;
     int wordnum;
-    std::string type;
+    string type;
 public:
-    Word(std::string,int,int,std::string);
-    std::string get_word();
+    Word(string,int,int,string);
+    string get_word();
     int get_line();
     int get_wordnum();
-    std::string get_type();
+    string get_type();
 };

@@ -55,4 +55,10 @@ void sorting_algorithm(string char_word, int line, int wordnum){
             }
         }
     }
+<<<<<<< HEAD:src/SortAlgorithm.cpp
+
+    cout << date_time() << " [SORTALGORITHM]: Exiting function." << endl;
 }
+=======
+}
+>>>>>>> 4cda051366ff8ef498dbd6da5c450d87521e46ad:src/sorting_algorithm.cpp

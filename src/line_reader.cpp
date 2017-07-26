@@ -16,7 +16,7 @@ void line_reader(string line, int line_num){
 	int word_num = 0; 
 
 	for (unsigned int i = 0; i < line.size(); ++i){
-		if(line[i] == 0x20 || line[i] == '\0'){
+		if(line[i] == 0x20 || line[i] == '\0' || line[i] == '\r'){
 			word_num++;
 
 			// cout << "Word Size: " << word.size() << endl;

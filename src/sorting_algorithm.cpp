@@ -38,7 +38,7 @@ void sorting_algorithm(string char_word, int line, int wordnum){
     int i = 0, j = 0;
     for (i = 0; i < 3; i++){
         for (j = 0; j < 3500; j++){
-            if (char_word == parts_speech[i][j]){
+            if (char_word.c_str() == parts_speech[i][j]){
                 word = new Word(char_word, line, wordnum, parts.at(i));
                 words.push_back(*word);
                 

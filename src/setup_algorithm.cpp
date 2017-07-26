@@ -15,30 +15,42 @@ void setup_algorithm(){
     word_files.push_back("../doc/Verbs.txt");
 
     
-    int i = 0;
+    int a = 0;
     string line;
 
-    while (i<3){
+    while (a<3){
         int j = 0;
-        ifstream file((word_files.at(i)).c_str());
+        ifstream file((word_files.at(a)).c_str());
 
         if(file.is_open()){
-            cout << date_time() << " [SETUP_ALGORITHM]: File " << word_files.at(i) << " succesfully opened." << endl;
+            cout << date_time() << " [SETUP_ALGORITHM]: File " << word_files.at(a) << " succesfully opened." << endl;
                 
             while(getline(file, line)){
-                cout << date_time() << " [SETUP_ALGORITHM]: line: " << line << endl;
-                
-                parts_speech[i][j] = line;
-                   
-                cout << date_time() << " [SETUP_ALGORITHM]: parts_speech[" << i << "][" << j << "]: " << parts_speech[i][j] << endl;
+                string word = "";
+                int word_num = 0; 
 
-                j++; 
+                for (unsigned int i = 0; i < line.size(); ++i){
+                    if(line[i] == 0x20 || line[i] == '\0' || line[i] == '\r'){
+                        word_num++;
+                        
+                        cout << date_time() << " [SETUP_ALGORITHM]: word: " << word << endl;
+                
+                        parts_speech[a][j] = word;
+                   
+                        cout << date_time() << " [SETUP_ALGORITHM]: parts_speech[" << a << "][" << j << "]: " << parts_speech[a][j] << endl;
+
+                        j++; 
+
+                        word = "";
+                    }
+                    else word += line[i];
+                }
             }
         }
         else{
-            cout << date_time() <<" [ERROR][SETUP_ALGORITHM]: line 27 failure, file "<< word_files.at(i) << " did not open." << endl;
+            cout << date_time() <<" [ERROR][SETUP_ALGORITHM]: line 27 failure, file "<< word_files.at(a) << " did not open." << endl;
         }
-        i++;
+        a++;
 
         file.close();
     }

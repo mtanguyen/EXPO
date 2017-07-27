@@ -10,7 +10,9 @@
 using namespace std;
 
 void line_reader(string line, int line_num){
-    cout << date_time() << " [LINE_READER]: Entered function." << endl;
+	ofstream logs("../doc/logs/line_reader.txt", ios::out | ios::app);
+
+    logs << date_time() << " [LINE_READER]: Entered function." << endl;
 
 	string word = "";
 	int word_num = 0; 
@@ -28,12 +30,14 @@ void line_reader(string line, int line_num){
 				// cout << "Word Number: " << word_num << '\t';
 				// cout << "Line Number: " << line_num << endl;
 
-				//sorting_algorithm(word,line_num,word_num);
+				sorting_algorithm(word,line_num,word_num);
 				word = "";
 			}
 		}
 		else word += line[i];
 	}
 
-    cout << date_time() << " [LINE_READER]: Exiting function." << endl;
+    logs << date_time() << " [LINE_READER]: Exiting function." << endl;
+
+    logs.close();
 }

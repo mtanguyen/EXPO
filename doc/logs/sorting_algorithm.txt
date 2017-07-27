@@ -1,0 +1,1498 @@
+27-07-2017 02:08:15 [SORT_ALGORITHM]: Entered function.
+27-07-2017 02:08:15 [SORT_ALGORITHM]: No new words created for 3 filess and 10500 words.
+27-07-2017 02:08:15 [SORT_ALGORITHM]: Exiting function.
+27-07-2017 02:08:15 [SORT_ALGORITHM]: Entered function.
+27-07-2017 02:08:15 [SORT_ALGORITHM]: No new words created for 3 filess and 10500 words.
+27-07-2017 02:08:15 [SORT_ALGORITHM]: Exiting function.
+27-07-2017 02:08:15 [SORT_ALGORITHM]: Entered function.
+27-07-2017 02:08:15 [SORT_ALGORITHM]: No new words created for 3 filess and 10500 words.
+27-07-2017 02:08:15 [SORT_ALGORITHM]: Exiting function.
+27-07-2017 02:08:15 [SORT_ALGORITHM]: Entered function.
+27-07-2017 02:08:15 [SORT_ALGORITHM]: No new words created for 3 filess and 10500 words.
+27-07-2017 02:08:15 [SORT_ALGORITHM]: Exiting function.
+27-07-2017 02:08:15 [SORT_ALGORITHM]: Entered function.
+27-07-2017 02:08:15 [SORT_ALGORITHM]: No new words created for 3 filess and 10500 words.
+27-07-2017 02:08:15 [SORT_ALGORITHM]: Exiting function.
+27-07-2017 02:08:15 [SORT_ALGORITHM]: Entered function.
+27-07-2017 02:08:15 [SORT_ALGORITHM]: No new words created for 3 filess and 10500 words.
+27-07-2017 02:08:15 [SORT_ALGORITHM]: Exiting function.
+27-07-2017 02:08:15 [SORT_ALGORITHM]: Entered function.
+27-07-2017 02:08:15 [SORT_ALGORITHM]: No new words created for 3 filess and 10500 words.
+27-07-2017 02:08:15 [SORT_ALGORITHM]: Exiting function.
+27-07-2017 02:08:15 [SORT_ALGORITHM]: Entered function.
+27-07-2017 02:08:15 [SORT_ALGORITHM]: No new words created for 3 filess and 10500 words.
+27-07-2017 02:08:15 [SORT_ALGORITHM]: Exiting function.
+27-07-2017 02:08:15 [SORT_ALGORITHM]: Entered function.
+27-07-2017 02:08:15 [SORT_ALGORITHM]: No new words created for 3 filess and 10500 words.
+27-07-2017 02:08:15 [SORT_ALGORITHM]: Exiting function.
+27-07-2017 02:08:15 [SORT_ALGORITHM]: Entered function.
+27-07-2017 02:08:15 [SORT_ALGORITHM]: No new words created for 3 filess and 10500 words.
+27-07-2017 02:08:15 [SORT_ALGORITHM]: Exiting function.
+27-07-2017 02:08:15 [SORT_ALGORITHM]: Entered function.
+27-07-2017 02:08:15 [SORT_ALGORITHM]: No new words created for 3 filess and 10500 words.
+27-07-2017 02:08:15 [SORT_ALGORITHM]: Exiting function.
+27-07-2017 02:08:15 [SORT_ALGORITHM]: Entered function.
+27-07-2017 02:08:15 [SORT_ALGORITHM]: No new words created for 3 filess and 10500 words.
+27-07-2017 02:08:15 [SORT_ALGORITHM]: Exiting function.
+27-07-2017 02:08:15 [SORT_ALGORITHM]: Entered function.
+27-07-2017 02:08:15 [SORT_ALGORITHM]: New word created was
+27-07-2017 02:08:15 [SORT_ALGORITHM]: No new words created for 3 filess and 10500 words.
+27-07-2017 02:08:15 [SORT_ALGORITHM]: Exiting function.
+27-07-2017 02:08:15 [SORT_ALGORITHM]: Entered function.
+27-07-2017 02:08:15 [SORT_ALGORITHM]: No new words created for 3 filess and 10500 words.
+27-07-2017 02:08:15 [SORT_ALGORITHM]: Exiting function.
+27-07-2017 02:08:15 [SORT_ALGORITHM]: Entered function.
+27-07-2017 02:08:15 [SORT_ALGORITHM]: No new words created for 3 filess and 10500 words.
+27-07-2017 02:08:15 [SORT_ALGORITHM]: Exiting function.
+27-07-2017 02:08:15 [SORT_ALGORITHM]: Entered function.
+27-07-2017 02:08:15 [SORT_ALGORITHM]: No new words created for 3 filess and 10500 words.
+27-07-2017 02:08:15 [SORT_ALGORITHM]: Exiting function.
+27-07-2017 02:08:15 [SORT_ALGORITHM]: Entered function.
+27-07-2017 02:08:15 [SORT_ALGORITHM]: No new words created for 3 filess and 10500 words.
+27-07-2017 02:08:15 [SORT_ALGORITHM]: Exiting function.
+27-07-2017 02:08:15 [SORT_ALGORITHM]: Entered function.
+27-07-2017 02:08:15 [SORT_ALGORITHM]: No new words created for 3 filess and 10500 words.
+27-07-2017 02:08:15 [SORT_ALGORITHM]: Exiting function.
+27-07-2017 02:08:15 [SORT_ALGORITHM]: Entered function.
+27-07-2017 02:08:15 [SORT_ALGORITHM]: No new words created for 3 filess and 10500 words.
+27-07-2017 02:08:15 [SORT_ALGORITHM]: Exiting function.
+27-07-2017 02:08:15 [SORT_ALGORITHM]: Entered function.
+27-07-2017 02:08:15 [SORT_ALGORITHM]: No new words created for 3 filess and 10500 words.
+27-07-2017 02:08:15 [SORT_ALGORITHM]: Exiting function.
+27-07-2017 02:08:15 [SORT_ALGORITHM]: Entered function.
+27-07-2017 02:08:15 [SORT_ALGORITHM]: New word created as
+27-07-2017 02:08:15 [SORT_ALGORITHM]: New word created as
+27-07-2017 02:08:15 [SORT_ALGORITHM]: No new words created for 3 filess and 10500 words.
+27-07-2017 02:08:15 [SORT_ALGORITHM]: Exiting function.
+27-07-2017 02:08:15 [SORT_ALGORITHM]: Entered function.
+27-07-2017 02:08:15 [SORT_ALGORITHM]: New word created the
+27-07-2017 02:08:15 [SORT_ALGORITHM]: New word created the
+27-07-2017 02:08:15 [SORT_ALGORITHM]: New word created the
+27-07-2017 02:08:15 [SORT_ALGORITHM]: No new words created for 3 filess and 10500 words.
+27-07-2017 02:08:15 [SORT_ALGORITHM]: Exiting function.
+27-07-2017 02:08:15 [SORT_ALGORITHM]: Entered function.
+27-07-2017 02:08:15 [SORT_ALGORITHM]: No new words created for 3 filess and 10500 words.
+27-07-2017 02:08:15 [SORT_ALGORITHM]: Exiting function.
+27-07-2017 02:08:15 [SORT_ALGORITHM]: Entered function.
+27-07-2017 02:08:15 [SORT_ALGORITHM]: New word created writer
+27-07-2017 02:08:15 [SORT_ALGORITHM]: No new words created for 3 filess and 10500 words.
+27-07-2017 02:08:15 [SORT_ALGORITHM]: Exiting function.
+27-07-2017 02:08:15 [SORT_ALGORITHM]: Entered function.
+27-07-2017 02:08:15 [SORT_ALGORITHM]: New word created in
+27-07-2017 02:08:15 [SORT_ALGORITHM]: No new words created for 3 filess and 10500 words.
+27-07-2017 02:08:15 [SORT_ALGORITHM]: Exiting function.
+27-07-2017 02:08:15 [SORT_ALGORITHM]: Entered function.
+27-07-2017 02:08:15 [SORT_ALGORITHM]: New word created the
+27-07-2017 02:08:15 [SORT_ALGORITHM]: New word created the
+27-07-2017 02:08:15 [SORT_ALGORITHM]: New word created the
+27-07-2017 02:08:15 [SORT_ALGORITHM]: No new words created for 3 filess and 10500 words.
+27-07-2017 02:08:15 [SORT_ALGORITHM]: Exiting function.
+27-07-2017 02:08:15 [SORT_ALGORITHM]: Entered function.
+27-07-2017 02:08:15 [SORT_ALGORITHM]: No new words created for 3 filess and 10500 words.
+27-07-2017 02:08:15 [SORT_ALGORITHM]: Exiting function.
+27-07-2017 02:08:15 [SORT_ALGORITHM]: Entered function.
+27-07-2017 02:08:15 [SORT_ALGORITHM]: New word created language
+27-07-2017 02:08:15 [SORT_ALGORITHM]: No new words created for 3 filess and 10500 words.
+27-07-2017 02:08:15 [SORT_ALGORITHM]: Exiting function.
+27-07-2017 02:08:15 [SORT_ALGORITHM]: Entered function.
+27-07-2017 02:08:15 [SORT_ALGORITHM]: No new words created for 3 filess and 10500 words.
+27-07-2017 02:08:15 [SORT_ALGORITHM]: Exiting function.
+27-07-2017 02:08:15 [SORT_ALGORITHM]: Entered function.
+27-07-2017 02:08:15 [SORT_ALGORITHM]: New word created the
+27-07-2017 02:08:15 [SORT_ALGORITHM]: New word created the
+27-07-2017 02:08:15 [SORT_ALGORITHM]: New word created the
+27-07-2017 02:08:15 [SORT_ALGORITHM]: No new words created for 3 filess and 10500 words.
+27-07-2017 02:08:15 [SORT_ALGORITHM]: Exiting function.
+27-07-2017 02:08:15 [SORT_ALGORITHM]: Entered function.
+27-07-2017 02:08:15 [SORT_ALGORITHM]: No new words created for 3 filess and 10500 words.
+27-07-2017 02:08:15 [SORT_ALGORITHM]: Exiting function.
+27-07-2017 02:08:15 [SORT_ALGORITHM]: Entered function.
+27-07-2017 02:08:15 [SORT_ALGORITHM]: No new words created for 3 filess and 10500 words.
+27-07-2017 02:08:15 [SORT_ALGORITHM]: Exiting function.
+27-07-2017 02:08:15 [SORT_ALGORITHM]: Entered function.
+27-07-2017 02:08:15 [SORT_ALGORITHM]: No new words created for 3 filess and 10500 words.
+27-07-2017 02:08:15 [SORT_ALGORITHM]: Exiting function.
+27-07-2017 02:08:15 [SORT_ALGORITHM]: Entered function.
+27-07-2017 02:08:15 [SORT_ALGORITHM]: No new words created for 3 filess and 10500 words.
+27-07-2017 02:08:15 [SORT_ALGORITHM]: Exiting function.
+27-07-2017 02:08:15 [SORT_ALGORITHM]: Entered function.
+27-07-2017 02:08:15 [SORT_ALGORITHM]: New word created is
+27-07-2017 02:08:15 [SORT_ALGORITHM]: No new words created for 3 filess and 10500 words.
+27-07-2017 02:08:15 [SORT_ALGORITHM]: Exiting function.
+27-07-2017 02:08:15 [SORT_ALGORITHM]: Entered function.
+27-07-2017 02:08:15 [SORT_ALGORITHM]: New word created often
+27-07-2017 02:08:15 [SORT_ALGORITHM]: No new words created for 3 filess and 10500 words.
+27-07-2017 02:08:15 [SORT_ALGORITHM]: Exiting function.
+27-07-2017 02:08:15 [SORT_ALGORITHM]: Entered function.
+27-07-2017 02:08:15 [SORT_ALGORITHM]: No new words created for 3 filess and 10500 words.
+27-07-2017 02:08:15 [SORT_ALGORITHM]: Exiting function.
+27-07-2017 02:08:15 [SORT_ALGORITHM]: Entered function.
+27-07-2017 02:08:15 [SORT_ALGORITHM]: No new words created for 3 filess and 10500 words.
+27-07-2017 02:08:15 [SORT_ALGORITHM]: Exiting function.
+27-07-2017 02:08:15 [SORT_ALGORITHM]: Entered function.
+27-07-2017 02:08:15 [SORT_ALGORITHM]: New word created national
+27-07-2017 02:08:15 [SORT_ALGORITHM]: New word created national
+27-07-2017 02:08:15 [SORT_ALGORITHM]: No new words created for 3 filess and 10500 words.
+27-07-2017 02:08:15 [SORT_ALGORITHM]: Exiting function.
+27-07-2017 02:08:15 [SORT_ALGORITHM]: Entered function.
+27-07-2017 02:08:15 [SORT_ALGORITHM]: No new words created for 3 filess and 10500 words.
+27-07-2017 02:08:15 [SORT_ALGORITHM]: Exiting function.
+27-07-2017 02:08:15 [SORT_ALGORITHM]: Entered function.
+27-07-2017 02:08:15 [SORT_ALGORITHM]: No new words created for 3 filess and 10500 words.
+27-07-2017 02:08:15 [SORT_ALGORITHM]: Exiting function.
+27-07-2017 02:08:15 [SORT_ALGORITHM]: Entered function.
+27-07-2017 02:08:15 [SORT_ALGORITHM]: New word created the
+27-07-2017 02:08:15 [SORT_ALGORITHM]: New word created the
+27-07-2017 02:08:15 [SORT_ALGORITHM]: New word created the
+27-07-2017 02:08:15 [SORT_ALGORITHM]: No new words created for 3 filess and 10500 words.
+27-07-2017 02:08:15 [SORT_ALGORITHM]: Exiting function.
+27-07-2017 02:08:15 [SORT_ALGORITHM]: Entered function.
+27-07-2017 02:08:15 [SORT_ALGORITHM]: No new words created for 3 filess and 10500 words.
+27-07-2017 02:08:15 [SORT_ALGORITHM]: Exiting function.
+27-07-2017 02:08:15 [SORT_ALGORITHM]: Entered function.
+27-07-2017 02:08:15 [SORT_ALGORITHM]: New word created of
+27-07-2017 02:08:15 [SORT_ALGORITHM]: No new words created for 3 filess and 10500 words.
+27-07-2017 02:08:15 [SORT_ALGORITHM]: Exiting function.
+27-07-2017 02:08:15 [SORT_ALGORITHM]: Entered function.
+27-07-2017 02:08:15 [SORT_ALGORITHM]: No new words created for 3 filess and 10500 words.
+27-07-2017 02:08:15 [SORT_ALGORITHM]: Exiting function.
+27-07-2017 02:08:15 [SORT_ALGORITHM]: Entered function.
+27-07-2017 02:08:15 [SORT_ALGORITHM]: No new words created for 3 filess and 10500 words.
+27-07-2017 02:08:15 [SORT_ALGORITHM]: Exiting function.
+27-07-2017 02:08:15 [SORT_ALGORITHM]: Entered function.
+27-07-2017 02:08:15 [SORT_ALGORITHM]: No new words created for 3 filess and 10500 words.
+27-07-2017 02:08:15 [SORT_ALGORITHM]: Exiting function.
+27-07-2017 02:08:15 [SORT_ALGORITHM]: Entered function.
+27-07-2017 02:08:15 [SORT_ALGORITHM]: No new words created for 3 filess and 10500 words.
+27-07-2017 02:08:15 [SORT_ALGORITHM]: Exiting function.
+27-07-2017 02:08:15 [SORT_ALGORITHM]: Entered function.
+27-07-2017 02:08:15 [SORT_ALGORITHM]: No new words created for 3 filess and 10500 words.
+27-07-2017 02:08:15 [SORT_ALGORITHM]: Exiting function.
+27-07-2017 02:08:15 [SORT_ALGORITHM]: Entered function.
+27-07-2017 02:08:15 [SORT_ALGORITHM]: No new words created for 3 filess and 10500 words.
+27-07-2017 02:08:15 [SORT_ALGORITHM]: Exiting function.
+27-07-2017 02:08:15 [SORT_ALGORITHM]: Entered function.
+27-07-2017 02:08:15 [SORT_ALGORITHM]: No new words created for 3 filess and 10500 words.
+27-07-2017 02:08:15 [SORT_ALGORITHM]: Exiting function.
+27-07-2017 02:08:15 [SORT_ALGORITHM]: Entered function.
+27-07-2017 02:08:15 [SORT_ALGORITHM]: New word created consist
+27-07-2017 02:08:15 [SORT_ALGORITHM]: New word created consist
+27-07-2017 02:08:15 [SORT_ALGORITHM]: No new words created for 3 filess and 10500 words.
+27-07-2017 02:08:15 [SORT_ALGORITHM]: Exiting function.
+27-07-2017 02:08:15 [SORT_ALGORITHM]: Entered function.
+27-07-2017 02:08:15 [SORT_ALGORITHM]: New word created of
+27-07-2017 02:08:15 [SORT_ALGORITHM]: No new words created for 3 filess and 10500 words.
+27-07-2017 02:08:15 [SORT_ALGORITHM]: Exiting function.
+27-07-2017 02:08:15 [SORT_ALGORITHM]: Entered function.
+27-07-2017 02:08:15 [SORT_ALGORITHM]: No new words created for 3 filess and 10500 words.
+27-07-2017 02:08:15 [SORT_ALGORITHM]: Exiting function.
+27-07-2017 02:08:15 [SORT_ALGORITHM]: Entered function.
+27-07-2017 02:08:15 [SORT_ALGORITHM]: No new words created for 3 filess and 10500 words.
+27-07-2017 02:08:15 [SORT_ALGORITHM]: Exiting function.
+27-07-2017 02:08:15 [SORT_ALGORITHM]: Entered function.
+27-07-2017 02:08:15 [SORT_ALGORITHM]: No new words created for 3 filess and 10500 words.
+27-07-2017 02:08:15 [SORT_ALGORITHM]: Exiting function.
+27-07-2017 02:08:15 [SORT_ALGORITHM]: Entered function.
+27-07-2017 02:08:15 [SORT_ALGORITHM]: No new words created for 3 filess and 10500 words.
+27-07-2017 02:08:15 [SORT_ALGORITHM]: Exiting function.
+27-07-2017 02:08:15 [SORT_ALGORITHM]: Entered function.
+27-07-2017 02:08:15 [SORT_ALGORITHM]: No new words created for 3 filess and 10500 words.
+27-07-2017 02:08:15 [SORT_ALGORITHM]: Exiting function.
+27-07-2017 02:08:15 [SORT_ALGORITHM]: Entered function.
+27-07-2017 02:08:15 [SORT_ALGORITHM]: No new words created for 3 filess and 10500 words.
+27-07-2017 02:08:15 [SORT_ALGORITHM]: Exiting function.
+27-07-2017 02:08:15 [SORT_ALGORITHM]: Entered function.
+27-07-2017 02:08:15 [SORT_ALGORITHM]: New word created two
+27-07-2017 02:08:15 [SORT_ALGORITHM]: No new words created for 3 filess and 10500 words.
+27-07-2017 02:08:15 [SORT_ALGORITHM]: Exiting function.
+27-07-2017 02:08:15 [SORT_ALGORITHM]: Entered function.
+27-07-2017 02:08:15 [SORT_ALGORITHM]: New word created long
+27-07-2017 02:08:15 [SORT_ALGORITHM]: New word created long
+27-07-2017 02:08:15 [SORT_ALGORITHM]: New word created long
+27-07-2017 02:08:15 [SORT_ALGORITHM]: No new words created for 3 filess and 10500 words.
+27-07-2017 02:08:15 [SORT_ALGORITHM]: Exiting function.
+27-07-2017 02:08:15 [SORT_ALGORITHM]: Entered function.
+27-07-2017 02:08:15 [SORT_ALGORITHM]: No new words created for 3 filess and 10500 words.
+27-07-2017 02:08:15 [SORT_ALGORITHM]: Exiting function.
+27-07-2017 02:08:15 [SORT_ALGORITHM]: Entered function.
+27-07-2017 02:08:15 [SORT_ALGORITHM]: No new words created for 3 filess and 10500 words.
+27-07-2017 02:08:15 [SORT_ALGORITHM]: Exiting function.
+27-07-2017 02:08:15 [SORT_ALGORITHM]: Entered function.
+27-07-2017 02:08:15 [SORT_ALGORITHM]: No new words created for 3 filess and 10500 words.
+27-07-2017 02:08:15 [SORT_ALGORITHM]: Exiting function.
+27-07-2017 02:08:15 [SORT_ALGORITHM]: Entered function.
+27-07-2017 02:08:15 [SORT_ALGORITHM]: New word created a
+27-07-2017 02:08:15 [SORT_ALGORITHM]: No new words created for 3 filess and 10500 words.
+27-07-2017 02:08:15 [SORT_ALGORITHM]: Exiting function.
+27-07-2017 02:08:15 [SORT_ALGORITHM]: Entered function.
+27-07-2017 02:08:15 [SORT_ALGORITHM]: New word created few
+27-07-2017 02:08:15 [SORT_ALGORITHM]: New word created few
+27-07-2017 02:08:15 [SORT_ALGORITHM]: No new words created for 3 filess and 10500 words.
+27-07-2017 02:08:15 [SORT_ALGORITHM]: Exiting function.
+27-07-2017 02:08:15 [SORT_ALGORITHM]: Entered function.
+27-07-2017 02:08:15 [SORT_ALGORITHM]: New word created other
+27-07-2017 02:08:15 [SORT_ALGORITHM]: New word created other
+27-07-2017 02:08:15 [SORT_ALGORITHM]: New word created other
+27-07-2017 02:08:15 [SORT_ALGORITHM]: No new words created for 3 filess and 10500 words.
+27-07-2017 02:08:15 [SORT_ALGORITHM]: Exiting function.
+27-07-2017 02:08:15 [SORT_ALGORITHM]: Entered function.
+27-07-2017 02:08:15 [SORT_ALGORITHM]: No new words created for 3 filess and 10500 words.
+27-07-2017 02:08:15 [SORT_ALGORITHM]: Exiting function.
+27-07-2017 02:08:15 [SORT_ALGORITHM]: Entered function.
+27-07-2017 02:08:15 [SORT_ALGORITHM]: New word created some
+27-07-2017 02:08:15 [SORT_ALGORITHM]: New word created some
+27-07-2017 02:08:15 [SORT_ALGORITHM]: New word created some
+27-07-2017 02:08:15 [SORT_ALGORITHM]: No new words created for 3 filess and 10500 words.
+27-07-2017 02:08:15 [SORT_ALGORITHM]: Exiting function.
+27-07-2017 02:08:15 [SORT_ALGORITHM]: Entered function.
+27-07-2017 02:08:15 [SORT_ALGORITHM]: New word created of
+27-07-2017 02:08:15 [SORT_ALGORITHM]: No new words created for 3 filess and 10500 words.
+27-07-2017 02:08:15 [SORT_ALGORITHM]: Exiting function.
+27-07-2017 02:08:15 [SORT_ALGORITHM]: Entered function.
+27-07-2017 02:08:15 [SORT_ALGORITHM]: No new words created for 3 filess and 10500 words.
+27-07-2017 02:08:15 [SORT_ALGORITHM]: Exiting function.
+27-07-2017 02:08:15 [SORT_ALGORITHM]: Entered function.
+27-07-2017 02:08:15 [SORT_ALGORITHM]: No new words created for 3 filess and 10500 words.
+27-07-2017 02:08:15 [SORT_ALGORITHM]: Exiting function.
+27-07-2017 02:08:15 [SORT_ALGORITHM]: Entered function.
+27-07-2017 02:08:15 [SORT_ALGORITHM]: No new words created for 3 filess and 10500 words.
+27-07-2017 02:08:15 [SORT_ALGORITHM]: Exiting function.
+27-07-2017 02:08:15 [SORT_ALGORITHM]: Entered function.
+27-07-2017 02:08:15 [SORT_ALGORITHM]: No new words created for 3 filess and 10500 words.
+27-07-2017 02:08:15 [SORT_ALGORITHM]: Exiting function.
+27-07-2017 02:08:15 [SORT_ALGORITHM]: Entered function.
+27-07-2017 02:08:15 [SORT_ALGORITHM]: New word created have
+27-07-2017 02:08:15 [SORT_ALGORITHM]: No new words created for 3 filess and 10500 words.
+27-07-2017 02:08:15 [SORT_ALGORITHM]: Exiting function.
+27-07-2017 02:08:15 [SORT_ALGORITHM]: Entered function.
+27-07-2017 02:08:15 [SORT_ALGORITHM]: New word created been
+27-07-2017 02:08:15 [SORT_ALGORITHM]: No new words created for 3 filess and 10500 words.
+27-07-2017 02:08:15 [SORT_ALGORITHM]: Exiting function.
+27-07-2017 02:08:15 [SORT_ALGORITHM]: Entered function.
+27-07-2017 02:08:15 [SORT_ALGORITHM]: No new words created for 3 filess and 10500 words.
+27-07-2017 02:08:15 [SORT_ALGORITHM]: Exiting function.
+27-07-2017 02:08:15 [SORT_ALGORITHM]: Entered function.
+27-07-2017 02:08:15 [SORT_ALGORITHM]: No new words created for 3 filess and 10500 words.
+27-07-2017 02:08:15 [SORT_ALGORITHM]: Exiting function.
+27-07-2017 02:08:15 [SORT_ALGORITHM]: Entered function.
+27-07-2017 02:08:15 [SORT_ALGORITHM]: New word created every
+27-07-2017 02:08:15 [SORT_ALGORITHM]: No new words created for 3 filess and 10500 words.
+27-07-2017 02:08:15 [SORT_ALGORITHM]: Exiting function.
+27-07-2017 02:08:15 [SORT_ALGORITHM]: Entered function.
+27-07-2017 02:08:15 [SORT_ALGORITHM]: New word created major
+27-07-2017 02:08:15 [SORT_ALGORITHM]: New word created major
+27-07-2017 02:08:15 [SORT_ALGORITHM]: New word created major
+27-07-2017 02:08:15 [SORT_ALGORITHM]: No new words created for 3 filess and 10500 words.
+27-07-2017 02:08:15 [SORT_ALGORITHM]: Exiting function.
+27-07-2017 02:08:15 [SORT_ALGORITHM]: Entered function.
+27-07-2017 02:08:15 [SORT_ALGORITHM]: New word created living
+27-07-2017 02:08:15 [SORT_ALGORITHM]: New word created living
+27-07-2017 02:08:15 [SORT_ALGORITHM]: No new words created for 3 filess and 10500 words.
+27-07-2017 02:08:15 [SORT_ALGORITHM]: Exiting function.
+27-07-2017 02:08:15 [SORT_ALGORITHM]: Entered function.
+27-07-2017 02:08:15 [SORT_ALGORITHM]: New word created language
+27-07-2017 02:08:15 [SORT_ALGORITHM]: No new words created for 3 filess and 10500 words.
+27-07-2017 02:08:15 [SORT_ALGORITHM]: Exiting function.
+27-07-2017 02:08:15 [SORT_ALGORITHM]: Entered function.
+27-07-2017 02:08:15 [SORT_ALGORITHM]: No new words created for 3 filess and 10500 words.
+27-07-2017 02:08:15 [SORT_ALGORITHM]: Exiting function.
+27-07-2017 02:08:15 [SORT_ALGORITHM]: Entered function.
+27-07-2017 02:08:15 [SORT_ALGORITHM]: New word created are
+27-07-2017 02:08:15 [SORT_ALGORITHM]: No new words created for 3 filess and 10500 words.
+27-07-2017 02:08:15 [SORT_ALGORITHM]: Exiting function.
+27-07-2017 02:08:15 [SORT_ALGORITHM]: Entered function.
+27-07-2017 02:08:15 [SORT_ALGORITHM]: No new words created for 3 filess and 10500 words.
+27-07-2017 02:08:15 [SORT_ALGORITHM]: Exiting function.
+27-07-2017 02:08:15 [SORT_ALGORITHM]: Entered function.
+27-07-2017 02:08:15 [SORT_ALGORITHM]: New word created more
+27-07-2017 02:08:15 [SORT_ALGORITHM]: New word created more
+27-07-2017 02:08:15 [SORT_ALGORITHM]: No new words created for 3 filess and 10500 words.
+27-07-2017 02:08:15 [SORT_ALGORITHM]: Exiting function.
+27-07-2017 02:08:15 [SORT_ALGORITHM]: Entered function.
+27-07-2017 02:08:15 [SORT_ALGORITHM]: New word created often
+27-07-2017 02:08:15 [SORT_ALGORITHM]: No new words created for 3 filess and 10500 words.
+27-07-2017 02:08:15 [SORT_ALGORITHM]: Exiting function.
+27-07-2017 02:08:15 [SORT_ALGORITHM]: Entered function.
+27-07-2017 02:08:15 [SORT_ALGORITHM]: No new words created for 3 filess and 10500 words.
+27-07-2017 02:08:15 [SORT_ALGORITHM]: Exiting function.
+27-07-2017 02:08:15 [SORT_ALGORITHM]: Entered function.
+27-07-2017 02:08:15 [SORT_ALGORITHM]: New word created those
+27-07-2017 02:08:15 [SORT_ALGORITHM]: No new words created for 3 filess and 10500 words.
+27-07-2017 02:08:15 [SORT_ALGORITHM]: Exiting function.
+27-07-2017 02:08:15 [SORT_ALGORITHM]: Entered function.
+27-07-2017 02:08:15 [SORT_ALGORITHM]: New word created of
+27-07-2017 02:08:15 [SORT_ALGORITHM]: No new words created for 3 filess and 10500 words.
+27-07-2017 02:08:15 [SORT_ALGORITHM]: Exiting function.
+27-07-2017 02:08:15 [SORT_ALGORITHM]: Entered function.
+27-07-2017 02:08:15 [SORT_ALGORITHM]: New word created any
+27-07-2017 02:08:15 [SORT_ALGORITHM]: New word created any
+27-07-2017 02:08:15 [SORT_ALGORITHM]: No new words created for 3 filess and 10500 words.
+27-07-2017 02:08:15 [SORT_ALGORITHM]: Exiting function.
+27-07-2017 02:08:15 [SORT_ALGORITHM]: Entered function.
+27-07-2017 02:08:15 [SORT_ALGORITHM]: New word created other
+27-07-2017 02:08:15 [SORT_ALGORITHM]: New word created other
+27-07-2017 02:08:15 [SORT_ALGORITHM]: New word created other
+27-07-2017 02:08:15 [SORT_ALGORITHM]: No new words created for 3 filess and 10500 words.
+27-07-2017 02:08:15 [SORT_ALGORITHM]: Exiting function.
+27-07-2017 02:08:15 [SORT_ALGORITHM]: Entered function.
+27-07-2017 02:08:15 [SORT_ALGORITHM]: No new words created for 3 filess and 10500 words.
+27-07-2017 02:08:15 [SORT_ALGORITHM]: Exiting function.
+27-07-2017 02:08:15 [SORT_ALGORITHM]: Entered function.
+27-07-2017 02:08:15 [SORT_ALGORITHM]: New word created was
+27-07-2017 02:08:15 [SORT_ALGORITHM]: No new words created for 3 filess and 10500 words.
+27-07-2017 02:08:15 [SORT_ALGORITHM]: Exiting function.
+27-07-2017 02:08:15 [SORT_ALGORITHM]: Entered function.
+27-07-2017 02:08:15 [SORT_ALGORITHM]: New word created born
+27-07-2017 02:08:15 [SORT_ALGORITHM]: New word created born
+27-07-2017 02:08:15 [SORT_ALGORITHM]: No new words created for 3 filess and 10500 words.
+27-07-2017 02:08:15 [SORT_ALGORITHM]: Exiting function.
+27-07-2017 02:08:15 [SORT_ALGORITHM]: Entered function.
+27-07-2017 02:08:15 [SORT_ALGORITHM]: No new words created for 3 filess and 10500 words.
+27-07-2017 02:08:15 [SORT_ALGORITHM]: Exiting function.
+27-07-2017 02:08:15 [SORT_ALGORITHM]: Entered function.
+27-07-2017 02:08:15 [SORT_ALGORITHM]: No new words created for 3 filess and 10500 words.
+27-07-2017 02:08:15 [SORT_ALGORITHM]: Exiting function.
+27-07-2017 02:08:15 [SORT_ALGORITHM]: Entered function.
+27-07-2017 02:08:15 [SORT_ALGORITHM]: New word created up
+27-07-2017 02:08:15 [SORT_ALGORITHM]: New word created up
+27-07-2017 02:08:15 [SORT_ALGORITHM]: New word created up
+27-07-2017 02:08:15 [SORT_ALGORITHM]: No new words created for 3 filess and 10500 words.
+27-07-2017 02:08:15 [SORT_ALGORITHM]: Exiting function.
+27-07-2017 02:08:15 [SORT_ALGORITHM]: Entered function.
+27-07-2017 02:08:15 [SORT_ALGORITHM]: New word created in
+27-07-2017 02:08:15 [SORT_ALGORITHM]: No new words created for 3 filess and 10500 words.
+27-07-2017 02:08:15 [SORT_ALGORITHM]: Exiting function.
+27-07-2017 02:08:15 [SORT_ALGORITHM]: Entered function.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: No new words created for 3 filess and 10500 words.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: Exiting function.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: Entered function.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: No new words created for 3 filess and 10500 words.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: Exiting function.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: Entered function.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: No new words created for 3 filess and 10500 words.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: Exiting function.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: Entered function.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: New word created the
+27-07-2017 02:08:16 [SORT_ALGORITHM]: New word created the
+27-07-2017 02:08:16 [SORT_ALGORITHM]: New word created the
+27-07-2017 02:08:16 [SORT_ALGORITHM]: No new words created for 3 filess and 10500 words.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: Exiting function.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: Entered function.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: New word created age
+27-07-2017 02:08:16 [SORT_ALGORITHM]: New word created age
+27-07-2017 02:08:16 [SORT_ALGORITHM]: No new words created for 3 filess and 10500 words.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: Exiting function.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: Entered function.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: New word created of
+27-07-2017 02:08:16 [SORT_ALGORITHM]: No new words created for 3 filess and 10500 words.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: Exiting function.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: Entered function.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: No new words created for 3 filess and 10500 words.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: Exiting function.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: Entered function.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: New word created he
+27-07-2017 02:08:16 [SORT_ALGORITHM]: No new words created for 3 filess and 10500 words.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: Exiting function.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: Entered function.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: New word created married
+27-07-2017 02:08:16 [SORT_ALGORITHM]: New word created married
+27-07-2017 02:08:16 [SORT_ALGORITHM]: New word created married
+27-07-2017 02:08:16 [SORT_ALGORITHM]: No new words created for 3 filess and 10500 words.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: Exiting function.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: Entered function.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: No new words created for 3 filess and 10500 words.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: Exiting function.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: Entered function.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: No new words created for 3 filess and 10500 words.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: Exiting function.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: Entered function.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: No new words created for 3 filess and 10500 words.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: Exiting function.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: Entered function.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: No new words created for 3 filess and 10500 words.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: Exiting function.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: Entered function.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: New word created he
+27-07-2017 02:08:16 [SORT_ALGORITHM]: No new words created for 3 filess and 10500 words.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: Exiting function.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: Entered function.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: New word created had
+27-07-2017 02:08:16 [SORT_ALGORITHM]: No new words created for 3 filess and 10500 words.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: Exiting function.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: Entered function.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: New word created three
+27-07-2017 02:08:16 [SORT_ALGORITHM]: No new words created for 3 filess and 10500 words.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: Exiting function.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: Entered function.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: No new words created for 3 filess and 10500 words.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: Exiting function.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: Entered function.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: No new words created for 3 filess and 10500 words.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: Exiting function.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: Entered function.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: No new words created for 3 filess and 10500 words.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: Exiting function.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: Entered function.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: No new words created for 3 filess and 10500 words.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: Exiting function.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: Entered function.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: No new words created for 3 filess and 10500 words.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: Exiting function.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: Entered function.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: No new words created for 3 filess and 10500 words.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: Exiting function.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: Entered function.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: No new words created for 3 filess and 10500 words.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: Exiting function.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: Entered function.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: No new words created for 3 filess and 10500 words.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: Exiting function.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: Entered function.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: New word created between
+27-07-2017 02:08:16 [SORT_ALGORITHM]: No new words created for 3 filess and 10500 words.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: Exiting function.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: Entered function.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: No new words created for 3 filess and 10500 words.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: Exiting function.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: Entered function.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: No new words created for 3 filess and 10500 words.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: Exiting function.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: Entered function.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: No new words created for 3 filess and 10500 words.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: Exiting function.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: Entered function.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: New word created he
+27-07-2017 02:08:16 [SORT_ALGORITHM]: No new words created for 3 filess and 10500 words.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: Exiting function.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: Entered function.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: No new words created for 3 filess and 10500 words.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: Exiting function.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: Entered function.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: New word created a
+27-07-2017 02:08:16 [SORT_ALGORITHM]: No new words created for 3 filess and 10500 words.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: Exiting function.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: Entered function.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: New word created successful
+27-07-2017 02:08:16 [SORT_ALGORITHM]: No new words created for 3 filess and 10500 words.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: Exiting function.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: Entered function.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: New word created career
+27-07-2017 02:08:16 [SORT_ALGORITHM]: New word created career
+27-07-2017 02:08:16 [SORT_ALGORITHM]: New word created career
+27-07-2017 02:08:16 [SORT_ALGORITHM]: No new words created for 3 filess and 10500 words.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: Exiting function.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: Entered function.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: New word created in
+27-07-2017 02:08:16 [SORT_ALGORITHM]: No new words created for 3 filess and 10500 words.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: Exiting function.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: Entered function.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: No new words created for 3 filess and 10500 words.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: Exiting function.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: Entered function.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: New word created as
+27-07-2017 02:08:16 [SORT_ALGORITHM]: New word created as
+27-07-2017 02:08:16 [SORT_ALGORITHM]: No new words created for 3 filess and 10500 words.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: Exiting function.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: Entered function.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: No new words created for 3 filess and 10500 words.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: Exiting function.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: Entered function.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: No new words created for 3 filess and 10500 words.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: Exiting function.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: Entered function.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: No new words created for 3 filess and 10500 words.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: Exiting function.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: Entered function.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: No new words created for 3 filess and 10500 words.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: Exiting function.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: Entered function.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: No new words created for 3 filess and 10500 words.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: Exiting function.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: Entered function.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: New word created of
+27-07-2017 02:08:16 [SORT_ALGORITHM]: No new words created for 3 filess and 10500 words.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: Exiting function.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: Entered function.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: New word created a
+27-07-2017 02:08:16 [SORT_ALGORITHM]: No new words created for 3 filess and 10500 words.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: Exiting function.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: Entered function.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: No new words created for 3 filess and 10500 words.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: Exiting function.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: Entered function.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: New word created company
+27-07-2017 02:08:16 [SORT_ALGORITHM]: New word created company
+27-07-2017 02:08:16 [SORT_ALGORITHM]: No new words created for 3 filess and 10500 words.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: Exiting function.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: Entered function.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: No new words created for 3 filess and 10500 words.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: Exiting function.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: Entered function.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: New word created the
+27-07-2017 02:08:16 [SORT_ALGORITHM]: New word created the
+27-07-2017 02:08:16 [SORT_ALGORITHM]: New word created the
+27-07-2017 02:08:16 [SORT_ALGORITHM]: No new words created for 3 filess and 10500 words.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: Exiting function.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: Entered function.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: No new words created for 3 filess and 10500 words.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: Exiting function.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: Entered function.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: No new words created for 3 filess and 10500 words.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: Exiting function.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: Entered function.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: No new words created for 3 filess and 10500 words.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: Exiting function.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: Entered function.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: New word created later
+27-07-2017 02:08:16 [SORT_ALGORITHM]: No new words created for 3 filess and 10500 words.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: Exiting function.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: Entered function.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: New word created known
+27-07-2017 02:08:16 [SORT_ALGORITHM]: No new words created for 3 filess and 10500 words.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: Exiting function.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: Entered function.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: New word created as
+27-07-2017 02:08:16 [SORT_ALGORITHM]: New word created as
+27-07-2017 02:08:16 [SORT_ALGORITHM]: No new words created for 3 filess and 10500 words.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: Exiting function.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: Entered function.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: New word created the
+27-07-2017 02:08:16 [SORT_ALGORITHM]: New word created the
+27-07-2017 02:08:16 [SORT_ALGORITHM]: New word created the
+27-07-2017 02:08:16 [SORT_ALGORITHM]: No new words created for 3 filess and 10500 words.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: Exiting function.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: Entered function.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: No new words created for 3 filess and 10500 words.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: Exiting function.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: Entered function.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: No new words created for 3 filess and 10500 words.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: Exiting function.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: Entered function.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: No new words created for 3 filess and 10500 words.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: Exiting function.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: Entered function.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: No new words created for 3 filess and 10500 words.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: Exiting function.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: Entered function.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: New word created to
+27-07-2017 02:08:16 [SORT_ALGORITHM]: No new words created for 3 filess and 10500 words.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: Exiting function.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: Entered function.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: New word created have
+27-07-2017 02:08:16 [SORT_ALGORITHM]: No new words created for 3 filess and 10500 words.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: Exiting function.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: Entered function.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: No new words created for 3 filess and 10500 words.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: Exiting function.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: Entered function.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: New word created to
+27-07-2017 02:08:16 [SORT_ALGORITHM]: No new words created for 3 filess and 10500 words.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: Exiting function.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: Entered function.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: No new words created for 3 filess and 10500 words.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: Exiting function.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: Entered function.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: New word created around
+27-07-2017 02:08:16 [SORT_ALGORITHM]: No new words created for 3 filess and 10500 words.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: Exiting function.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: Entered function.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: No new words created for 3 filess and 10500 words.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: Exiting function.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: Entered function.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: No new words created for 3 filess and 10500 words.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: Exiting function.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: Entered function.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: New word created age
+27-07-2017 02:08:16 [SORT_ALGORITHM]: New word created age
+27-07-2017 02:08:16 [SORT_ALGORITHM]: No new words created for 3 filess and 10500 words.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: Exiting function.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: Entered function.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: No new words created for 3 filess and 10500 words.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: Exiting function.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: Entered function.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: New word created where
+27-07-2017 02:08:16 [SORT_ALGORITHM]: New word created where
+27-07-2017 02:08:16 [SORT_ALGORITHM]: No new words created for 3 filess and 10500 words.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: Exiting function.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: Entered function.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: New word created he
+27-07-2017 02:08:16 [SORT_ALGORITHM]: No new words created for 3 filess and 10500 words.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: Exiting function.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: Entered function.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: No new words created for 3 filess and 10500 words.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: Exiting function.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: Entered function.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: New word created three
+27-07-2017 02:08:16 [SORT_ALGORITHM]: No new words created for 3 filess and 10500 words.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: Exiting function.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: Entered function.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: No new words created for 3 filess and 10500 words.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: Exiting function.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: Entered function.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: No new words created for 3 filess and 10500 words.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: Exiting function.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: Entered function.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: No new words created for 3 filess and 10500 words.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: Exiting function.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: Entered function.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: No new words created for 3 filess and 10500 words.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: Exiting function.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: Entered function.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: New word created of
+27-07-2017 02:08:16 [SORT_ALGORITHM]: No new words created for 3 filess and 10500 words.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: Exiting function.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: Entered function.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: No new words created for 3 filess and 10500 words.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: Exiting function.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: Entered function.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: New word created private
+27-07-2017 02:08:16 [SORT_ALGORITHM]: New word created private
+27-07-2017 02:08:16 [SORT_ALGORITHM]: No new words created for 3 filess and 10500 words.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: Exiting function.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: Entered function.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: New word created life
+27-07-2017 02:08:16 [SORT_ALGORITHM]: New word created life
+27-07-2017 02:08:16 [SORT_ALGORITHM]: No new words created for 3 filess and 10500 words.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: Exiting function.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: Entered function.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: No new words created for 3 filess and 10500 words.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: Exiting function.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: Entered function.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: New word created which
+27-07-2017 02:08:16 [SORT_ALGORITHM]: New word created which
+27-07-2017 02:08:16 [SORT_ALGORITHM]: No new words created for 3 filess and 10500 words.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: Exiting function.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: Entered function.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: New word created has
+27-07-2017 02:08:16 [SORT_ALGORITHM]: No new words created for 3 filess and 10500 words.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: Exiting function.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: Entered function.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: No new words created for 3 filess and 10500 words.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: Exiting function.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: Entered function.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: No new words created for 3 filess and 10500 words.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: Exiting function.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: Entered function.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: No new words created for 3 filess and 10500 words.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: Exiting function.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: Entered function.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: New word created about
+27-07-2017 02:08:16 [SORT_ALGORITHM]: New word created about
+27-07-2017 02:08:16 [SORT_ALGORITHM]: No new words created for 3 filess and 10500 words.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: Exiting function.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: Entered function.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: New word created such
+27-07-2017 02:08:16 [SORT_ALGORITHM]: New word created such
+27-07-2017 02:08:16 [SORT_ALGORITHM]: No new words created for 3 filess and 10500 words.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: Exiting function.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: Entered function.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: No new words created for 3 filess and 10500 words.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: Exiting function.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: Entered function.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: New word created as
+27-07-2017 02:08:16 [SORT_ALGORITHM]: New word created as
+27-07-2017 02:08:16 [SORT_ALGORITHM]: No new words created for 3 filess and 10500 words.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: Exiting function.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: Entered function.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: New word created his
+27-07-2017 02:08:16 [SORT_ALGORITHM]: New word created his
+27-07-2017 02:08:16 [SORT_ALGORITHM]: No new words created for 3 filess and 10500 words.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: Exiting function.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: Entered function.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: New word created physical
+27-07-2017 02:08:16 [SORT_ALGORITHM]: New word created physical
+27-07-2017 02:08:16 [SORT_ALGORITHM]: No new words created for 3 filess and 10500 words.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: Exiting function.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: Entered function.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: No new words created for 3 filess and 10500 words.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: Exiting function.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: Entered function.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: No new words created for 3 filess and 10500 words.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: Exiting function.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: Entered function.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: No new words created for 3 filess and 10500 words.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: Exiting function.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: Entered function.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: No new words created for 3 filess and 10500 words.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: Exiting function.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: Entered function.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: No new words created for 3 filess and 10500 words.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: Exiting function.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: Entered function.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: No new words created for 3 filess and 10500 words.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: Exiting function.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: Entered function.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: New word created the
+27-07-2017 02:08:16 [SORT_ALGORITHM]: New word created the
+27-07-2017 02:08:16 [SORT_ALGORITHM]: New word created the
+27-07-2017 02:08:16 [SORT_ALGORITHM]: No new words created for 3 filess and 10500 words.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: Exiting function.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: Entered function.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: No new words created for 3 filess and 10500 words.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: Exiting function.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: Entered function.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: No new words created for 3 filess and 10500 words.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: Exiting function.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: Entered function.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: New word created to
+27-07-2017 02:08:16 [SORT_ALGORITHM]: No new words created for 3 filess and 10500 words.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: Exiting function.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: Entered function.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: New word created him
+27-07-2017 02:08:16 [SORT_ALGORITHM]: No new words created for 3 filess and 10500 words.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: Exiting function.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: Entered function.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: New word created were
+27-07-2017 02:08:16 [SORT_ALGORITHM]: No new words created for 3 filess and 10500 words.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: Exiting function.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: Entered function.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: No new words created for 3 filess and 10500 words.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: Exiting function.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: Entered function.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: New word created by
+27-07-2017 02:08:16 [SORT_ALGORITHM]: No new words created for 3 filess and 10500 words.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: Exiting function.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: Entered function.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: No new words created for 3 filess and 10500 words.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: Exiting function.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: Entered function.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: No new words created for 3 filess and 10500 words.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: Exiting function.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: Entered function.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: New word created most
+27-07-2017 02:08:16 [SORT_ALGORITHM]: New word created most
+27-07-2017 02:08:16 [SORT_ALGORITHM]: New word created most
+27-07-2017 02:08:16 [SORT_ALGORITHM]: No new words created for 3 filess and 10500 words.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: Exiting function.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: Entered function.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: New word created of
+27-07-2017 02:08:16 [SORT_ALGORITHM]: No new words created for 3 filess and 10500 words.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: Exiting function.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: Entered function.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: New word created his
+27-07-2017 02:08:16 [SORT_ALGORITHM]: New word created his
+27-07-2017 02:08:16 [SORT_ALGORITHM]: No new words created for 3 filess and 10500 words.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: Exiting function.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: Entered function.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: New word created known
+27-07-2017 02:08:16 [SORT_ALGORITHM]: No new words created for 3 filess and 10500 words.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: Exiting function.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: Entered function.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: New word created work
+27-07-2017 02:08:16 [SORT_ALGORITHM]: New word created work
+27-07-2017 02:08:16 [SORT_ALGORITHM]: New word created work
+27-07-2017 02:08:16 [SORT_ALGORITHM]: No new words created for 3 filess and 10500 words.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: Exiting function.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: Entered function.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: New word created between
+27-07-2017 02:08:16 [SORT_ALGORITHM]: No new words created for 3 filess and 10500 words.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: Exiting function.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: Entered function.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: No new words created for 3 filess and 10500 words.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: Exiting function.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: Entered function.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: No new words created for 3 filess and 10500 words.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: Exiting function.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: Entered function.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: No new words created for 3 filess and 10500 words.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: Exiting function.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: Entered function.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: No new words created for 3 filess and 10500 words.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: Exiting function.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: Entered function.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: No new words created for 3 filess and 10500 words.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: Exiting function.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: Entered function.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: New word created early
+27-07-2017 02:08:16 [SORT_ALGORITHM]: No new words created for 3 filess and 10500 words.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: Exiting function.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: Entered function.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: No new words created for 3 filess and 10500 words.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: Exiting function.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: Entered function.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: New word created were
+27-07-2017 02:08:16 [SORT_ALGORITHM]: No new words created for 3 filess and 10500 words.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: Exiting function.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: Entered function.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: New word created primarily
+27-07-2017 02:08:16 [SORT_ALGORITHM]: No new words created for 3 filess and 10500 words.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: Exiting function.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: Entered function.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: No new words created for 3 filess and 10500 words.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: Exiting function.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: Entered function.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: No new words created for 3 filess and 10500 words.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: Exiting function.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: Entered function.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: No new words created for 3 filess and 10500 words.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: Exiting function.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: Entered function.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: New word created which
+27-07-2017 02:08:16 [SORT_ALGORITHM]: New word created which
+27-07-2017 02:08:16 [SORT_ALGORITHM]: No new words created for 3 filess and 10500 words.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: Exiting function.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: Entered function.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: New word created are
+27-07-2017 02:08:16 [SORT_ALGORITHM]: No new words created for 3 filess and 10500 words.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: Exiting function.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: Entered function.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: No new words created for 3 filess and 10500 words.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: Exiting function.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: Entered function.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: New word created as
+27-07-2017 02:08:16 [SORT_ALGORITHM]: New word created as
+27-07-2017 02:08:16 [SORT_ALGORITHM]: No new words created for 3 filess and 10500 words.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: Exiting function.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: Entered function.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: New word created some
+27-07-2017 02:08:16 [SORT_ALGORITHM]: New word created some
+27-07-2017 02:08:16 [SORT_ALGORITHM]: New word created some
+27-07-2017 02:08:16 [SORT_ALGORITHM]: No new words created for 3 filess and 10500 words.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: Exiting function.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: Entered function.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: New word created of
+27-07-2017 02:08:16 [SORT_ALGORITHM]: No new words created for 3 filess and 10500 words.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: Exiting function.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: Entered function.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: New word created the
+27-07-2017 02:08:16 [SORT_ALGORITHM]: New word created the
+27-07-2017 02:08:16 [SORT_ALGORITHM]: New word created the
+27-07-2017 02:08:16 [SORT_ALGORITHM]: No new words created for 3 filess and 10500 words.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: Exiting function.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: Entered function.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: New word created best
+27-07-2017 02:08:16 [SORT_ALGORITHM]: New word created best
+27-07-2017 02:08:16 [SORT_ALGORITHM]: New word created best
+27-07-2017 02:08:16 [SORT_ALGORITHM]: No new words created for 3 filess and 10500 words.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: Exiting function.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: Entered function.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: New word created work
+27-07-2017 02:08:16 [SORT_ALGORITHM]: New word created work
+27-07-2017 02:08:16 [SORT_ALGORITHM]: New word created work
+27-07-2017 02:08:16 [SORT_ALGORITHM]: No new words created for 3 filess and 10500 words.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: Exiting function.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: Entered function.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: New word created ever
+27-07-2017 02:08:16 [SORT_ALGORITHM]: No new words created for 3 filess and 10500 words.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: Exiting function.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: Entered function.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: No new words created for 3 filess and 10500 words.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: Exiting function.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: Entered function.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: New word created in
+27-07-2017 02:08:16 [SORT_ALGORITHM]: No new words created for 3 filess and 10500 words.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: Exiting function.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: Entered function.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: New word created these
+27-07-2017 02:08:16 [SORT_ALGORITHM]: New word created these
+27-07-2017 02:08:16 [SORT_ALGORITHM]: No new words created for 3 filess and 10500 words.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: Exiting function.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: Entered function.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: No new words created for 3 filess and 10500 words.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: Exiting function.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: Entered function.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: No new words created for 3 filess and 10500 words.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: Exiting function.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: Entered function.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: New word created then
+27-07-2017 02:08:16 [SORT_ALGORITHM]: New word created then
+27-07-2017 02:08:16 [SORT_ALGORITHM]: No new words created for 3 filess and 10500 words.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: Exiting function.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: Entered function.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: No new words created for 3 filess and 10500 words.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: Exiting function.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: Entered function.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: New word created mainly
+27-07-2017 02:08:16 [SORT_ALGORITHM]: No new words created for 3 filess and 10500 words.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: Exiting function.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: Entered function.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: No new words created for 3 filess and 10500 words.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: Exiting function.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: Entered function.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: No new words created for 3 filess and 10500 words.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: Exiting function.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: Entered function.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: New word created about
+27-07-2017 02:08:16 [SORT_ALGORITHM]: New word created about
+27-07-2017 02:08:16 [SORT_ALGORITHM]: No new words created for 3 filess and 10500 words.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: Exiting function.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: Entered function.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: No new words created for 3 filess and 10500 words.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: Exiting function.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: Entered function.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: No new words created for 3 filess and 10500 words.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: Exiting function.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: Entered function.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: No new words created for 3 filess and 10500 words.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: Exiting function.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: Entered function.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: No new words created for 3 filess and 10500 words.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: Exiting function.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: Entered function.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: No new words created for 3 filess and 10500 words.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: Exiting function.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: Entered function.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: No new words created for 3 filess and 10500 words.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: Exiting function.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: Entered function.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: No new words created for 3 filess and 10500 words.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: Exiting function.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: Entered function.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: No new words created for 3 filess and 10500 words.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: Exiting function.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: Entered function.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: No new words created for 3 filess and 10500 words.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: Exiting function.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: Entered function.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: New word created some
+27-07-2017 02:08:16 [SORT_ALGORITHM]: New word created some
+27-07-2017 02:08:16 [SORT_ALGORITHM]: New word created some
+27-07-2017 02:08:16 [SORT_ALGORITHM]: No new words created for 3 filess and 10500 words.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: Exiting function.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: Entered function.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: New word created of
+27-07-2017 02:08:16 [SORT_ALGORITHM]: No new words created for 3 filess and 10500 words.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: Exiting function.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: Entered function.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: New word created the
+27-07-2017 02:08:16 [SORT_ALGORITHM]: New word created the
+27-07-2017 02:08:16 [SORT_ALGORITHM]: New word created the
+27-07-2017 02:08:16 [SORT_ALGORITHM]: No new words created for 3 filess and 10500 words.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: Exiting function.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: Entered function.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: No new words created for 3 filess and 10500 words.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: Exiting function.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: Entered function.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: No new words created for 3 filess and 10500 words.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: Exiting function.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: Entered function.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: New word created in
+27-07-2017 02:08:16 [SORT_ALGORITHM]: No new words created for 3 filess and 10500 words.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: Exiting function.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: Entered function.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: New word created the
+27-07-2017 02:08:16 [SORT_ALGORITHM]: New word created the
+27-07-2017 02:08:16 [SORT_ALGORITHM]: New word created the
+27-07-2017 02:08:16 [SORT_ALGORITHM]: No new words created for 3 filess and 10500 words.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: Exiting function.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: Entered function.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: No new words created for 3 filess and 10500 words.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: Exiting function.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: Entered function.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: No new words created for 3 filess and 10500 words.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: Exiting function.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: Entered function.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: No new words created for 3 filess and 10500 words.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: Exiting function.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: Entered function.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: New word created his
+27-07-2017 02:08:16 [SORT_ALGORITHM]: New word created his
+27-07-2017 02:08:16 [SORT_ALGORITHM]: No new words created for 3 filess and 10500 words.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: Exiting function.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: Entered function.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: New word created last
+27-07-2017 02:08:16 [SORT_ALGORITHM]: New word created last
+27-07-2017 02:08:16 [SORT_ALGORITHM]: New word created last
+27-07-2017 02:08:16 [SORT_ALGORITHM]: No new words created for 3 filess and 10500 words.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: Exiting function.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: Entered function.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: No new words created for 3 filess and 10500 words.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: Exiting function.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: Entered function.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: New word created he
+27-07-2017 02:08:16 [SORT_ALGORITHM]: No new words created for 3 filess and 10500 words.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: Exiting function.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: Entered function.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: No new words created for 3 filess and 10500 words.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: Exiting function.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: Entered function.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: No new words created for 3 filess and 10500 words.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: Exiting function.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: Entered function.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: New word created also
+27-07-2017 02:08:16 [SORT_ALGORITHM]: No new words created for 3 filess and 10500 words.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: Exiting function.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: Entered function.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: New word created known
+27-07-2017 02:08:16 [SORT_ALGORITHM]: No new words created for 3 filess and 10500 words.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: Exiting function.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: Entered function.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: New word created as
+27-07-2017 02:08:16 [SORT_ALGORITHM]: New word created as
+27-07-2017 02:08:16 [SORT_ALGORITHM]: No new words created for 3 filess and 10500 words.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: Exiting function.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: Entered function.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: No new words created for 3 filess and 10500 words.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: Exiting function.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: Entered function.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: No new words created for 3 filess and 10500 words.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: Exiting function.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: Entered function.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: No new words created for 3 filess and 10500 words.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: Exiting function.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: Entered function.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: No new words created for 3 filess and 10500 words.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: Exiting function.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: Entered function.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: New word created other
+27-07-2017 02:08:16 [SORT_ALGORITHM]: New word created other
+27-07-2017 02:08:16 [SORT_ALGORITHM]: New word created other
+27-07-2017 02:08:16 [SORT_ALGORITHM]: No new words created for 3 filess and 10500 words.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: Exiting function.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: Entered function.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: No new words created for 3 filess and 10500 words.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: Exiting function.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: Entered function.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: New word created of
+27-07-2017 02:08:16 [SORT_ALGORITHM]: No new words created for 3 filess and 10500 words.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: Exiting function.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: Entered function.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: New word created his
+27-07-2017 02:08:16 [SORT_ALGORITHM]: New word created his
+27-07-2017 02:08:16 [SORT_ALGORITHM]: No new words created for 3 filess and 10500 words.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: Exiting function.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: Entered function.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: No new words created for 3 filess and 10500 words.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: Exiting function.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: Entered function.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: New word created were
+27-07-2017 02:08:16 [SORT_ALGORITHM]: No new words created for 3 filess and 10500 words.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: Exiting function.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: Entered function.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: No new words created for 3 filess and 10500 words.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: Exiting function.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: Entered function.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: New word created in
+27-07-2017 02:08:16 [SORT_ALGORITHM]: No new words created for 3 filess and 10500 words.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: Exiting function.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: Entered function.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: No new words created for 3 filess and 10500 words.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: Exiting function.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: Entered function.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: New word created of
+27-07-2017 02:08:16 [SORT_ALGORITHM]: No new words created for 3 filess and 10500 words.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: Exiting function.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: Entered function.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: No new words created for 3 filess and 10500 words.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: Exiting function.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: Entered function.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: New word created quality
+27-07-2017 02:08:16 [SORT_ALGORITHM]: No new words created for 3 filess and 10500 words.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: Exiting function.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: Entered function.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: No new words created for 3 filess and 10500 words.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: Exiting function.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: Entered function.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: No new words created for 3 filess and 10500 words.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: Exiting function.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: Entered function.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: No new words created for 3 filess and 10500 words.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: Exiting function.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: Entered function.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: New word created his
+27-07-2017 02:08:16 [SORT_ALGORITHM]: New word created his
+27-07-2017 02:08:16 [SORT_ALGORITHM]: No new words created for 3 filess and 10500 words.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: Exiting function.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: Entered function.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: No new words created for 3 filess and 10500 words.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: Exiting function.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: Entered function.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: No new words created for 3 filess and 10500 words.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: Exiting function.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: Entered function.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: No new words created for 3 filess and 10500 words.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: Exiting function.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: Entered function.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: No new words created for 3 filess and 10500 words.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: Exiting function.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: Entered function.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: No new words created for 3 filess and 10500 words.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: Exiting function.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: Entered function.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: No new words created for 3 filess and 10500 words.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: Exiting function.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: Entered function.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: No new words created for 3 filess and 10500 words.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: Exiting function.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: Entered function.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: No new words created for 3 filess and 10500 words.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: Exiting function.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: Entered function.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: No new words created for 3 filess and 10500 words.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: Exiting function.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: Entered function.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: New word created two
+27-07-2017 02:08:16 [SORT_ALGORITHM]: No new words created for 3 filess and 10500 words.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: Exiting function.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: Entered function.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: No new words created for 3 filess and 10500 words.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: Exiting function.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: Entered function.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: No new words created for 3 filess and 10500 words.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: Exiting function.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: Entered function.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: No new words created for 3 filess and 10500 words.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: Exiting function.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: Entered function.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: No new words created for 3 filess and 10500 words.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: Exiting function.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: Entered function.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: New word created of
+27-07-2017 02:08:16 [SORT_ALGORITHM]: No new words created for 3 filess and 10500 words.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: Exiting function.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: Entered function.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: No new words created for 3 filess and 10500 words.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: Exiting function.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: Entered function.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: No new words created for 3 filess and 10500 words.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: Exiting function.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: Entered function.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: New word created a
+27-07-2017 02:08:16 [SORT_ALGORITHM]: No new words created for 3 filess and 10500 words.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: Exiting function.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: Entered function.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: New word created more
+27-07-2017 02:08:16 [SORT_ALGORITHM]: New word created more
+27-07-2017 02:08:16 [SORT_ALGORITHM]: No new words created for 3 filess and 10500 words.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: Exiting function.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: Entered function.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: No new words created for 3 filess and 10500 words.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: Exiting function.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: Entered function.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: New word created text
+27-07-2017 02:08:16 [SORT_ALGORITHM]: New word created text
+27-07-2017 02:08:16 [SORT_ALGORITHM]: No new words created for 3 filess and 10500 words.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: Exiting function.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: Entered function.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: New word created known
+27-07-2017 02:08:16 [SORT_ALGORITHM]: No new words created for 3 filess and 10500 words.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: Exiting function.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: Entered function.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: New word created as
+27-07-2017 02:08:16 [SORT_ALGORITHM]: New word created as
+27-07-2017 02:08:16 [SORT_ALGORITHM]: No new words created for 3 filess and 10500 words.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: Exiting function.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: Entered function.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: New word created the
+27-07-2017 02:08:16 [SORT_ALGORITHM]: New word created the
+27-07-2017 02:08:16 [SORT_ALGORITHM]: New word created the
+27-07-2017 02:08:16 [SORT_ALGORITHM]: No new words created for 3 filess and 10500 words.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: Exiting function.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: Entered function.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: No new words created for 3 filess and 10500 words.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: Exiting function.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: Entered function.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: No new words created for 3 filess and 10500 words.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: Exiting function.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: Entered function.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: New word created a
+27-07-2017 02:08:16 [SORT_ALGORITHM]: No new words created for 3 filess and 10500 words.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: Exiting function.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: Entered function.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: No new words created for 3 filess and 10500 words.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: Exiting function.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: Entered function.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: No new words created for 3 filess and 10500 words.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: Exiting function.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: Entered function.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: No new words created for 3 filess and 10500 words.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: Exiting function.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: Entered function.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: New word created of
+27-07-2017 02:08:16 [SORT_ALGORITHM]: No new words created for 3 filess and 10500 words.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: Exiting function.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: Entered function.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: New word created his
+27-07-2017 02:08:16 [SORT_ALGORITHM]: New word created his
+27-07-2017 02:08:16 [SORT_ALGORITHM]: No new words created for 3 filess and 10500 words.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: Exiting function.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: Entered function.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: New word created dramatic
+27-07-2017 02:08:16 [SORT_ALGORITHM]: No new words created for 3 filess and 10500 words.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: Exiting function.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: Entered function.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: No new words created for 3 filess and 10500 words.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: Exiting function.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: Entered function.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: New word created that
+27-07-2017 02:08:16 [SORT_ALGORITHM]: New word created that
+27-07-2017 02:08:16 [SORT_ALGORITHM]: New word created that
+27-07-2017 02:08:16 [SORT_ALGORITHM]: No new words created for 3 filess and 10500 words.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: Exiting function.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: Entered function.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: No new words created for 3 filess and 10500 words.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: Exiting function.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: Entered function.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: New word created all
+27-07-2017 02:08:16 [SORT_ALGORITHM]: New word created all
+27-07-2017 02:08:16 [SORT_ALGORITHM]: New word created all
+27-07-2017 02:08:16 [SORT_ALGORITHM]: No new words created for 3 filess and 10500 words.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: Exiting function.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: Entered function.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: New word created but
+27-07-2017 02:08:16 [SORT_ALGORITHM]: New word created but
+27-07-2017 02:08:16 [SORT_ALGORITHM]: No new words created for 3 filess and 10500 words.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: Exiting function.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: Entered function.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: New word created two
+27-07-2017 02:08:16 [SORT_ALGORITHM]: No new words created for 3 filess and 10500 words.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: Exiting function.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: Entered function.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: New word created of
+27-07-2017 02:08:16 [SORT_ALGORITHM]: No new words created for 3 filess and 10500 words.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: Exiting function.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: Entered function.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: New word created the
+27-07-2017 02:08:16 [SORT_ALGORITHM]: New word created the
+27-07-2017 02:08:16 [SORT_ALGORITHM]: New word created the
+27-07-2017 02:08:16 [SORT_ALGORITHM]: No new words created for 3 filess and 10500 words.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: Exiting function.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: Entered function.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: No new words created for 3 filess and 10500 words.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: Exiting function.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: Entered function.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: New word created now
+27-07-2017 02:08:16 [SORT_ALGORITHM]: New word created now
+27-07-2017 02:08:16 [SORT_ALGORITHM]: No new words created for 3 filess and 10500 words.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: Exiting function.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: Entered function.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: No new words created for 3 filess and 10500 words.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: Exiting function.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: Entered function.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: New word created as
+27-07-2017 02:08:16 [SORT_ALGORITHM]: New word created as
+27-07-2017 02:08:16 [SORT_ALGORITHM]: No new words created for 3 filess and 10500 words.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: Exiting function.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: Entered function.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: No new words created for 3 filess and 10500 words.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: Exiting function.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: Entered function.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: No new words created for 3 filess and 10500 words.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: Exiting function.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: Entered function.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: New word created was
+27-07-2017 02:08:16 [SORT_ALGORITHM]: No new words created for 3 filess and 10500 words.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: Exiting function.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: Entered function.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: No new words created for 3 filess and 10500 words.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: Exiting function.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: Entered function.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: No new words created for 3 filess and 10500 words.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: Exiting function.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: Entered function.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: New word created a
+27-07-2017 02:08:16 [SORT_ALGORITHM]: No new words created for 3 filess and 10500 words.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: Exiting function.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: Entered function.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: New word created poem
+27-07-2017 02:08:16 [SORT_ALGORITHM]: No new words created for 3 filess and 10500 words.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: Exiting function.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: Entered function.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: New word created by
+27-07-2017 02:08:16 [SORT_ALGORITHM]: No new words created for 3 filess and 10500 words.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: Exiting function.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: Entered function.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: No new words created for 3 filess and 10500 words.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: Exiting function.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: Entered function.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: No new words created for 3 filess and 10500 words.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: Exiting function.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: Entered function.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: New word created in
+27-07-2017 02:08:16 [SORT_ALGORITHM]: No new words created for 3 filess and 10500 words.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: Exiting function.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: Entered function.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: New word created which
+27-07-2017 02:08:16 [SORT_ALGORITHM]: New word created which
+27-07-2017 02:08:16 [SORT_ALGORITHM]: No new words created for 3 filess and 10500 words.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: Exiting function.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: Entered function.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: No new words created for 3 filess and 10500 words.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: Exiting function.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: Entered function.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: New word created is
+27-07-2017 02:08:16 [SORT_ALGORITHM]: No new words created for 3 filess and 10500 words.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: Exiting function.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: Entered function.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: No new words created for 3 filess and 10500 words.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: Exiting function.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: Entered function.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: No new words created for 3 filess and 10500 words.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: Exiting function.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: Entered function.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: New word created as
+27-07-2017 02:08:16 [SORT_ALGORITHM]: New word created as
+27-07-2017 02:08:16 [SORT_ALGORITHM]: No new words created for 3 filess and 10500 words.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: Exiting function.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: Entered function.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: No new words created for 3 filess and 10500 words.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: Exiting function.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: Entered function.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: New word created of
+27-07-2017 02:08:16 [SORT_ALGORITHM]: No new words created for 3 filess and 10500 words.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: Exiting function.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: Entered function.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: No new words created for 3 filess and 10500 words.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: Exiting function.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: Entered function.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: No new words created for 3 filess and 10500 words.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: Exiting function.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: Entered function.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: New word created but
+27-07-2017 02:08:16 [SORT_ALGORITHM]: New word created but
+27-07-2017 02:08:16 [SORT_ALGORITHM]: No new words created for 3 filess and 10500 words.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: Exiting function.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: Entered function.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: No new words created for 3 filess and 10500 words.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: Exiting function.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: Entered function.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: New word created all
+27-07-2017 02:08:16 [SORT_ALGORITHM]: New word created all
+27-07-2017 02:08:16 [SORT_ALGORITHM]: New word created all
+27-07-2017 02:08:16 [SORT_ALGORITHM]: No new words created for 3 filess and 10500 words.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: Exiting function.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: Entered function.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: No new words created for 3 filess and 10500 words.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: Exiting function.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: Entered function.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: New word created the
+27-07-2017 02:08:16 [SORT_ALGORITHM]: New word created the
+27-07-2017 02:08:16 [SORT_ALGORITHM]: New word created the
+27-07-2017 02:08:16 [SORT_ALGORITHM]: No new words created for 3 filess and 10500 words.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: Exiting function.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: Entered function.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: No new words created for 3 filess and 10500 words.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: Exiting function.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: Entered function.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: No new words created for 3 filess and 10500 words.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: Exiting function.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: Entered function.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: No new words created for 3 filess and 10500 words.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: Exiting function.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: Entered function.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: No new words created for 3 filess and 10500 words.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: Exiting function.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: Entered function.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: New word created his
+27-07-2017 02:08:16 [SORT_ALGORITHM]: New word created his
+27-07-2017 02:08:16 [SORT_ALGORITHM]: No new words created for 3 filess and 10500 words.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: Exiting function.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: Entered function.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: No new words created for 3 filess and 10500 words.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: Exiting function.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: Entered function.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: New word created have
+27-07-2017 02:08:16 [SORT_ALGORITHM]: No new words created for 3 filess and 10500 words.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: Exiting function.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: Entered function.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: New word created been
+27-07-2017 02:08:16 [SORT_ALGORITHM]: No new words created for 3 filess and 10500 words.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: Exiting function.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: Entered function.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: No new words created for 3 filess and 10500 words.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: Exiting function.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: Entered function.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: No new words created for 3 filess and 10500 words.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: Exiting function.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: Entered function.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: No new words created for 3 filess and 10500 words.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: Exiting function.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: Entered function.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: No new words created for 3 filess and 10500 words.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: Exiting function.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: Entered function.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: New word created by
+27-07-2017 02:08:16 [SORT_ALGORITHM]: No new words created for 3 filess and 10500 words.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: Exiting function.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: Entered function.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: New word created new
+27-07-2017 02:08:16 [SORT_ALGORITHM]: New word created new
+27-07-2017 02:08:16 [SORT_ALGORITHM]: No new words created for 3 filess and 10500 words.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: Exiting function.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: Entered function.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: No new words created for 3 filess and 10500 words.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: Exiting function.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: Entered function.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: New word created in
+27-07-2017 02:08:16 [SORT_ALGORITHM]: No new words created for 3 filess and 10500 words.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: Exiting function.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: Entered function.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: No new words created for 3 filess and 10500 words.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: Exiting function.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: Entered function.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: No new words created for 3 filess and 10500 words.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: Exiting function.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: Entered function.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: No new words created for 3 filess and 10500 words.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: Exiting function.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: Entered function.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: No new words created for 3 filess and 10500 words.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: Exiting function.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: Entered function.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: No new words created for 3 filess and 10500 words.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: Exiting function.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: Entered function.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: New word created remain
+27-07-2017 02:08:16 [SORT_ALGORITHM]: No new words created for 3 filess and 10500 words.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: Exiting function.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: Entered function.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: New word created highly
+27-07-2017 02:08:16 [SORT_ALGORITHM]: No new words created for 3 filess and 10500 words.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: Exiting function.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: Entered function.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: New word created popular
+27-07-2017 02:08:16 [SORT_ALGORITHM]: No new words created for 3 filess and 10500 words.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: Exiting function.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: Entered function.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: No new words created for 3 filess and 10500 words.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: Exiting function.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: Entered function.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: New word created are
+27-07-2017 02:08:16 [SORT_ALGORITHM]: No new words created for 3 filess and 10500 words.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: Exiting function.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: Entered function.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: New word created constantly
+27-07-2017 02:08:16 [SORT_ALGORITHM]: No new words created for 3 filess and 10500 words.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: Exiting function.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: Entered function.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: No new words created for 3 filess and 10500 words.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: Exiting function.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: Entered function.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: No new words created for 3 filess and 10500 words.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: Exiting function.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: Entered function.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: No new words created for 3 filess and 10500 words.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: Exiting function.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: Entered function.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: No new words created for 3 filess and 10500 words.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: Exiting function.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: Entered function.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: New word created in
+27-07-2017 02:08:16 [SORT_ALGORITHM]: No new words created for 3 filess and 10500 words.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: Exiting function.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: Entered function.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: No new words created for 3 filess and 10500 words.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: Exiting function.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: Entered function.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: New word created cultural
+27-07-2017 02:08:16 [SORT_ALGORITHM]: No new words created for 3 filess and 10500 words.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: Exiting function.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: Entered function.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: No new words created for 3 filess and 10500 words.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: Exiting function.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: Entered function.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: New word created political
+27-07-2017 02:08:16 [SORT_ALGORITHM]: No new words created for 3 filess and 10500 words.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: Exiting function.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: Entered function.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: No new words created for 3 filess and 10500 words.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: Exiting function.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: Entered function.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: No new words created for 3 filess and 10500 words.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: Exiting function.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: Entered function.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: New word created the
+27-07-2017 02:08:16 [SORT_ALGORITHM]: New word created the
+27-07-2017 02:08:16 [SORT_ALGORITHM]: New word created the
+27-07-2017 02:08:16 [SORT_ALGORITHM]: No new words created for 3 filess and 10500 words.
+27-07-2017 02:08:16 [SORT_ALGORITHM]: Exiting function.

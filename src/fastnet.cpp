@@ -9,6 +9,7 @@
 using namespace std;
 
 int main(int argc, char **argv){
+	cout << date_time() << " [FASTNET]: Entered function." << endl;
 
 	ifstream file(argv[1]);
 	string line;
@@ -18,6 +19,8 @@ int main(int argc, char **argv){
 	int line_num = 0;
 
 	if(file.is_open()){
+		cout << date_time() << " [FASTNET]: File " << argv[1] << " succesfully opened." << endl;
+
 		while(getline(file, line)){
 			line_num++;
 			line_reader(line,line_num);
@@ -25,5 +28,8 @@ int main(int argc, char **argv){
 	}
 
 	file.close();
+
+	cout << date_time() << " [FASTNET]: Exiting function." << endl;
+
 	return 0;
 }

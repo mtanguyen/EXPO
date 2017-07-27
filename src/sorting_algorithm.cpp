@@ -26,7 +26,9 @@ string Word::get_type(){
 }
 
 void sorting_algorithm(string char_word, int line, int wordnum){
-    cout << date_time() << " [SORT_ALGORITHM]: Entered function." << endl;
+    ofstream logs("../doc/logs/sorting_algorithm.txt", ios::out | ios::app);
+
+    logs << date_time() << " [SORT_ALGORITHM]: Entered function." << endl;
     
     Word *word;
 
@@ -42,23 +44,25 @@ void sorting_algorithm(string char_word, int line, int wordnum){
                 word = new Word(char_word, line, wordnum, parts.at(i));
                 words.push_back(*word);
                 
-                cout << date_time() << "[SORT_ALGORITHM]: New word created " << word << endl;
+                logs << date_time() << " [SORT_ALGORITHM]: New word created " << word->get_word() << endl;
             }
             else {
                 // string type = plugin(word);
                 // Word word(word, line, wordnum, type);
                 // words.push_back(word);
 
-                cout << date_time() << "[SORT_ALGORITHM]: No new word created for word: " << char_word << endl;
-                cout << date_time() << "[SORT_ALGORITHM]: At this point parts_speech was: " << parts_speech[i][j] << endl;
+
+                if(i == 2 && j == 3499)
+                    logs << date_time() << " [SORT_ALGORITHM]: No new words created for " << i+1 << " filess and " << (j+1)*3 << " words." << endl;
                 
             }
         }
-    }
-<<<<<<< HEAD:src/SortAlgorithm.cpp
 
-    cout << date_time() << " [SORTALGORITHM]: Exiting function." << endl;
+        // if(i == 2)
+        //     dic_algorithm(char_word);
+    }
+
+    logs << date_time() << " [SORT_ALGORITHM]: Exiting function." << endl;
+
+    logs.close();
 }
-=======
-}
->>>>>>> 4cda051366ff8ef498dbd6da5c450d87521e46ad:src/sorting_algorithm.cpp

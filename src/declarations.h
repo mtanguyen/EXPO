@@ -14,6 +14,8 @@ extern void line_reader(string line, int line_num);
 extern void setup_algorithm();
 extern string date_time();
 extern void sorting_algorithm(string word, int line, int wordnum);
+extern vector<string> dic_algorithm(string wordToGet);
+extern void find_function();
 
 class Word{
 private:

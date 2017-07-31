@@ -9,27 +9,38 @@
 using namespace std;
 
 int main(int argc, char **argv){
-	cout << date_time() << " [FASTNET]: Entered function." << endl;
-
 	ifstream file(argv[1]);
+	ofstream logs("../doc/logs/fastnet.txt", ios::out | ios::app);
+
+	cout << date_time() << " [FASTNet]: Program started running..." << endl;
+	logs << date_time() << " [FASTNet]: Entered function." << endl;
+
+	int line_num = 0;
 	string line;
 
 	setup_algorithm();
 
-	int line_num = 0;
-
 	if(file.is_open()){
-		cout << date_time() << " [FASTNET]: File " << argv[1] << " succesfully opened." << endl;
+		logs << date_time() << " [FASTNet]: File " << argv[1] << " succesfully opened." << endl;
 
 		while(getline(file, line)){
 			line_num++;
+			logs << date_time() << " [FASTNet]: Line: " << line << endl;
+			logs << date_time() << " [FASTNet]: Line Number: " << line_num << endl;
 			line_reader(line,line_num);
 		}
 	}
 
-	file.close();
+	cout << date_time() << " [FASTNet]: What word would you like to find." << endl;
+	string word_find;
+	cin >> word_find;
+	find_function(word_find);
 
-	cout << date_time() << " [FASTNET]: Exiting function." << endl;
+	logs << date_time() << " [FASTNet]: Exiting function." << endl;
+	cout << date_time() << " [FASTNet]: Closing program." << endl;
+
+	file.close();
+	logs.close();
 
 	return 0;
 }

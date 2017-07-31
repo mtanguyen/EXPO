@@ -54,9 +54,11 @@ void setup_algorithm(){
         }
         a++;
 
+        logs << date_time() << " [SETUP_ALGORITHM]: File " << word_files.at(a-1).c_str() << " closed." << endl;
         file.close();
     }
 
+    cout << date_time() << " [SETUP_ALGORITHM]: setup_algorithm initialized all variables properly." << endl;
     logs << date_time() << " [SETUP_ALGORITHM]: Exited function." << endl;
 
     logs.close();

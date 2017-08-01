@@ -15,7 +15,7 @@ static size_t WriteCallback(void *contents, size_t size, size_t nmemb, void *use
 
 vector<string> dic_algorithm(string wordToGet){
   CURL *curl;
-  CURLcode res;
+  //makeCURLcode res;
   string readBuffer;
 
   vector<string> word_types;
@@ -27,7 +27,7 @@ vector<string> dic_algorithm(string wordToGet){
     curl_easy_setopt(curl, CURLOPT_URL, address.c_str());
     curl_easy_setopt(curl, CURLOPT_WRITEFUNCTION, WriteCallback);
     curl_easy_setopt(curl, CURLOPT_WRITEDATA, &readBuffer);
-    res = curl_easy_perform(curl);
+    // res = curl_easy_perform(curl);
     curl_easy_cleanup(curl);
   }
 

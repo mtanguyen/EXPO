@@ -9,19 +9,22 @@
 using namespace std;
 
 int main(int argc, char **argv){
-	ifstream file(argv[1]);
+	int line_num = 0;
+	string line;
+
+	cout << date_time() << " [FASTNet]: Where is the file located." << endl;
+	getline(cin, line);
+
+	ifstream file(line);
 	ofstream logs("../doc/logs/fastnet.txt", ios::out | ios::app);
 
 	cout << date_time() << " [FASTNet]: Program started running..." << endl;
 	logs << date_time() << " [FASTNet]: Entered function." << endl;
 
-	int line_num = 0;
-	string line;
-
 	setup_algorithm();
 
 	if(file.is_open()){
-		logs << date_time() << " [FASTNet]: File " << argv[1] << " succesfully opened." << endl;
+		logs << date_time() << " [FASTNet]: File " << line << " succesfully opened." << endl;
 
 		while(getline(file, line)){
 			line_num++;
@@ -30,6 +33,7 @@ int main(int argc, char **argv){
 			line_reader(line,line_num);
 		}
 	}
+	else logs << date_time() << " [ERROR][FASTNet]: File was not opened, line 26." << endl;
 
 	cout << date_time() << " [FASTNet]: What would you like to find." << endl;
 	getline(cin, line);

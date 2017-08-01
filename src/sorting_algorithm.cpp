@@ -2,12 +2,9 @@
 
 using namespace std;
 
-vector<string> parts;
-vector<Word> words;
-
 Word::Word(string line_char, int line_num, int word_num, string plugin_type){
     word = line_char;
-    line = line_num;
+    line.push_back(line_num);
     wordnum.push_back(word_num);
     type.push_back(plugin_type);
 }
@@ -16,8 +13,12 @@ string Word::get_word(){
     return word;
 }
 
-int Word::get_line(){
-    return line;
+string Word::get_line(){
+    string return_string;
+    for(unsigned int i = 0; i < line.size(); i++){
+        return_string += " " + line.at(i);
+    }
+    return return_string;
 }
 
 string Word::get_wordnum(){
@@ -44,12 +45,15 @@ void Word::add_type(string plugin_type){
     type.push_back(plugin_type);
 }
 
+vector<Word> words;
+
 void sorting_algorithm(string char_word, int line, int wordnum){
     ofstream logs("../doc/logs/sorting_algorithm.txt", ios::out | ios::app);
 
     logs << date_time() << " [SORT_ALGORITHM]: Entered function." << endl;
     
     Word *word;
+    vector<string> parts;
 
     parts.push_back("Noun");
     parts.push_back("Adjective");
@@ -65,14 +69,21 @@ void sorting_algorithm(string char_word, int line, int wordnum){
                 logs << date_time() << " [SORT_ALGORITHM]: Word Number: " << wordnum << endl;
                 logs << date_time() << " [SORT_ALGORITHM]: Type: " << parts.at(i) << endl;
 
-                for(vector<Word>::iterator it = words.begin(); it != words.end(); it++){
-                    if(it->get_word() == char_word.c_str()){
-                        it->add_wordnum(wordnum);
-                        it->add_type(parts.at(i));
-                    }
-                    else{
-                        word = new Word(char_word, line, wordnum, parts.at(i));
-                        words.push_back(*word);
+                static int firsttime = 1;
+                if(firsttime){
+                    word = new Word(char_word, line, wordnum, parts.at(i));
+                    words.push_back(*word);
+                }
+                else{
+                    for(vector<Word>::iterator it = words.begin(); it != words.end(); it++){
+                        if(it->get_word() == char_word.c_str()){
+                            it->add_wordnum(wordnum);
+                            it->add_type(parts.at(i));
+                        }
+                        else{
+                            word = new Word(char_word, line, wordnum, parts.at(i));
+                            words.push_back(*word);
+                        }
                     }
                 }
                  

@@ -39,8 +39,10 @@ void find_function(string phrase_find){
             if(it->get_word() == phrase_words.at(i).c_str()){
                 logs << date_time() << " [FIND_FUNCTION]: Found the word " << phrase_words.at(i) << endl;
                 logs << date_time() << " [FIND_FUNCTION]: Line number: " << it->get_line() << endl;
-                logs << date_time() << " [FIND_FUNCTION]: Word number: " << (it->get_wordnum()).at(0) << endl;
-                logs << date_time() << " [FIND_FUNCTION]: Type: " << (it->get_type()).at(0) << endl;
+                logs << date_time() << " [FIND_FUNCTION]: Word number: " << it->get_wordnum() << endl;
+                logs << date_time() << " [FIND_FUNCTION]: Type: " << it->get_type() << endl;
+
+                it->get_line();
 
                 cout << date_time() << " [FIND_FUNCTION]: Found the word " << phrase_words.at(i) << endl;
                 cout << date_time() << " [FIND_FUNCTION]: Line number: " << it->get_line() << endl;

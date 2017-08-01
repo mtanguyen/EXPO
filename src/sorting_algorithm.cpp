@@ -16,7 +16,8 @@ string Word::get_word(){
 string Word::get_line(){
     string return_string;
     for(unsigned int i = 0; i < line.size(); i++){
-        return_string += " " + line.at(i);
+        return_string += to_string(line.at(i));
+        return_string += '\t';
     }
     return return_string;
 }
@@ -24,7 +25,8 @@ string Word::get_line(){
 string Word::get_wordnum(){
     string return_string;
     for(unsigned int i = 0; i < wordnum.size(); i++){
-        return_string += " " + wordnum.at(i);
+        return_string += to_string(wordnum.at(i));
+        return_string += '\t';
     }
     return return_string;
 }
@@ -32,9 +34,13 @@ string Word::get_wordnum(){
 string Word::get_type(){
     string return_string;
     for(unsigned int i = 0; i < type.size(); i++){
-        return_string += " " + type.at(i);
+        return_string += type.at(i);
     }
     return return_string;
+}
+
+void Word::add_line(int line_num){
+    line.push_back(line_num);
 }
 
 void Word::add_wordnum(int word_num){
@@ -69,23 +75,27 @@ void sorting_algorithm(string char_word, int line, int wordnum){
                 logs << date_time() << " [SORT_ALGORITHM]: Word Number: " << wordnum << endl;
                 logs << date_time() << " [SORT_ALGORITHM]: Type: " << parts.at(i) << endl;
 
-                static int firsttime = 1;
-                if(firsttime){
-                    word = new Word(char_word, line, wordnum, parts.at(i));
-                    words.push_back(*word);
-                }
-                else{
-                    for(vector<Word>::iterator it = words.begin(); it != words.end(); it++){
-                        if(it->get_word() == char_word.c_str()){
-                            it->add_wordnum(wordnum);
-                            it->add_type(parts.at(i));
-                        }
-                        else{
-                            word = new Word(char_word, line, wordnum, parts.at(i));
-                            words.push_back(*word);
-                        }
-                    }
-                }
+                // static int firsttime = 1;
+                // if(firsttime){
+                //     word = new Word(char_word, line, wordnum, parts.at(i));
+                //     words.push_back(*word);
+                // }
+                // else{
+                //     for(vector<Word>::iterator it = words.begin(); it != words.end(); it++){
+                //         if(it->get_word() == char_word.c_str()){
+                //             it->add_line(line);
+                //             it->add_wordnum(wordnum);
+                //             it->add_type(parts.at(i));
+                //         }
+                //         else{
+                //             word = new Word(char_word, line, wordnum, parts.at(i));
+                //             words.push_back(*word);
+                //         }
+                //     }
+                // }
+
+                word = new Word(char_word, line, wordnum, parts.at(i).c_str());
+                words.push_back(*word);
                  
                 logs << date_time() << " [SORT_ALGORITHM]: Word from Class: " << word->get_word() << endl;
                 logs << date_time() << " [SORT_ALGORITHM]: Line Number from Class: " << word->get_line() << endl;

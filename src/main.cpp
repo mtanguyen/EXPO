@@ -35,9 +35,11 @@ int main(int argc, char **argv){
 	}
 	else logs << date_time() << " [ERROR][FASTNet]: File was not opened, line 26." << endl;
 
-	cout << date_time() << " [FASTNet]: What would you like to find." << endl;
-	getline(cin, line);
-	find_function(line);
+	do{
+		cout << date_time() << " [FASTNet]: What would you like to find." << endl;
+		getline(cin, line);
+		find_function(line);
+	}while(line != "exit");
 
 	logs << date_time() << " [FASTNet]: Exiting function." << endl;
 	cout << date_time() << " [FASTNet]: Closing program." << endl;

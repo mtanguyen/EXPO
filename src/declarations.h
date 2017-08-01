@@ -35,8 +35,10 @@ public:
     string get_wordnum();
     string get_type();
 
+    void add_line(int);
     void add_wordnum(int);
     void add_type(string);
+
 };
 
 extern vector<Word> words;

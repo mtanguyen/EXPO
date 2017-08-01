@@ -1,7 +1,8 @@
 CC = g++
 DEBUG = -g
-CFLAGS = -Wall -c $(DEBUG)
+CFLAGS = -Wall -c -std=c++0x $(DEBUG)
 LFLAGS = -Wall $(DEBUG)
+LINCUL += -lcurl
 PROGRAM = FASTNet
 
 src = $(wildcard *.cpp)
@@ -9,7 +10,7 @@ obj = $(src:.cpp=.o)
 dep = $(obj:.o=.d)
 
 $(PROGRAM): $(obj)
-	$(CC) $(LFLAGS) $(obj) -o $(PROGRAM)
+	$(CC) $(LFLAGS) $(obj) -o $(PROGRAM) $(LINCUL)
 
 $(obj): $(src)
 	$(CC) $(CFLAGS) $(src)

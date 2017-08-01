@@ -31,10 +31,9 @@ int main(int argc, char **argv){
 		}
 	}
 
-	cout << date_time() << " [FASTNet]: What word would you like to find." << endl;
-	string word_find;
-	cin >> word_find;
-	find_function(word_find);
+	cout << date_time() << " [FASTNet]: What would you like to find." << endl;
+	getline(cin, line);
+	find_function(line);
 
 	logs << date_time() << " [FASTNet]: Exiting function." << endl;
 	cout << date_time() << " [FASTNet]: Closing program." << endl;

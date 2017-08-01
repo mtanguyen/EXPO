@@ -8,30 +8,40 @@ vector<Word> words;
 Word::Word(string line_char, int line_num, int word_num, string plugin_type){
     word = line_char;
     line = line_num;
-    wordnum = word_num;
-    type = plugin_type;
-}
-
-Word::Word(string line_char, int line_num, int word_num, vector<string> plugin_type){
-    word = line_char;
-    line = line_num;
-    wordnum = word_num;
-    if(plugin_type.size() == 2)
-        type = plugin_type.at(0) + ", " + plugin_type.at(1);
-    else type = plugin_type.at(0);
+    wordnum.push_back(word_num);
+    type.push_back(plugin_type);
 }
 
 string Word::get_word(){
     return word;
 }
+
 int Word::get_line(){
     return line;
 }
-int Word::get_wordnum(){
-    return wordnum;
+
+string Word::get_wordnum(){
+    string return_string;
+    for(unsigned int i = 0; i < wordnum.size(); i++){
+        return_string += " " + wordnum.at(i);
+    }
+    return return_string;
 }
+
 string Word::get_type(){
-    return type;
+    string return_string;
+    for(unsigned int i = 0; i < type.size(); i++){
+        return_string += " " + type.at(i);
+    }
+    return return_string;
+}
+
+void Word::add_wordnum(int word_num){
+    wordnum.push_back(word_num);
+}
+
+void Word::add_type(string plugin_type){
+    type.push_back(plugin_type);
 }
 
 void sorting_algorithm(string char_word, int line, int wordnum){
@@ -54,12 +64,22 @@ void sorting_algorithm(string char_word, int line, int wordnum){
                 logs << date_time() << " [SORT_ALGORITHM]: Line Number: " << line << endl;
                 logs << date_time() << " [SORT_ALGORITHM]: Word Number: " << wordnum << endl;
                 logs << date_time() << " [SORT_ALGORITHM]: Type: " << parts.at(i) << endl;
-                word = new Word(char_word, line, wordnum, parts.at(i));
+
+                for(vector<Word>::iterator it = words.begin(); it != words.end(); it++){
+                    if(it->get_word() == char_word.c_str()){
+                        it->add_wordnum(wordnum);
+                        it->add_type(parts.at(i));
+                    }
+                    else{
+                        word = new Word(char_word, line, wordnum, parts.at(i));
+                        words.push_back(*word);
+                    }
+                }
+                 
                 logs << date_time() << " [SORT_ALGORITHM]: Word from Class: " << word->get_word() << endl;
                 logs << date_time() << " [SORT_ALGORITHM]: Line Number from Class: " << word->get_line() << endl;
                 logs << date_time() << " [SORT_ALGORITHM]: Word Number from Class: " << word->get_wordnum() << endl;
                 logs << date_time() << " [SORT_ALGORITHM]: Type from Class: " << word->get_type() << endl;
-                words.push_back(*word);
                 
                 logs << date_time() << " [SORT_ALGORITHM]: New word created " << word->get_word() << endl;
             }

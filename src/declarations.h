@@ -22,15 +22,17 @@ class Word{
 private:
     string word;
     int line;
-    int wordnum;
-    string type;
+    vector<int> wordnum;
+    vector<string> type;
 public:
     Word(string,int,int,string);
     Word(string,int,int,vector<string>);
     string get_word();
     int get_line();
-    int get_wordnum();
+    string get_wordnum();
     string get_type();
+    void add_wordnum(int);
+    void add_type(string);
 };
 
 extern vector<Word> words;

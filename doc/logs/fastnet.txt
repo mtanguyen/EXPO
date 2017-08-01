@@ -657,3 +657,903 @@
 31-07-2017 10:59:32 [FASTNet]: Line: the world.
 31-07-2017 10:59:32 [FASTNet]: Line Number: 26
 31-07-2017 10:59:34 [FASTNet]: Exiting function.
+31-07-2017 01:36:08 [FASTNet]: Entered function.
+31-07-2017 01:36:08 [FASTNet]: File ../doc/file.txt succesfully opened.
+31-07-2017 01:36:08 [FASTNet]: Line: William Shakespeare (/ˈʃeɪkspɪər/;[1] 26 April 1564 (baptised) – 23 April 1616)[nb 1] was an English poet, playwright, and actor, widely
+31-07-2017 01:36:08 [FASTNet]: Line Number: 1
+31-07-2017 01:36:08 [FASTNet]: Line: regarded as the greatest writer in the English language and the world's pre-eminent dramatist.[2] He is often called England's national poet, 
+31-07-2017 01:36:08 [FASTNet]: Line Number: 2
+31-07-2017 01:36:08 [FASTNet]: Line: and the "Bard of Avon".[3][nb 2] His extant works, including collaborations, consist of approximately 38 plays,[nb 3] 154 sonnets, two long 
+31-07-2017 01:36:08 [FASTNet]: Line Number: 3
+31-07-2017 01:36:08 [FASTNet]: Line: narrative poems, and a few other verses, some of uncertain authorship. His plays have been translated into every major living language and 
+31-07-2017 01:36:08 [FASTNet]: Line Number: 4
+31-07-2017 01:36:08 [FASTNet]: Line: are performed more often than those of any other playwright.[4]
+31-07-2017 01:36:08 [FASTNet]: Line Number: 5
+31-07-2017 01:36:08 [FASTNet]: Line: 
+31-07-2017 01:36:08 [FASTNet]: Line Number: 6
+31-07-2017 01:36:08 [FASTNet]: Line: Shakespeare was born and brought up in Stratford-upon-Avon, Warwickshire. At the age of 18, he married Anne Hathaway, with whom he had three 
+31-07-2017 01:36:08 [FASTNet]: Line Number: 7
+31-07-2017 01:36:08 [FASTNet]: Line: children: Susanna, and twins Hamnet and Judith. Sometime between 1585 and 1592, he began a successful career in London as an actor, writer, 
+31-07-2017 01:36:08 [FASTNet]: Line Number: 8
+31-07-2017 01:36:08 [FASTNet]: Line: and part-owner of a playing company called the Lord Chamberlain's Men, later known as the King's Men. He appears to have retired to Stratford 
+31-07-2017 01:36:08 [FASTNet]: Line Number: 9
+31-07-2017 01:36:08 [FASTNet]: Line: around 1613, at age 49, where he died three years later. Few records of Shakespeare's private life survive, which has stimulated considerable 
+31-07-2017 01:36:08 [FASTNet]: Line Number: 10
+31-07-2017 01:36:08 [FASTNet]: Line: speculation about such matters as his physical appearance, sexuality, religious beliefs, and whether the works attributed to him were written 
+31-07-2017 01:36:08 [FASTNet]: Line Number: 11
+31-07-2017 01:36:08 [FASTNet]: Line: by others.[5]
+31-07-2017 01:36:08 [FASTNet]: Line Number: 12
+31-07-2017 01:36:08 [FASTNet]: Line: 
+31-07-2017 01:36:08 [FASTNet]: Line Number: 13
+31-07-2017 01:36:08 [FASTNet]: Line: Shakespeare produced most of his known work between 1589 and 1613.[6][nb 4] His early plays were primarily comedies and histories, which are 
+31-07-2017 01:36:08 [FASTNet]: Line Number: 14
+31-07-2017 01:36:08 [FASTNet]: Line: regarded as some of the best work ever produced in these genres. He then wrote mainly tragedies until about 1608, including Hamlet, Othello, 
+31-07-2017 01:36:08 [FASTNet]: Line Number: 15
+31-07-2017 01:36:08 [FASTNet]: Line: King Lear, and Macbeth, considered some of the finest works in the English language.[2] In his last phase, he wrote tragicomedies, also known 
+31-07-2017 01:36:08 [FASTNet]: Line Number: 16
+31-07-2017 01:36:08 [FASTNet]: Line: as romances, and collaborated with other playwrights.
+31-07-2017 01:36:08 [FASTNet]: Line Number: 17
+31-07-2017 01:36:08 [FASTNet]: Line: 
+31-07-2017 01:36:08 [FASTNet]: Line Number: 18
+31-07-2017 01:36:08 [FASTNet]: Line: Many of his plays were published in editions of varying quality and accuracy during his lifetime. In 1623, however, John Heminges and Henry 
+31-07-2017 01:36:08 [FASTNet]: Line Number: 19
+31-07-2017 01:36:08 [FASTNet]: Line: Condell, two friends and fellow actors of Shakespeare, published a more definitive text known as the First Folio, a posthumous collected 
+31-07-2017 01:36:08 [FASTNet]: Line Number: 20
+31-07-2017 01:36:08 [FASTNet]: Line: edition of his dramatic works that included all but two of the plays now recognised as Shakespeare's.[7] It was prefaced with a poem by Ben 
+31-07-2017 01:36:08 [FASTNet]: Line Number: 21
+31-07-2017 01:36:08 [FASTNet]: Line: Jonson, in which Shakespeare is hailed, presciently, as "not of an age, but for all time".[7]
+31-07-2017 01:36:08 [FASTNet]: Line Number: 22
+31-07-2017 01:36:08 [FASTNet]: Line: 
+31-07-2017 01:36:08 [FASTNet]: Line Number: 23
+31-07-2017 01:36:08 [FASTNet]: Line: In the 20th and 21st centuries, his works have been repeatedly adapted and rediscovered by new movements in scholarship and performance. His 
+31-07-2017 01:36:08 [FASTNet]: Line Number: 24
+31-07-2017 01:36:08 [FASTNet]: Line: plays remain highly popular and are constantly studied, performed, and reinterpreted in diverse cultural and political contexts throughout 
+31-07-2017 01:36:08 [FASTNet]: Line Number: 25
+31-07-2017 01:36:08 [FASTNet]: Line: the world.
+31-07-2017 01:36:08 [FASTNet]: Line Number: 26
+31-07-2017 01:36:20 [FASTNet]: Exiting function.
+31-07-2017 01:36:23 [FASTNet]: Entered function.
+31-07-2017 01:36:24 [FASTNet]: File ../doc/file.txt succesfully opened.
+31-07-2017 01:36:24 [FASTNet]: Line: William Shakespeare (/ˈʃeɪkspɪər/;[1] 26 April 1564 (baptised) – 23 April 1616)[nb 1] was an English poet, playwright, and actor, widely
+31-07-2017 01:36:24 [FASTNet]: Line Number: 1
+31-07-2017 01:36:24 [FASTNet]: Line: regarded as the greatest writer in the English language and the world's pre-eminent dramatist.[2] He is often called England's national poet, 
+31-07-2017 01:36:24 [FASTNet]: Line Number: 2
+31-07-2017 01:36:24 [FASTNet]: Line: and the "Bard of Avon".[3][nb 2] His extant works, including collaborations, consist of approximately 38 plays,[nb 3] 154 sonnets, two long 
+31-07-2017 01:36:24 [FASTNet]: Line Number: 3
+31-07-2017 01:36:24 [FASTNet]: Line: narrative poems, and a few other verses, some of uncertain authorship. His plays have been translated into every major living language and 
+31-07-2017 01:36:24 [FASTNet]: Line Number: 4
+31-07-2017 01:36:24 [FASTNet]: Line: are performed more often than those of any other playwright.[4]
+31-07-2017 01:36:24 [FASTNet]: Line Number: 5
+31-07-2017 01:36:24 [FASTNet]: Line: 
+31-07-2017 01:36:24 [FASTNet]: Line Number: 6
+31-07-2017 01:36:24 [FASTNet]: Line: Shakespeare was born and brought up in Stratford-upon-Avon, Warwickshire. At the age of 18, he married Anne Hathaway, with whom he had three 
+31-07-2017 01:36:24 [FASTNet]: Line Number: 7
+31-07-2017 01:36:24 [FASTNet]: Line: children: Susanna, and twins Hamnet and Judith. Sometime between 1585 and 1592, he began a successful career in London as an actor, writer, 
+31-07-2017 01:36:24 [FASTNet]: Line Number: 8
+31-07-2017 01:36:24 [FASTNet]: Line: and part-owner of a playing company called the Lord Chamberlain's Men, later known as the King's Men. He appears to have retired to Stratford 
+31-07-2017 01:36:24 [FASTNet]: Line Number: 9
+31-07-2017 01:36:24 [FASTNet]: Line: around 1613, at age 49, where he died three years later. Few records of Shakespeare's private life survive, which has stimulated considerable 
+31-07-2017 01:36:24 [FASTNet]: Line Number: 10
+31-07-2017 01:36:24 [FASTNet]: Line: speculation about such matters as his physical appearance, sexuality, religious beliefs, and whether the works attributed to him were written 
+31-07-2017 01:36:24 [FASTNet]: Line Number: 11
+31-07-2017 01:36:24 [FASTNet]: Line: by others.[5]
+31-07-2017 01:36:24 [FASTNet]: Line Number: 12
+31-07-2017 01:36:24 [FASTNet]: Line: 
+31-07-2017 01:36:24 [FASTNet]: Line Number: 13
+31-07-2017 01:36:24 [FASTNet]: Line: Shakespeare produced most of his known work between 1589 and 1613.[6][nb 4] His early plays were primarily comedies and histories, which are 
+31-07-2017 01:36:24 [FASTNet]: Line Number: 14
+31-07-2017 01:36:24 [FASTNet]: Line: regarded as some of the best work ever produced in these genres. He then wrote mainly tragedies until about 1608, including Hamlet, Othello, 
+31-07-2017 01:36:24 [FASTNet]: Line Number: 15
+31-07-2017 01:36:24 [FASTNet]: Line: King Lear, and Macbeth, considered some of the finest works in the English language.[2] In his last phase, he wrote tragicomedies, also known 
+31-07-2017 01:36:24 [FASTNet]: Line Number: 16
+31-07-2017 01:36:24 [FASTNet]: Line: as romances, and collaborated with other playwrights.
+31-07-2017 01:36:24 [FASTNet]: Line Number: 17
+31-07-2017 01:36:24 [FASTNet]: Line: 
+31-07-2017 01:36:24 [FASTNet]: Line Number: 18
+31-07-2017 01:36:24 [FASTNet]: Line: Many of his plays were published in editions of varying quality and accuracy during his lifetime. In 1623, however, John Heminges and Henry 
+31-07-2017 01:36:24 [FASTNet]: Line Number: 19
+31-07-2017 01:36:24 [FASTNet]: Line: Condell, two friends and fellow actors of Shakespeare, published a more definitive text known as the First Folio, a posthumous collected 
+31-07-2017 01:36:24 [FASTNet]: Line Number: 20
+31-07-2017 01:36:24 [FASTNet]: Line: edition of his dramatic works that included all but two of the plays now recognised as Shakespeare's.[7] It was prefaced with a poem by Ben 
+31-07-2017 01:36:24 [FASTNet]: Line Number: 21
+31-07-2017 01:36:24 [FASTNet]: Line: Jonson, in which Shakespeare is hailed, presciently, as "not of an age, but for all time".[7]
+31-07-2017 01:36:24 [FASTNet]: Line Number: 22
+31-07-2017 01:36:24 [FASTNet]: Line: 
+31-07-2017 01:36:24 [FASTNet]: Line Number: 23
+31-07-2017 01:36:24 [FASTNet]: Line: In the 20th and 21st centuries, his works have been repeatedly adapted and rediscovered by new movements in scholarship and performance. His 
+31-07-2017 01:36:24 [FASTNet]: Line Number: 24
+31-07-2017 01:36:24 [FASTNet]: Line: plays remain highly popular and are constantly studied, performed, and reinterpreted in diverse cultural and political contexts throughout 
+31-07-2017 01:36:24 [FASTNet]: Line Number: 25
+31-07-2017 01:36:24 [FASTNet]: Line: the world.
+31-07-2017 01:36:24 [FASTNet]: Line Number: 26
+31-07-2017 01:36:26 [FASTNet]: Exiting function.
+31-07-2017 01:43:06 [FASTNet]: Entered function.
+31-07-2017 01:43:06 [FASTNet]: File ../doc/file.txt succesfully opened.
+31-07-2017 01:43:06 [FASTNet]: Line: William Shakespeare (/ˈʃeɪkspɪər/;[1] 26 April 1564 (baptised) – 23 April 1616)[nb 1] was an English poet, playwright, and actor, widely
+31-07-2017 01:43:06 [FASTNet]: Line Number: 1
+31-07-2017 01:43:06 [FASTNet]: Line: regarded as the greatest writer in the English language and the world's pre-eminent dramatist.[2] He is often called England's national poet, 
+31-07-2017 01:43:06 [FASTNet]: Line Number: 2
+31-07-2017 01:43:06 [FASTNet]: Line: and the "Bard of Avon".[3][nb 2] His extant works, including collaborations, consist of approximately 38 plays,[nb 3] 154 sonnets, two long 
+31-07-2017 01:43:06 [FASTNet]: Line Number: 3
+31-07-2017 01:43:06 [FASTNet]: Line: narrative poems, and a few other verses, some of uncertain authorship. His plays have been translated into every major living language and 
+31-07-2017 01:43:06 [FASTNet]: Line Number: 4
+31-07-2017 01:43:06 [FASTNet]: Line: are performed more often than those of any other playwright.[4]
+31-07-2017 01:43:06 [FASTNet]: Line Number: 5
+31-07-2017 01:43:06 [FASTNet]: Line: 
+31-07-2017 01:43:06 [FASTNet]: Line Number: 6
+31-07-2017 01:43:06 [FASTNet]: Line: Shakespeare was born and brought up in Stratford-upon-Avon, Warwickshire. At the age of 18, he married Anne Hathaway, with whom he had three 
+31-07-2017 01:43:06 [FASTNet]: Line Number: 7
+31-07-2017 01:43:06 [FASTNet]: Line: children: Susanna, and twins Hamnet and Judith. Sometime between 1585 and 1592, he began a successful career in London as an actor, writer, 
+31-07-2017 01:43:06 [FASTNet]: Line Number: 8
+31-07-2017 01:43:06 [FASTNet]: Line: and part-owner of a playing company called the Lord Chamberlain's Men, later known as the King's Men. He appears to have retired to Stratford 
+31-07-2017 01:43:06 [FASTNet]: Line Number: 9
+31-07-2017 01:43:06 [FASTNet]: Line: around 1613, at age 49, where he died three years later. Few records of Shakespeare's private life survive, which has stimulated considerable 
+31-07-2017 01:43:06 [FASTNet]: Line Number: 10
+31-07-2017 01:43:06 [FASTNet]: Line: speculation about such matters as his physical appearance, sexuality, religious beliefs, and whether the works attributed to him were written 
+31-07-2017 01:43:06 [FASTNet]: Line Number: 11
+31-07-2017 01:43:06 [FASTNet]: Line: by others.[5]
+31-07-2017 01:43:06 [FASTNet]: Line Number: 12
+31-07-2017 01:43:06 [FASTNet]: Line: 
+31-07-2017 01:43:06 [FASTNet]: Line Number: 13
+31-07-2017 01:43:06 [FASTNet]: Line: Shakespeare produced most of his known work between 1589 and 1613.[6][nb 4] His early plays were primarily comedies and histories, which are 
+31-07-2017 01:43:06 [FASTNet]: Line Number: 14
+31-07-2017 01:43:06 [FASTNet]: Line: regarded as some of the best work ever produced in these genres. He then wrote mainly tragedies until about 1608, including Hamlet, Othello, 
+31-07-2017 01:43:06 [FASTNet]: Line Number: 15
+31-07-2017 01:43:06 [FASTNet]: Line: King Lear, and Macbeth, considered some of the finest works in the English language.[2] In his last phase, he wrote tragicomedies, also known 
+31-07-2017 01:43:06 [FASTNet]: Line Number: 16
+31-07-2017 01:43:06 [FASTNet]: Line: as romances, and collaborated with other playwrights.
+31-07-2017 01:43:06 [FASTNet]: Line Number: 17
+31-07-2017 01:43:06 [FASTNet]: Line: 
+31-07-2017 01:43:06 [FASTNet]: Line Number: 18
+31-07-2017 01:43:06 [FASTNet]: Line: Many of his plays were published in editions of varying quality and accuracy during his lifetime. In 1623, however, John Heminges and Henry 
+31-07-2017 01:43:06 [FASTNet]: Line Number: 19
+31-07-2017 01:43:06 [FASTNet]: Line: Condell, two friends and fellow actors of Shakespeare, published a more definitive text known as the First Folio, a posthumous collected 
+31-07-2017 01:43:06 [FASTNet]: Line Number: 20
+31-07-2017 01:43:06 [FASTNet]: Line: edition of his dramatic works that included all but two of the plays now recognised as Shakespeare's.[7] It was prefaced with a poem by Ben 
+31-07-2017 01:43:06 [FASTNet]: Line Number: 21
+31-07-2017 01:43:06 [FASTNet]: Line: Jonson, in which Shakespeare is hailed, presciently, as "not of an age, but for all time".[7]
+31-07-2017 01:43:06 [FASTNet]: Line Number: 22
+31-07-2017 01:43:06 [FASTNet]: Line: 
+31-07-2017 01:43:06 [FASTNet]: Line Number: 23
+31-07-2017 01:43:06 [FASTNet]: Line: In the 20th and 21st centuries, his works have been repeatedly adapted and rediscovered by new movements in scholarship and performance. His 
+31-07-2017 01:43:06 [FASTNet]: Line Number: 24
+31-07-2017 01:43:06 [FASTNet]: Line: plays remain highly popular and are constantly studied, performed, and reinterpreted in diverse cultural and political contexts throughout 
+31-07-2017 01:43:06 [FASTNet]: Line Number: 25
+31-07-2017 01:43:06 [FASTNet]: Line: the world.
+31-07-2017 01:43:06 [FASTNet]: Line Number: 26
+31-07-2017 01:43:15 [FASTNet]: Exiting function.
+01-08-2017 08:04:47 [FASTNet]: Entered function.
+01-08-2017 08:04:47 [FASTNet]: File ../doc/file.txt succesfully opened.
+01-08-2017 08:04:47 [FASTNet]: Line: William Shakespeare (/ˈʃeɪkspɪər/;[1] 26 April 1564 (baptised) – 23 April 1616)[nb 1] was an English poet, playwright, and actor, widely
+01-08-2017 08:04:47 [FASTNet]: Line Number: 1
+01-08-2017 08:04:47 [FASTNet]: Line: regarded as the greatest writer in the English language and the world's pre-eminent dramatist.[2] He is often called England's national poet, 
+01-08-2017 08:04:47 [FASTNet]: Line Number: 2
+01-08-2017 08:04:47 [FASTNet]: Line: and the "Bard of Avon".[3][nb 2] His extant works, including collaborations, consist of approximately 38 plays,[nb 3] 154 sonnets, two long 
+01-08-2017 08:04:47 [FASTNet]: Line Number: 3
+01-08-2017 08:04:47 [FASTNet]: Line: narrative poems, and a few other verses, some of uncertain authorship. His plays have been translated into every major living language and 
+01-08-2017 08:04:47 [FASTNet]: Line Number: 4
+01-08-2017 08:04:47 [FASTNet]: Line: are performed more often than those of any other playwright.[4]
+01-08-2017 08:04:47 [FASTNet]: Line Number: 5
+01-08-2017 08:04:47 [FASTNet]: Line: 
+01-08-2017 08:04:47 [FASTNet]: Line Number: 6
+01-08-2017 08:04:47 [FASTNet]: Line: Shakespeare was born and brought up in Stratford-upon-Avon, Warwickshire. At the age of 18, he married Anne Hathaway, with whom he had three 
+01-08-2017 08:04:47 [FASTNet]: Line Number: 7
+01-08-2017 08:04:47 [FASTNet]: Line: children: Susanna, and twins Hamnet and Judith. Sometime between 1585 and 1592, he began a successful career in London as an actor, writer, 
+01-08-2017 08:04:47 [FASTNet]: Line Number: 8
+01-08-2017 08:04:47 [FASTNet]: Line: and part-owner of a playing company called the Lord Chamberlain's Men, later known as the King's Men. He appears to have retired to Stratford 
+01-08-2017 08:04:47 [FASTNet]: Line Number: 9
+01-08-2017 08:04:47 [FASTNet]: Line: around 1613, at age 49, where he died three years later. Few records of Shakespeare's private life survive, which has stimulated considerable 
+01-08-2017 08:04:47 [FASTNet]: Line Number: 10
+01-08-2017 08:04:47 [FASTNet]: Line: speculation about such matters as his physical appearance, sexuality, religious beliefs, and whether the works attributed to him were written 
+01-08-2017 08:04:47 [FASTNet]: Line Number: 11
+01-08-2017 08:04:47 [FASTNet]: Line: by others.[5]
+01-08-2017 08:04:47 [FASTNet]: Line Number: 12
+01-08-2017 08:04:47 [FASTNet]: Line: 
+01-08-2017 08:04:47 [FASTNet]: Line Number: 13
+01-08-2017 08:04:47 [FASTNet]: Line: Shakespeare produced most of his known work between 1589 and 1613.[6][nb 4] His early plays were primarily comedies and histories, which are 
+01-08-2017 08:04:47 [FASTNet]: Line Number: 14
+01-08-2017 08:04:47 [FASTNet]: Line: regarded as some of the best work ever produced in these genres. He then wrote mainly tragedies until about 1608, including Hamlet, Othello, 
+01-08-2017 08:04:47 [FASTNet]: Line Number: 15
+01-08-2017 08:04:47 [FASTNet]: Line: King Lear, and Macbeth, considered some of the finest works in the English language.[2] In his last phase, he wrote tragicomedies, also known 
+01-08-2017 08:04:47 [FASTNet]: Line Number: 16
+01-08-2017 08:04:47 [FASTNet]: Line: as romances, and collaborated with other playwrights.
+01-08-2017 08:04:47 [FASTNet]: Line Number: 17
+01-08-2017 08:04:47 [FASTNet]: Line: 
+01-08-2017 08:04:47 [FASTNet]: Line Number: 18
+01-08-2017 08:04:47 [FASTNet]: Line: Many of his plays were published in editions of varying quality and accuracy during his lifetime. In 1623, however, John Heminges and Henry 
+01-08-2017 08:04:47 [FASTNet]: Line Number: 19
+01-08-2017 08:04:47 [FASTNet]: Line: Condell, two friends and fellow actors of Shakespeare, published a more definitive text known as the First Folio, a posthumous collected 
+01-08-2017 08:04:47 [FASTNet]: Line Number: 20
+01-08-2017 08:04:47 [FASTNet]: Line: edition of his dramatic works that included all but two of the plays now recognised as Shakespeare's.[7] It was prefaced with a poem by Ben 
+01-08-2017 08:04:47 [FASTNet]: Line Number: 21
+01-08-2017 08:04:47 [FASTNet]: Line: Jonson, in which Shakespeare is hailed, presciently, as "not of an age, but for all time".[7]
+01-08-2017 08:04:47 [FASTNet]: Line Number: 22
+01-08-2017 08:04:47 [FASTNet]: Line: 
+01-08-2017 08:04:47 [FASTNet]: Line Number: 23
+01-08-2017 08:04:47 [FASTNet]: Line: In the 20th and 21st centuries, his works have been repeatedly adapted and rediscovered by new movements in scholarship and performance. His 
+01-08-2017 08:04:47 [FASTNet]: Line Number: 24
+01-08-2017 08:04:47 [FASTNet]: Line: plays remain highly popular and are constantly studied, performed, and reinterpreted in diverse cultural and political contexts throughout 
+01-08-2017 08:04:47 [FASTNet]: Line Number: 25
+01-08-2017 08:04:47 [FASTNet]: Line: the world.
+01-08-2017 08:04:47 [FASTNet]: Line Number: 26
+01-08-2017 08:04:58 [FASTNet]: Exiting function.
+01-08-2017 08:08:43 [FASTNet]: Entered function.
+01-08-2017 08:08:43 [FASTNet]: File ../doc/file.txt succesfully opened.
+01-08-2017 08:08:43 [FASTNet]: Line: William Shakespeare (/ˈʃeɪkspɪər/;[1] 26 April 1564 (baptised) – 23 April 1616)[nb 1] was an English poet, playwright, and actor, widely
+01-08-2017 08:08:43 [FASTNet]: Line Number: 1
+01-08-2017 08:08:43 [FASTNet]: Line: regarded as the greatest writer in the English language and the world's pre-eminent dramatist.[2] He is often called England's national poet, 
+01-08-2017 08:08:43 [FASTNet]: Line Number: 2
+01-08-2017 08:08:43 [FASTNet]: Line: and the "Bard of Avon".[3][nb 2] His extant works, including collaborations, consist of approximately 38 plays,[nb 3] 154 sonnets, two long 
+01-08-2017 08:08:43 [FASTNet]: Line Number: 3
+01-08-2017 08:08:43 [FASTNet]: Line: narrative poems, and a few other verses, some of uncertain authorship. His plays have been translated into every major living language and 
+01-08-2017 08:08:43 [FASTNet]: Line Number: 4
+01-08-2017 08:08:43 [FASTNet]: Line: are performed more often than those of any other playwright.[4]
+01-08-2017 08:08:43 [FASTNet]: Line Number: 5
+01-08-2017 08:08:43 [FASTNet]: Line: 
+01-08-2017 08:08:43 [FASTNet]: Line Number: 6
+01-08-2017 08:08:43 [FASTNet]: Line: Shakespeare was born and brought up in Stratford-upon-Avon, Warwickshire. At the age of 18, he married Anne Hathaway, with whom he had three 
+01-08-2017 08:08:43 [FASTNet]: Line Number: 7
+01-08-2017 08:08:43 [FASTNet]: Line: children: Susanna, and twins Hamnet and Judith. Sometime between 1585 and 1592, he began a successful career in London as an actor, writer, 
+01-08-2017 08:08:43 [FASTNet]: Line Number: 8
+01-08-2017 08:08:43 [FASTNet]: Line: and part-owner of a playing company called the Lord Chamberlain's Men, later known as the King's Men. He appears to have retired to Stratford 
+01-08-2017 08:08:43 [FASTNet]: Line Number: 9
+01-08-2017 08:08:44 [FASTNet]: Line: around 1613, at age 49, where he died three years later. Few records of Shakespeare's private life survive, which has stimulated considerable 
+01-08-2017 08:08:44 [FASTNet]: Line Number: 10
+01-08-2017 08:08:44 [FASTNet]: Line: speculation about such matters as his physical appearance, sexuality, religious beliefs, and whether the works attributed to him were written 
+01-08-2017 08:08:44 [FASTNet]: Line Number: 11
+01-08-2017 08:08:44 [FASTNet]: Line: by others.[5]
+01-08-2017 08:08:44 [FASTNet]: Line Number: 12
+01-08-2017 08:08:44 [FASTNet]: Line: 
+01-08-2017 08:08:44 [FASTNet]: Line Number: 13
+01-08-2017 08:08:44 [FASTNet]: Line: Shakespeare produced most of his known work between 1589 and 1613.[6][nb 4] His early plays were primarily comedies and histories, which are 
+01-08-2017 08:08:44 [FASTNet]: Line Number: 14
+01-08-2017 08:08:44 [FASTNet]: Line: regarded as some of the best work ever produced in these genres. He then wrote mainly tragedies until about 1608, including Hamlet, Othello, 
+01-08-2017 08:08:44 [FASTNet]: Line Number: 15
+01-08-2017 08:08:44 [FASTNet]: Line: King Lear, and Macbeth, considered some of the finest works in the English language.[2] In his last phase, he wrote tragicomedies, also known 
+01-08-2017 08:08:44 [FASTNet]: Line Number: 16
+01-08-2017 08:08:44 [FASTNet]: Line: as romances, and collaborated with other playwrights.
+01-08-2017 08:08:44 [FASTNet]: Line Number: 17
+01-08-2017 08:08:44 [FASTNet]: Line: 
+01-08-2017 08:08:44 [FASTNet]: Line Number: 18
+01-08-2017 08:08:44 [FASTNet]: Line: Many of his plays were published in editions of varying quality and accuracy during his lifetime. In 1623, however, John Heminges and Henry 
+01-08-2017 08:08:44 [FASTNet]: Line Number: 19
+01-08-2017 08:08:44 [FASTNet]: Line: Condell, two friends and fellow actors of Shakespeare, published a more definitive text known as the First Folio, a posthumous collected 
+01-08-2017 08:08:44 [FASTNet]: Line Number: 20
+01-08-2017 08:08:44 [FASTNet]: Line: edition of his dramatic works that included all but two of the plays now recognised as Shakespeare's.[7] It was prefaced with a poem by Ben 
+01-08-2017 08:08:44 [FASTNet]: Line Number: 21
+01-08-2017 08:08:44 [FASTNet]: Line: Jonson, in which Shakespeare is hailed, presciently, as "not of an age, but for all time".[7]
+01-08-2017 08:08:44 [FASTNet]: Line Number: 22
+01-08-2017 08:08:44 [FASTNet]: Line: 
+01-08-2017 08:08:44 [FASTNet]: Line Number: 23
+01-08-2017 08:08:44 [FASTNet]: Line: In the 20th and 21st centuries, his works have been repeatedly adapted and rediscovered by new movements in scholarship and performance. His 
+01-08-2017 08:08:44 [FASTNet]: Line Number: 24
+01-08-2017 08:08:44 [FASTNet]: Line: plays remain highly popular and are constantly studied, performed, and reinterpreted in diverse cultural and political contexts throughout 
+01-08-2017 08:08:44 [FASTNet]: Line Number: 25
+01-08-2017 08:08:44 [FASTNet]: Line: the world.
+01-08-2017 08:08:44 [FASTNet]: Line Number: 26
+01-08-2017 08:08:48 [FASTNet]: Exiting function.
+01-08-2017 08:13:07 [FASTNet]: Entered function.
+01-08-2017 08:14:53 [FASTNet]: Entered function.
+01-08-2017 08:15:10 [FASTNet]: Exiting function.
+01-08-2017 08:15:19 [FASTNet]: Entered function.
+01-08-2017 08:15:41 [FASTNet]: Exiting function.
+01-08-2017 08:16:13 [FASTNet]: Entered function.
+01-08-2017 08:16:47 [FASTNet]: Exiting function.
+01-08-2017 08:16:51 [FASTNet]: Entered function.
+01-08-2017 08:17:07 [FASTNet]: Exiting function.
+01-08-2017 08:18:03 [FASTNet]: Entered function.
+01-08-2017 08:18:19 [FASTNet]: Exiting function.
+01-08-2017 08:22:07 [FASTNet]: Entered function.
+01-08-2017 08:22:10 [FASTNet]: Exiting function.
+01-08-2017 08:22:30 [FASTNet]: Entered function.
+01-08-2017 08:23:56 [FASTNet]: Exiting function.
+01-08-2017 08:25:04 [FASTNet]: Entered function.
+01-08-2017 08:26:07 [FASTNet]: Exiting function.
+01-08-2017 08:28:26 [FASTNet]: Entered function.
+01-08-2017 08:28:26 [FASTNet]: File ../doc/file.txt succesfully opened.
+01-08-2017 08:28:26 [FASTNet]: Line: William Shakespeare (/ˈʃeɪkspɪər/;[1] 26 April 1564 (baptised) – 23 April 1616)[nb 1] was an English poet, playwright, and actor, widely
+01-08-2017 08:28:26 [FASTNet]: Line Number: 1
+01-08-2017 08:28:26 [FASTNet]: Line: regarded as the greatest writer in the English language and the world's pre-eminent dramatist.[2] He is often called England's national poet, 
+01-08-2017 08:28:26 [FASTNet]: Line Number: 2
+01-08-2017 08:28:26 [FASTNet]: Line: and the "Bard of Avon".[3][nb 2] His extant works, including collaborations, consist of approximately 38 plays,[nb 3] 154 sonnets, two long 
+01-08-2017 08:28:26 [FASTNet]: Line Number: 3
+01-08-2017 08:28:26 [FASTNet]: Line: narrative poems, and a few other verses, some of uncertain authorship. His plays have been translated into every major living language and 
+01-08-2017 08:28:26 [FASTNet]: Line Number: 4
+01-08-2017 08:28:26 [FASTNet]: Line: are performed more often than those of any other playwright.[4]
+01-08-2017 08:28:26 [FASTNet]: Line Number: 5
+01-08-2017 08:28:26 [FASTNet]: Line: 
+01-08-2017 08:28:26 [FASTNet]: Line Number: 6
+01-08-2017 08:28:26 [FASTNet]: Line: Shakespeare was born and brought up in Stratford-upon-Avon, Warwickshire. At the age of 18, he married Anne Hathaway, with whom he had three 
+01-08-2017 08:28:26 [FASTNet]: Line Number: 7
+01-08-2017 08:28:26 [FASTNet]: Line: children: Susanna, and twins Hamnet and Judith. Sometime between 1585 and 1592, he began a successful career in London as an actor, writer, 
+01-08-2017 08:28:26 [FASTNet]: Line Number: 8
+01-08-2017 08:28:26 [FASTNet]: Line: and part-owner of a playing company called the Lord Chamberlain's Men, later known as the King's Men. He appears to have retired to Stratford 
+01-08-2017 08:28:26 [FASTNet]: Line Number: 9
+01-08-2017 08:28:26 [FASTNet]: Line: around 1613, at age 49, where he died three years later. Few records of Shakespeare's private life survive, which has stimulated considerable 
+01-08-2017 08:28:26 [FASTNet]: Line Number: 10
+01-08-2017 08:28:26 [FASTNet]: Line: speculation about such matters as his physical appearance, sexuality, religious beliefs, and whether the works attributed to him were written 
+01-08-2017 08:28:26 [FASTNet]: Line Number: 11
+01-08-2017 08:28:26 [FASTNet]: Line: by others.[5]
+01-08-2017 08:28:26 [FASTNet]: Line Number: 12
+01-08-2017 08:28:26 [FASTNet]: Line: 
+01-08-2017 08:28:26 [FASTNet]: Line Number: 13
+01-08-2017 08:28:26 [FASTNet]: Line: Shakespeare produced most of his known work between 1589 and 1613.[6][nb 4] His early plays were primarily comedies and histories, which are 
+01-08-2017 08:28:26 [FASTNet]: Line Number: 14
+01-08-2017 08:28:26 [FASTNet]: Line: regarded as some of the best work ever produced in these genres. He then wrote mainly tragedies until about 1608, including Hamlet, Othello, 
+01-08-2017 08:28:26 [FASTNet]: Line Number: 15
+01-08-2017 08:28:26 [FASTNet]: Line: King Lear, and Macbeth, considered some of the finest works in the English language.[2] In his last phase, he wrote tragicomedies, also known 
+01-08-2017 08:28:26 [FASTNet]: Line Number: 16
+01-08-2017 08:28:26 [FASTNet]: Line: as romances, and collaborated with other playwrights.
+01-08-2017 08:28:26 [FASTNet]: Line Number: 17
+01-08-2017 08:28:26 [FASTNet]: Line: 
+01-08-2017 08:28:26 [FASTNet]: Line Number: 18
+01-08-2017 08:28:26 [FASTNet]: Line: Many of his plays were published in editions of varying quality and accuracy during his lifetime. In 1623, however, John Heminges and Henry 
+01-08-2017 08:28:26 [FASTNet]: Line Number: 19
+01-08-2017 08:28:26 [FASTNet]: Line: Condell, two friends and fellow actors of Shakespeare, published a more definitive text known as the First Folio, a posthumous collected 
+01-08-2017 08:28:26 [FASTNet]: Line Number: 20
+01-08-2017 08:28:26 [FASTNet]: Line: edition of his dramatic works that included all but two of the plays now recognised as Shakespeare's.[7] It was prefaced with a poem by Ben 
+01-08-2017 08:28:26 [FASTNet]: Line Number: 21
+01-08-2017 08:28:26 [FASTNet]: Line: Jonson, in which Shakespeare is hailed, presciently, as "not of an age, but for all time".[7]
+01-08-2017 08:28:26 [FASTNet]: Line Number: 22
+01-08-2017 08:28:26 [FASTNet]: Line: 
+01-08-2017 08:28:26 [FASTNet]: Line Number: 23
+01-08-2017 08:28:26 [FASTNet]: Line: In the 20th and 21st centuries, his works have been repeatedly adapted and rediscovered by new movements in scholarship and performance. His 
+01-08-2017 08:28:26 [FASTNet]: Line Number: 24
+01-08-2017 08:28:26 [FASTNet]: Line: plays remain highly popular and are constantly studied, performed, and reinterpreted in diverse cultural and political contexts throughout 
+01-08-2017 08:28:26 [FASTNet]: Line Number: 25
+01-08-2017 08:28:26 [FASTNet]: Line: the world.
+01-08-2017 08:28:26 [FASTNet]: Line Number: 26
+01-08-2017 08:28:32 [FASTNet]: Exiting function.
+01-08-2017 08:31:40 [FASTNet]: Entered function.
+01-08-2017 08:31:40 [FASTNet]: File ../doc/file.txt succesfully opened.
+01-08-2017 08:31:40 [FASTNet]: Line: William Shakespeare (/ˈʃeɪkspɪər/;[1] 26 April 1564 (baptised) – 23 April 1616)[nb 1] was an English poet, playwright, and actor, widely
+01-08-2017 08:31:40 [FASTNet]: Line Number: 1
+01-08-2017 08:31:40 [FASTNet]: Line: regarded as the greatest writer in the English language and the world's pre-eminent dramatist.[2] He is often called England's national poet, 
+01-08-2017 08:31:40 [FASTNet]: Line Number: 2
+01-08-2017 08:31:40 [FASTNet]: Line: and the "Bard of Avon".[3][nb 2] His extant works, including collaborations, consist of approximately 38 plays,[nb 3] 154 sonnets, two long 
+01-08-2017 08:31:40 [FASTNet]: Line Number: 3
+01-08-2017 08:31:40 [FASTNet]: Line: narrative poems, and a few other verses, some of uncertain authorship. His plays have been translated into every major living language and 
+01-08-2017 08:31:40 [FASTNet]: Line Number: 4
+01-08-2017 08:31:40 [FASTNet]: Line: are performed more often than those of any other playwright.[4]
+01-08-2017 08:31:40 [FASTNet]: Line Number: 5
+01-08-2017 08:31:40 [FASTNet]: Line: 
+01-08-2017 08:31:40 [FASTNet]: Line Number: 6
+01-08-2017 08:31:40 [FASTNet]: Line: Shakespeare was born and brought up in Stratford-upon-Avon, Warwickshire. At the age of 18, he married Anne Hathaway, with whom he had three 
+01-08-2017 08:31:40 [FASTNet]: Line Number: 7
+01-08-2017 08:31:40 [FASTNet]: Line: children: Susanna, and twins Hamnet and Judith. Sometime between 1585 and 1592, he began a successful career in London as an actor, writer, 
+01-08-2017 08:31:40 [FASTNet]: Line Number: 8
+01-08-2017 08:31:40 [FASTNet]: Line: and part-owner of a playing company called the Lord Chamberlain's Men, later known as the King's Men. He appears to have retired to Stratford 
+01-08-2017 08:31:40 [FASTNet]: Line Number: 9
+01-08-2017 08:31:40 [FASTNet]: Line: around 1613, at age 49, where he died three years later. Few records of Shakespeare's private life survive, which has stimulated considerable 
+01-08-2017 08:31:40 [FASTNet]: Line Number: 10
+01-08-2017 08:31:40 [FASTNet]: Line: speculation about such matters as his physical appearance, sexuality, religious beliefs, and whether the works attributed to him were written 
+01-08-2017 08:31:40 [FASTNet]: Line Number: 11
+01-08-2017 08:31:40 [FASTNet]: Line: by others.[5]
+01-08-2017 08:31:40 [FASTNet]: Line Number: 12
+01-08-2017 08:31:40 [FASTNet]: Line: 
+01-08-2017 08:31:40 [FASTNet]: Line Number: 13
+01-08-2017 08:31:40 [FASTNet]: Line: Shakespeare produced most of his known work between 1589 and 1613.[6][nb 4] His early plays were primarily comedies and histories, which are 
+01-08-2017 08:31:40 [FASTNet]: Line Number: 14
+01-08-2017 08:31:40 [FASTNet]: Line: regarded as some of the best work ever produced in these genres. He then wrote mainly tragedies until about 1608, including Hamlet, Othello, 
+01-08-2017 08:31:40 [FASTNet]: Line Number: 15
+01-08-2017 08:31:40 [FASTNet]: Line: King Lear, and Macbeth, considered some of the finest works in the English language.[2] In his last phase, he wrote tragicomedies, also known 
+01-08-2017 08:31:40 [FASTNet]: Line Number: 16
+01-08-2017 08:31:40 [FASTNet]: Line: as romances, and collaborated with other playwrights.
+01-08-2017 08:31:40 [FASTNet]: Line Number: 17
+01-08-2017 08:31:40 [FASTNet]: Line: 
+01-08-2017 08:31:40 [FASTNet]: Line Number: 18
+01-08-2017 08:31:40 [FASTNet]: Line: Many of his plays were published in editions of varying quality and accuracy during his lifetime. In 1623, however, John Heminges and Henry 
+01-08-2017 08:31:40 [FASTNet]: Line Number: 19
+01-08-2017 08:31:40 [FASTNet]: Line: Condell, two friends and fellow actors of Shakespeare, published a more definitive text known as the First Folio, a posthumous collected 
+01-08-2017 08:31:40 [FASTNet]: Line Number: 20
+01-08-2017 08:31:40 [FASTNet]: Line: edition of his dramatic works that included all but two of the plays now recognised as Shakespeare's.[7] It was prefaced with a poem by Ben 
+01-08-2017 08:31:40 [FASTNet]: Line Number: 21
+01-08-2017 08:31:40 [FASTNet]: Line: Jonson, in which Shakespeare is hailed, presciently, as "not of an age, but for all time".[7]
+01-08-2017 08:31:40 [FASTNet]: Line Number: 22
+01-08-2017 08:31:40 [FASTNet]: Line: 
+01-08-2017 08:31:40 [FASTNet]: Line Number: 23
+01-08-2017 08:31:40 [FASTNet]: Line: In the 20th and 21st centuries, his works have been repeatedly adapted and rediscovered by new movements in scholarship and performance. His 
+01-08-2017 08:31:40 [FASTNet]: Line Number: 24
+01-08-2017 08:31:40 [FASTNet]: Line: plays remain highly popular and are constantly studied, performed, and reinterpreted in diverse cultural and political contexts throughout 
+01-08-2017 08:31:40 [FASTNet]: Line Number: 25
+01-08-2017 08:31:40 [FASTNet]: Line: the world.
+01-08-2017 08:31:40 [FASTNet]: Line Number: 26
+01-08-2017 08:31:42 [FASTNet]: Exiting function.
+01-08-2017 08:32:10 [FASTNet]: Entered function.
+01-08-2017 08:32:10 [FASTNet]: File ../doc/file.txt succesfully opened.
+01-08-2017 08:32:10 [FASTNet]: Line: William Shakespeare (/ˈʃeɪkspɪər/;[1] 26 April 1564 (baptised) – 23 April 1616)[nb 1] was an English poet, playwright, and actor, widely
+01-08-2017 08:32:10 [FASTNet]: Line Number: 1
+01-08-2017 08:32:10 [FASTNet]: Line: regarded as the greatest writer in the English language and the world's pre-eminent dramatist.[2] He is often called England's national poet, 
+01-08-2017 08:32:10 [FASTNet]: Line Number: 2
+01-08-2017 08:32:10 [FASTNet]: Line: and the "Bard of Avon".[3][nb 2] His extant works, including collaborations, consist of approximately 38 plays,[nb 3] 154 sonnets, two long 
+01-08-2017 08:32:10 [FASTNet]: Line Number: 3
+01-08-2017 08:32:10 [FASTNet]: Line: narrative poems, and a few other verses, some of uncertain authorship. His plays have been translated into every major living language and 
+01-08-2017 08:32:10 [FASTNet]: Line Number: 4
+01-08-2017 08:32:10 [FASTNet]: Line: are performed more often than those of any other playwright.[4]
+01-08-2017 08:32:10 [FASTNet]: Line Number: 5
+01-08-2017 08:32:10 [FASTNet]: Line: 
+01-08-2017 08:32:10 [FASTNet]: Line Number: 6
+01-08-2017 08:32:10 [FASTNet]: Line: Shakespeare was born and brought up in Stratford-upon-Avon, Warwickshire. At the age of 18, he married Anne Hathaway, with whom he had three 
+01-08-2017 08:32:10 [FASTNet]: Line Number: 7
+01-08-2017 08:32:10 [FASTNet]: Line: children: Susanna, and twins Hamnet and Judith. Sometime between 1585 and 1592, he began a successful career in London as an actor, writer, 
+01-08-2017 08:32:10 [FASTNet]: Line Number: 8
+01-08-2017 08:32:10 [FASTNet]: Line: and part-owner of a playing company called the Lord Chamberlain's Men, later known as the King's Men. He appears to have retired to Stratford 
+01-08-2017 08:32:10 [FASTNet]: Line Number: 9
+01-08-2017 08:32:10 [FASTNet]: Line: around 1613, at age 49, where he died three years later. Few records of Shakespeare's private life survive, which has stimulated considerable 
+01-08-2017 08:32:10 [FASTNet]: Line Number: 10
+01-08-2017 08:32:10 [FASTNet]: Line: speculation about such matters as his physical appearance, sexuality, religious beliefs, and whether the works attributed to him were written 
+01-08-2017 08:32:10 [FASTNet]: Line Number: 11
+01-08-2017 08:32:10 [FASTNet]: Line: by others.[5]
+01-08-2017 08:32:10 [FASTNet]: Line Number: 12
+01-08-2017 08:32:10 [FASTNet]: Line: 
+01-08-2017 08:32:10 [FASTNet]: Line Number: 13
+01-08-2017 08:32:10 [FASTNet]: Line: Shakespeare produced most of his known work between 1589 and 1613.[6][nb 4] His early plays were primarily comedies and histories, which are 
+01-08-2017 08:32:10 [FASTNet]: Line Number: 14
+01-08-2017 08:32:10 [FASTNet]: Line: regarded as some of the best work ever produced in these genres. He then wrote mainly tragedies until about 1608, including Hamlet, Othello, 
+01-08-2017 08:32:10 [FASTNet]: Line Number: 15
+01-08-2017 08:32:10 [FASTNet]: Line: King Lear, and Macbeth, considered some of the finest works in the English language.[2] In his last phase, he wrote tragicomedies, also known 
+01-08-2017 08:32:10 [FASTNet]: Line Number: 16
+01-08-2017 08:32:10 [FASTNet]: Line: as romances, and collaborated with other playwrights.
+01-08-2017 08:32:10 [FASTNet]: Line Number: 17
+01-08-2017 08:32:10 [FASTNet]: Line: 
+01-08-2017 08:32:10 [FASTNet]: Line Number: 18
+01-08-2017 08:32:10 [FASTNet]: Line: Many of his plays were published in editions of varying quality and accuracy during his lifetime. In 1623, however, John Heminges and Henry 
+01-08-2017 08:32:10 [FASTNet]: Line Number: 19
+01-08-2017 08:32:10 [FASTNet]: Line: Condell, two friends and fellow actors of Shakespeare, published a more definitive text known as the First Folio, a posthumous collected 
+01-08-2017 08:32:10 [FASTNet]: Line Number: 20
+01-08-2017 08:32:10 [FASTNet]: Line: edition of his dramatic works that included all but two of the plays now recognised as Shakespeare's.[7] It was prefaced with a poem by Ben 
+01-08-2017 08:32:10 [FASTNet]: Line Number: 21
+01-08-2017 08:32:10 [FASTNet]: Line: Jonson, in which Shakespeare is hailed, presciently, as "not of an age, but for all time".[7]
+01-08-2017 08:32:10 [FASTNet]: Line Number: 22
+01-08-2017 08:32:10 [FASTNet]: Line: 
+01-08-2017 08:32:10 [FASTNet]: Line Number: 23
+01-08-2017 08:32:10 [FASTNet]: Line: In the 20th and 21st centuries, his works have been repeatedly adapted and rediscovered by new movements in scholarship and performance. His 
+01-08-2017 08:32:10 [FASTNet]: Line Number: 24
+01-08-2017 08:32:10 [FASTNet]: Line: plays remain highly popular and are constantly studied, performed, and reinterpreted in diverse cultural and political contexts throughout 
+01-08-2017 08:32:10 [FASTNet]: Line Number: 25
+01-08-2017 08:32:10 [FASTNet]: Line: the world.
+01-08-2017 08:32:10 [FASTNet]: Line Number: 26
+01-08-2017 08:32:19 [FASTNet]: Exiting function.
+01-08-2017 08:34:19 [FASTNet]: Entered function.
+01-08-2017 08:34:20 [FASTNet]: File ../doc/file.txt succesfully opened.
+01-08-2017 08:34:20 [FASTNet]: Line: William Shakespeare (/ˈʃeɪkspɪər/;[1] 26 April 1564 (baptised) – 23 April 1616)[nb 1] was an English poet, playwright, and actor, widely
+01-08-2017 08:34:20 [FASTNet]: Line Number: 1
+01-08-2017 08:34:20 [FASTNet]: Line: regarded as the greatest writer in the English language and the world's pre-eminent dramatist.[2] He is often called England's national poet, 
+01-08-2017 08:34:20 [FASTNet]: Line Number: 2
+01-08-2017 08:34:20 [FASTNet]: Line: and the "Bard of Avon".[3][nb 2] His extant works, including collaborations, consist of approximately 38 plays,[nb 3] 154 sonnets, two long 
+01-08-2017 08:34:20 [FASTNet]: Line Number: 3
+01-08-2017 08:34:20 [FASTNet]: Line: narrative poems, and a few other verses, some of uncertain authorship. His plays have been translated into every major living language and 
+01-08-2017 08:34:20 [FASTNet]: Line Number: 4
+01-08-2017 08:34:20 [FASTNet]: Line: are performed more often than those of any other playwright.[4]
+01-08-2017 08:34:20 [FASTNet]: Line Number: 5
+01-08-2017 08:34:20 [FASTNet]: Line: 
+01-08-2017 08:34:20 [FASTNet]: Line Number: 6
+01-08-2017 08:34:20 [FASTNet]: Line: Shakespeare was born and brought up in Stratford-upon-Avon, Warwickshire. At the age of 18, he married Anne Hathaway, with whom he had three 
+01-08-2017 08:34:20 [FASTNet]: Line Number: 7
+01-08-2017 08:34:20 [FASTNet]: Line: children: Susanna, and twins Hamnet and Judith. Sometime between 1585 and 1592, he began a successful career in London as an actor, writer, 
+01-08-2017 08:34:20 [FASTNet]: Line Number: 8
+01-08-2017 08:34:20 [FASTNet]: Line: and part-owner of a playing company called the Lord Chamberlain's Men, later known as the King's Men. He appears to have retired to Stratford 
+01-08-2017 08:34:20 [FASTNet]: Line Number: 9
+01-08-2017 08:34:20 [FASTNet]: Line: around 1613, at age 49, where he died three years later. Few records of Shakespeare's private life survive, which has stimulated considerable 
+01-08-2017 08:34:20 [FASTNet]: Line Number: 10
+01-08-2017 08:34:20 [FASTNet]: Line: speculation about such matters as his physical appearance, sexuality, religious beliefs, and whether the works attributed to him were written 
+01-08-2017 08:34:20 [FASTNet]: Line Number: 11
+01-08-2017 08:34:20 [FASTNet]: Line: by others.[5]
+01-08-2017 08:34:20 [FASTNet]: Line Number: 12
+01-08-2017 08:34:20 [FASTNet]: Line: 
+01-08-2017 08:34:20 [FASTNet]: Line Number: 13
+01-08-2017 08:34:20 [FASTNet]: Line: Shakespeare produced most of his known work between 1589 and 1613.[6][nb 4] His early plays were primarily comedies and histories, which are 
+01-08-2017 08:34:20 [FASTNet]: Line Number: 14
+01-08-2017 08:34:20 [FASTNet]: Line: regarded as some of the best work ever produced in these genres. He then wrote mainly tragedies until about 1608, including Hamlet, Othello, 
+01-08-2017 08:34:20 [FASTNet]: Line Number: 15
+01-08-2017 08:34:20 [FASTNet]: Line: King Lear, and Macbeth, considered some of the finest works in the English language.[2] In his last phase, he wrote tragicomedies, also known 
+01-08-2017 08:34:20 [FASTNet]: Line Number: 16
+01-08-2017 08:34:20 [FASTNet]: Line: as romances, and collaborated with other playwrights.
+01-08-2017 08:34:20 [FASTNet]: Line Number: 17
+01-08-2017 08:34:20 [FASTNet]: Line: 
+01-08-2017 08:34:20 [FASTNet]: Line Number: 18
+01-08-2017 08:34:20 [FASTNet]: Line: Many of his plays were published in editions of varying quality and accuracy during his lifetime. In 1623, however, John Heminges and Henry 
+01-08-2017 08:34:20 [FASTNet]: Line Number: 19
+01-08-2017 08:34:20 [FASTNet]: Line: Condell, two friends and fellow actors of Shakespeare, published a more definitive text known as the First Folio, a posthumous collected 
+01-08-2017 08:34:20 [FASTNet]: Line Number: 20
+01-08-2017 08:34:20 [FASTNet]: Line: edition of his dramatic works that included all but two of the plays now recognised as Shakespeare's.[7] It was prefaced with a poem by Ben 
+01-08-2017 08:34:20 [FASTNet]: Line Number: 21
+01-08-2017 08:34:20 [FASTNet]: Line: Jonson, in which Shakespeare is hailed, presciently, as "not of an age, but for all time".[7]
+01-08-2017 08:34:20 [FASTNet]: Line Number: 22
+01-08-2017 08:34:20 [FASTNet]: Line: 
+01-08-2017 08:34:20 [FASTNet]: Line Number: 23
+01-08-2017 08:34:20 [FASTNet]: Line: In the 20th and 21st centuries, his works have been repeatedly adapted and rediscovered by new movements in scholarship and performance. His 
+01-08-2017 08:34:20 [FASTNet]: Line Number: 24
+01-08-2017 08:34:20 [FASTNet]: Line: plays remain highly popular and are constantly studied, performed, and reinterpreted in diverse cultural and political contexts throughout 
+01-08-2017 08:34:20 [FASTNet]: Line Number: 25
+01-08-2017 08:34:20 [FASTNet]: Line: the world.
+01-08-2017 08:34:20 [FASTNet]: Line Number: 26
+01-08-2017 08:34:24 [FASTNet]: Exiting function.
+01-08-2017 08:35:28 [FASTNet]: Entered function.
+01-08-2017 08:35:28 [FASTNet]: File ../doc/file.txt succesfully opened.
+01-08-2017 08:35:28 [FASTNet]: Line: William Shakespeare (/ˈʃeɪkspɪər/;[1] 26 April 1564 (baptised) – 23 April 1616)[nb 1] was an English poet, playwright, and actor, widely
+01-08-2017 08:35:28 [FASTNet]: Line Number: 1
+01-08-2017 08:35:28 [FASTNet]: Line: regarded as the greatest writer in the English language and the world's pre-eminent dramatist.[2] He is often called England's national poet, 
+01-08-2017 08:35:28 [FASTNet]: Line Number: 2
+01-08-2017 08:35:28 [FASTNet]: Line: and the "Bard of Avon".[3][nb 2] His extant works, including collaborations, consist of approximately 38 plays,[nb 3] 154 sonnets, two long 
+01-08-2017 08:35:28 [FASTNet]: Line Number: 3
+01-08-2017 08:35:28 [FASTNet]: Line: narrative poems, and a few other verses, some of uncertain authorship. His plays have been translated into every major living language and 
+01-08-2017 08:35:28 [FASTNet]: Line Number: 4
+01-08-2017 08:35:28 [FASTNet]: Line: are performed more often than those of any other playwright.[4]
+01-08-2017 08:35:28 [FASTNet]: Line Number: 5
+01-08-2017 08:35:28 [FASTNet]: Line: 
+01-08-2017 08:35:28 [FASTNet]: Line Number: 6
+01-08-2017 08:35:28 [FASTNet]: Line: Shakespeare was born and brought up in Stratford-upon-Avon, Warwickshire. At the age of 18, he married Anne Hathaway, with whom he had three 
+01-08-2017 08:35:28 [FASTNet]: Line Number: 7
+01-08-2017 08:35:28 [FASTNet]: Line: children: Susanna, and twins Hamnet and Judith. Sometime between 1585 and 1592, he began a successful career in London as an actor, writer, 
+01-08-2017 08:35:28 [FASTNet]: Line Number: 8
+01-08-2017 08:35:28 [FASTNet]: Line: and part-owner of a playing company called the Lord Chamberlain's Men, later known as the King's Men. He appears to have retired to Stratford 
+01-08-2017 08:35:28 [FASTNet]: Line Number: 9
+01-08-2017 08:35:28 [FASTNet]: Line: around 1613, at age 49, where he died three years later. Few records of Shakespeare's private life survive, which has stimulated considerable 
+01-08-2017 08:35:28 [FASTNet]: Line Number: 10
+01-08-2017 08:35:28 [FASTNet]: Line: speculation about such matters as his physical appearance, sexuality, religious beliefs, and whether the works attributed to him were written 
+01-08-2017 08:35:28 [FASTNet]: Line Number: 11
+01-08-2017 08:35:28 [FASTNet]: Line: by others.[5]
+01-08-2017 08:35:28 [FASTNet]: Line Number: 12
+01-08-2017 08:35:28 [FASTNet]: Line: 
+01-08-2017 08:35:28 [FASTNet]: Line Number: 13
+01-08-2017 08:35:28 [FASTNet]: Line: Shakespeare produced most of his known work between 1589 and 1613.[6][nb 4] His early plays were primarily comedies and histories, which are 
+01-08-2017 08:35:28 [FASTNet]: Line Number: 14
+01-08-2017 08:35:28 [FASTNet]: Line: regarded as some of the best work ever produced in these genres. He then wrote mainly tragedies until about 1608, including Hamlet, Othello, 
+01-08-2017 08:35:28 [FASTNet]: Line Number: 15
+01-08-2017 08:35:28 [FASTNet]: Line: King Lear, and Macbeth, considered some of the finest works in the English language.[2] In his last phase, he wrote tragicomedies, also known 
+01-08-2017 08:35:28 [FASTNet]: Line Number: 16
+01-08-2017 08:35:28 [FASTNet]: Line: as romances, and collaborated with other playwrights.
+01-08-2017 08:35:28 [FASTNet]: Line Number: 17
+01-08-2017 08:35:28 [FASTNet]: Line: 
+01-08-2017 08:35:28 [FASTNet]: Line Number: 18
+01-08-2017 08:35:28 [FASTNet]: Line: Many of his plays were published in editions of varying quality and accuracy during his lifetime. In 1623, however, John Heminges and Henry 
+01-08-2017 08:35:28 [FASTNet]: Line Number: 19
+01-08-2017 08:35:28 [FASTNet]: Line: Condell, two friends and fellow actors of Shakespeare, published a more definitive text known as the First Folio, a posthumous collected 
+01-08-2017 08:35:28 [FASTNet]: Line Number: 20
+01-08-2017 08:35:28 [FASTNet]: Line: edition of his dramatic works that included all but two of the plays now recognised as Shakespeare's.[7] It was prefaced with a poem by Ben 
+01-08-2017 08:35:28 [FASTNet]: Line Number: 21
+01-08-2017 08:35:28 [FASTNet]: Line: Jonson, in which Shakespeare is hailed, presciently, as "not of an age, but for all time".[7]
+01-08-2017 08:35:28 [FASTNet]: Line Number: 22
+01-08-2017 08:35:28 [FASTNet]: Line: 
+01-08-2017 08:35:28 [FASTNet]: Line Number: 23
+01-08-2017 08:35:28 [FASTNet]: Line: In the 20th and 21st centuries, his works have been repeatedly adapted and rediscovered by new movements in scholarship and performance. His 
+01-08-2017 08:35:28 [FASTNet]: Line Number: 24
+01-08-2017 08:35:28 [FASTNet]: Line: plays remain highly popular and are constantly studied, performed, and reinterpreted in diverse cultural and political contexts throughout 
+01-08-2017 08:35:28 [FASTNet]: Line Number: 25
+01-08-2017 08:35:28 [FASTNet]: Line: the world.
+01-08-2017 08:35:28 [FASTNet]: Line Number: 26
+01-08-2017 08:35:32 [FASTNet]: Exiting function.
+01-08-2017 08:39:00 [FASTNet]: Entered function.
+01-08-2017 08:39:00 [FASTNet]: File ../doc/file.txt succesfully opened.
+01-08-2017 08:39:00 [FASTNet]: Line: William Shakespeare (/ˈʃeɪkspɪər/;[1] 26 April 1564 (baptised) – 23 April 1616)[nb 1] was an English poet, playwright, and actor, widely
+01-08-2017 08:39:00 [FASTNet]: Line Number: 1
+01-08-2017 08:39:00 [FASTNet]: Line: regarded as the greatest writer in the English language and the world's pre-eminent dramatist.[2] He is often called England's national poet, 
+01-08-2017 08:39:00 [FASTNet]: Line Number: 2
+01-08-2017 08:39:00 [FASTNet]: Line: and the "Bard of Avon".[3][nb 2] His extant works, including collaborations, consist of approximately 38 plays,[nb 3] 154 sonnets, two long 
+01-08-2017 08:39:00 [FASTNet]: Line Number: 3
+01-08-2017 08:39:00 [FASTNet]: Line: narrative poems, and a few other verses, some of uncertain authorship. His plays have been translated into every major living language and 
+01-08-2017 08:39:00 [FASTNet]: Line Number: 4
+01-08-2017 08:39:00 [FASTNet]: Line: are performed more often than those of any other playwright.[4]
+01-08-2017 08:39:00 [FASTNet]: Line Number: 5
+01-08-2017 08:39:00 [FASTNet]: Line: 
+01-08-2017 08:39:00 [FASTNet]: Line Number: 6
+01-08-2017 08:39:00 [FASTNet]: Line: Shakespeare was born and brought up in Stratford-upon-Avon, Warwickshire. At the age of 18, he married Anne Hathaway, with whom he had three 
+01-08-2017 08:39:00 [FASTNet]: Line Number: 7
+01-08-2017 08:39:00 [FASTNet]: Line: children: Susanna, and twins Hamnet and Judith. Sometime between 1585 and 1592, he began a successful career in London as an actor, writer, 
+01-08-2017 08:39:00 [FASTNet]: Line Number: 8
+01-08-2017 08:39:00 [FASTNet]: Line: and part-owner of a playing company called the Lord Chamberlain's Men, later known as the King's Men. He appears to have retired to Stratford 
+01-08-2017 08:39:00 [FASTNet]: Line Number: 9
+01-08-2017 08:39:00 [FASTNet]: Line: around 1613, at age 49, where he died three years later. Few records of Shakespeare's private life survive, which has stimulated considerable 
+01-08-2017 08:39:00 [FASTNet]: Line Number: 10
+01-08-2017 08:39:00 [FASTNet]: Line: speculation about such matters as his physical appearance, sexuality, religious beliefs, and whether the works attributed to him were written 
+01-08-2017 08:39:00 [FASTNet]: Line Number: 11
+01-08-2017 08:39:00 [FASTNet]: Line: by others.[5]
+01-08-2017 08:39:00 [FASTNet]: Line Number: 12
+01-08-2017 08:39:00 [FASTNet]: Line: 
+01-08-2017 08:39:00 [FASTNet]: Line Number: 13
+01-08-2017 08:39:00 [FASTNet]: Line: Shakespeare produced most of his known work between 1589 and 1613.[6][nb 4] His early plays were primarily comedies and histories, which are 
+01-08-2017 08:39:00 [FASTNet]: Line Number: 14
+01-08-2017 08:39:00 [FASTNet]: Line: regarded as some of the best work ever produced in these genres. He then wrote mainly tragedies until about 1608, including Hamlet, Othello, 
+01-08-2017 08:39:00 [FASTNet]: Line Number: 15
+01-08-2017 08:39:00 [FASTNet]: Line: King Lear, and Macbeth, considered some of the finest works in the English language.[2] In his last phase, he wrote tragicomedies, also known 
+01-08-2017 08:39:00 [FASTNet]: Line Number: 16
+01-08-2017 08:39:00 [FASTNet]: Line: as romances, and collaborated with other playwrights.
+01-08-2017 08:39:00 [FASTNet]: Line Number: 17
+01-08-2017 08:39:00 [FASTNet]: Line: 
+01-08-2017 08:39:00 [FASTNet]: Line Number: 18
+01-08-2017 08:39:00 [FASTNet]: Line: Many of his plays were published in editions of varying quality and accuracy during his lifetime. In 1623, however, John Heminges and Henry 
+01-08-2017 08:39:00 [FASTNet]: Line Number: 19
+01-08-2017 08:39:00 [FASTNet]: Line: Condell, two friends and fellow actors of Shakespeare, published a more definitive text known as the First Folio, a posthumous collected 
+01-08-2017 08:39:00 [FASTNet]: Line Number: 20
+01-08-2017 08:39:00 [FASTNet]: Line: edition of his dramatic works that included all but two of the plays now recognised as Shakespeare's.[7] It was prefaced with a poem by Ben 
+01-08-2017 08:39:00 [FASTNet]: Line Number: 21
+01-08-2017 08:39:00 [FASTNet]: Line: Jonson, in which Shakespeare is hailed, presciently, as "not of an age, but for all time".[7]
+01-08-2017 08:39:00 [FASTNet]: Line Number: 22
+01-08-2017 08:39:00 [FASTNet]: Line: 
+01-08-2017 08:39:00 [FASTNet]: Line Number: 23
+01-08-2017 08:39:00 [FASTNet]: Line: In the 20th and 21st centuries, his works have been repeatedly adapted and rediscovered by new movements in scholarship and performance. His 
+01-08-2017 08:39:00 [FASTNet]: Line Number: 24
+01-08-2017 08:39:00 [FASTNet]: Line: plays remain highly popular and are constantly studied, performed, and reinterpreted in diverse cultural and political contexts throughout 
+01-08-2017 08:39:00 [FASTNet]: Line Number: 25
+01-08-2017 08:39:00 [FASTNet]: Line: the world.
+01-08-2017 08:39:00 [FASTNet]: Line Number: 26
+01-08-2017 08:39:04 [FASTNet]: Exiting function.
+01-08-2017 08:39:35 [FASTNet]: Entered function.
+01-08-2017 08:39:35 [FASTNet]: File ../doc/file.txt succesfully opened.
+01-08-2017 08:39:35 [FASTNet]: Line: William Shakespeare (/ˈʃeɪkspɪər/;[1] 26 April 1564 (baptised) – 23 April 1616)[nb 1] was an English poet, playwright, and actor, widely
+01-08-2017 08:39:35 [FASTNet]: Line Number: 1
+01-08-2017 08:39:35 [FASTNet]: Line: regarded as the greatest writer in the English language and the world's pre-eminent dramatist.[2] He is often called England's national poet, 
+01-08-2017 08:39:35 [FASTNet]: Line Number: 2
+01-08-2017 08:39:35 [FASTNet]: Line: and the "Bard of Avon".[3][nb 2] His extant works, including collaborations, consist of approximately 38 plays,[nb 3] 154 sonnets, two long 
+01-08-2017 08:39:35 [FASTNet]: Line Number: 3
+01-08-2017 08:39:35 [FASTNet]: Line: narrative poems, and a few other verses, some of uncertain authorship. His plays have been translated into every major living language and 
+01-08-2017 08:39:35 [FASTNet]: Line Number: 4
+01-08-2017 08:39:35 [FASTNet]: Line: are performed more often than those of any other playwright.[4]
+01-08-2017 08:39:35 [FASTNet]: Line Number: 5
+01-08-2017 08:39:35 [FASTNet]: Line: 
+01-08-2017 08:39:35 [FASTNet]: Line Number: 6
+01-08-2017 08:39:35 [FASTNet]: Line: Shakespeare was born and brought up in Stratford-upon-Avon, Warwickshire. At the age of 18, he married Anne Hathaway, with whom he had three 
+01-08-2017 08:39:35 [FASTNet]: Line Number: 7
+01-08-2017 08:39:35 [FASTNet]: Line: children: Susanna, and twins Hamnet and Judith. Sometime between 1585 and 1592, he began a successful career in London as an actor, writer, 
+01-08-2017 08:39:35 [FASTNet]: Line Number: 8
+01-08-2017 08:39:35 [FASTNet]: Line: and part-owner of a playing company called the Lord Chamberlain's Men, later known as the King's Men. He appears to have retired to Stratford 
+01-08-2017 08:39:35 [FASTNet]: Line Number: 9
+01-08-2017 08:39:35 [FASTNet]: Line: around 1613, at age 49, where he died three years later. Few records of Shakespeare's private life survive, which has stimulated considerable 
+01-08-2017 08:39:35 [FASTNet]: Line Number: 10
+01-08-2017 08:39:35 [FASTNet]: Line: speculation about such matters as his physical appearance, sexuality, religious beliefs, and whether the works attributed to him were written 
+01-08-2017 08:39:35 [FASTNet]: Line Number: 11
+01-08-2017 08:39:35 [FASTNet]: Line: by others.[5]
+01-08-2017 08:39:35 [FASTNet]: Line Number: 12
+01-08-2017 08:39:35 [FASTNet]: Line: 
+01-08-2017 08:39:35 [FASTNet]: Line Number: 13
+01-08-2017 08:39:35 [FASTNet]: Line: Shakespeare produced most of his known work between 1589 and 1613.[6][nb 4] His early plays were primarily comedies and histories, which are 
+01-08-2017 08:39:35 [FASTNet]: Line Number: 14
+01-08-2017 08:39:35 [FASTNet]: Line: regarded as some of the best work ever produced in these genres. He then wrote mainly tragedies until about 1608, including Hamlet, Othello, 
+01-08-2017 08:39:35 [FASTNet]: Line Number: 15
+01-08-2017 08:39:35 [FASTNet]: Line: King Lear, and Macbeth, considered some of the finest works in the English language.[2] In his last phase, he wrote tragicomedies, also known 
+01-08-2017 08:39:35 [FASTNet]: Line Number: 16
+01-08-2017 08:39:35 [FASTNet]: Line: as romances, and collaborated with other playwrights.
+01-08-2017 08:39:35 [FASTNet]: Line Number: 17
+01-08-2017 08:39:35 [FASTNet]: Line: 
+01-08-2017 08:39:35 [FASTNet]: Line Number: 18
+01-08-2017 08:39:35 [FASTNet]: Line: Many of his plays were published in editions of varying quality and accuracy during his lifetime. In 1623, however, John Heminges and Henry 
+01-08-2017 08:39:35 [FASTNet]: Line Number: 19
+01-08-2017 08:39:35 [FASTNet]: Line: Condell, two friends and fellow actors of Shakespeare, published a more definitive text known as the First Folio, a posthumous collected 
+01-08-2017 08:39:35 [FASTNet]: Line Number: 20
+01-08-2017 08:39:35 [FASTNet]: Line: edition of his dramatic works that included all but two of the plays now recognised as Shakespeare's.[7] It was prefaced with a poem by Ben 
+01-08-2017 08:39:35 [FASTNet]: Line Number: 21
+01-08-2017 08:39:35 [FASTNet]: Line: Jonson, in which Shakespeare is hailed, presciently, as "not of an age, but for all time".[7]
+01-08-2017 08:39:35 [FASTNet]: Line Number: 22
+01-08-2017 08:39:35 [FASTNet]: Line: 
+01-08-2017 08:39:35 [FASTNet]: Line Number: 23
+01-08-2017 08:39:35 [FASTNet]: Line: In the 20th and 21st centuries, his works have been repeatedly adapted and rediscovered by new movements in scholarship and performance. His 
+01-08-2017 08:39:35 [FASTNet]: Line Number: 24
+01-08-2017 08:39:35 [FASTNet]: Line: plays remain highly popular and are constantly studied, performed, and reinterpreted in diverse cultural and political contexts throughout 
+01-08-2017 08:39:35 [FASTNet]: Line Number: 25
+01-08-2017 08:39:35 [FASTNet]: Line: the world.
+01-08-2017 08:39:35 [FASTNet]: Line Number: 26
+01-08-2017 08:39:39 [FASTNet]: Exiting function.
+01-08-2017 08:40:11 [FASTNet]: Entered function.
+01-08-2017 08:40:11 [FASTNet]: File ../doc/file.txt succesfully opened.
+01-08-2017 08:40:11 [FASTNet]: Line: William Shakespeare (/ˈʃeɪkspɪər/;[1] 26 April 1564 (baptised) – 23 April 1616)[nb 1] was an English poet, playwright, and actor, widely
+01-08-2017 08:40:11 [FASTNet]: Line Number: 1
+01-08-2017 08:40:11 [FASTNet]: Line: regarded as the greatest writer in the English language and the world's pre-eminent dramatist.[2] He is often called England's national poet, 
+01-08-2017 08:40:11 [FASTNet]: Line Number: 2
+01-08-2017 08:40:11 [FASTNet]: Line: and the "Bard of Avon".[3][nb 2] His extant works, including collaborations, consist of approximately 38 plays,[nb 3] 154 sonnets, two long 
+01-08-2017 08:40:11 [FASTNet]: Line Number: 3
+01-08-2017 08:40:11 [FASTNet]: Line: narrative poems, and a few other verses, some of uncertain authorship. His plays have been translated into every major living language and 
+01-08-2017 08:40:11 [FASTNet]: Line Number: 4
+01-08-2017 08:40:11 [FASTNet]: Line: are performed more often than those of any other playwright.[4]
+01-08-2017 08:40:11 [FASTNet]: Line Number: 5
+01-08-2017 08:40:11 [FASTNet]: Line: 
+01-08-2017 08:40:11 [FASTNet]: Line Number: 6
+01-08-2017 08:40:11 [FASTNet]: Line: Shakespeare was born and brought up in Stratford-upon-Avon, Warwickshire. At the age of 18, he married Anne Hathaway, with whom he had three 
+01-08-2017 08:40:11 [FASTNet]: Line Number: 7
+01-08-2017 08:40:11 [FASTNet]: Line: children: Susanna, and twins Hamnet and Judith. Sometime between 1585 and 1592, he began a successful career in London as an actor, writer, 
+01-08-2017 08:40:11 [FASTNet]: Line Number: 8
+01-08-2017 08:40:11 [FASTNet]: Line: and part-owner of a playing company called the Lord Chamberlain's Men, later known as the King's Men. He appears to have retired to Stratford 
+01-08-2017 08:40:11 [FASTNet]: Line Number: 9
+01-08-2017 08:40:11 [FASTNet]: Line: around 1613, at age 49, where he died three years later. Few records of Shakespeare's private life survive, which has stimulated considerable 
+01-08-2017 08:40:11 [FASTNet]: Line Number: 10
+01-08-2017 08:40:11 [FASTNet]: Line: speculation about such matters as his physical appearance, sexuality, religious beliefs, and whether the works attributed to him were written 
+01-08-2017 08:40:11 [FASTNet]: Line Number: 11
+01-08-2017 08:40:11 [FASTNet]: Line: by others.[5]
+01-08-2017 08:40:11 [FASTNet]: Line Number: 12
+01-08-2017 08:40:11 [FASTNet]: Line: 
+01-08-2017 08:40:11 [FASTNet]: Line Number: 13
+01-08-2017 08:40:11 [FASTNet]: Line: Shakespeare produced most of his known work between 1589 and 1613.[6][nb 4] His early plays were primarily comedies and histories, which are 
+01-08-2017 08:40:11 [FASTNet]: Line Number: 14
+01-08-2017 08:40:11 [FASTNet]: Line: regarded as some of the best work ever produced in these genres. He then wrote mainly tragedies until about 1608, including Hamlet, Othello, 
+01-08-2017 08:40:11 [FASTNet]: Line Number: 15
+01-08-2017 08:40:11 [FASTNet]: Line: King Lear, and Macbeth, considered some of the finest works in the English language.[2] In his last phase, he wrote tragicomedies, also known 
+01-08-2017 08:40:11 [FASTNet]: Line Number: 16
+01-08-2017 08:40:11 [FASTNet]: Line: as romances, and collaborated with other playwrights.
+01-08-2017 08:40:11 [FASTNet]: Line Number: 17
+01-08-2017 08:40:11 [FASTNet]: Line: 
+01-08-2017 08:40:11 [FASTNet]: Line Number: 18
+01-08-2017 08:40:11 [FASTNet]: Line: Many of his plays were published in editions of varying quality and accuracy during his lifetime. In 1623, however, John Heminges and Henry 
+01-08-2017 08:40:11 [FASTNet]: Line Number: 19
+01-08-2017 08:40:11 [FASTNet]: Line: Condell, two friends and fellow actors of Shakespeare, published a more definitive text known as the First Folio, a posthumous collected 
+01-08-2017 08:40:11 [FASTNet]: Line Number: 20
+01-08-2017 08:40:11 [FASTNet]: Line: edition of his dramatic works that included all but two of the plays now recognised as Shakespeare's.[7] It was prefaced with a poem by Ben 
+01-08-2017 08:40:11 [FASTNet]: Line Number: 21
+01-08-2017 08:40:11 [FASTNet]: Line: Jonson, in which Shakespeare is hailed, presciently, as "not of an age, but for all time".[7]
+01-08-2017 08:40:11 [FASTNet]: Line Number: 22
+01-08-2017 08:40:11 [FASTNet]: Line: 
+01-08-2017 08:40:11 [FASTNet]: Line Number: 23
+01-08-2017 08:40:11 [FASTNet]: Line: In the 20th and 21st centuries, his works have been repeatedly adapted and rediscovered by new movements in scholarship and performance. His 
+01-08-2017 08:40:11 [FASTNet]: Line Number: 24
+01-08-2017 08:40:11 [FASTNet]: Line: plays remain highly popular and are constantly studied, performed, and reinterpreted in diverse cultural and political contexts throughout 
+01-08-2017 08:40:11 [FASTNet]: Line Number: 25
+01-08-2017 08:40:11 [FASTNet]: Line: the world.
+01-08-2017 08:40:11 [FASTNet]: Line Number: 26
+01-08-2017 08:40:15 [FASTNet]: Exiting function.
+01-08-2017 08:41:57 [FASTNet]: Entered function.
+01-08-2017 08:41:57 [FASTNet]: File ../doc/file.txt succesfully opened.
+01-08-2017 08:41:57 [FASTNet]: Line: William Shakespeare (/ˈʃeɪkspɪər/;[1] 26 April 1564 (baptised) – 23 April 1616)[nb 1] was an English poet, playwright, and actor, widely
+01-08-2017 08:41:57 [FASTNet]: Line Number: 1
+01-08-2017 08:41:57 [FASTNet]: Line: regarded as the greatest writer in the English language and the world's pre-eminent dramatist.[2] He is often called England's national poet, 
+01-08-2017 08:41:57 [FASTNet]: Line Number: 2
+01-08-2017 08:41:57 [FASTNet]: Line: and the "Bard of Avon".[3][nb 2] His extant works, including collaborations, consist of approximately 38 plays,[nb 3] 154 sonnets, two long 
+01-08-2017 08:41:57 [FASTNet]: Line Number: 3
+01-08-2017 08:41:57 [FASTNet]: Line: narrative poems, and a few other verses, some of uncertain authorship. His plays have been translated into every major living language and 
+01-08-2017 08:41:57 [FASTNet]: Line Number: 4
+01-08-2017 08:41:57 [FASTNet]: Line: are performed more often than those of any other playwright.[4]
+01-08-2017 08:41:57 [FASTNet]: Line Number: 5
+01-08-2017 08:41:57 [FASTNet]: Line: 
+01-08-2017 08:41:57 [FASTNet]: Line Number: 6
+01-08-2017 08:41:57 [FASTNet]: Line: Shakespeare was born and brought up in Stratford-upon-Avon, Warwickshire. At the age of 18, he married Anne Hathaway, with whom he had three 
+01-08-2017 08:41:57 [FASTNet]: Line Number: 7
+01-08-2017 08:41:57 [FASTNet]: Line: children: Susanna, and twins Hamnet and Judith. Sometime between 1585 and 1592, he began a successful career in London as an actor, writer, 
+01-08-2017 08:41:57 [FASTNet]: Line Number: 8
+01-08-2017 08:41:57 [FASTNet]: Line: and part-owner of a playing company called the Lord Chamberlain's Men, later known as the King's Men. He appears to have retired to Stratford 
+01-08-2017 08:41:57 [FASTNet]: Line Number: 9
+01-08-2017 08:41:57 [FASTNet]: Line: around 1613, at age 49, where he died three years later. Few records of Shakespeare's private life survive, which has stimulated considerable 
+01-08-2017 08:41:57 [FASTNet]: Line Number: 10
+01-08-2017 08:41:57 [FASTNet]: Line: speculation about such matters as his physical appearance, sexuality, religious beliefs, and whether the works attributed to him were written 
+01-08-2017 08:41:57 [FASTNet]: Line Number: 11
+01-08-2017 08:41:57 [FASTNet]: Line: by others.[5]
+01-08-2017 08:41:57 [FASTNet]: Line Number: 12
+01-08-2017 08:41:57 [FASTNet]: Line: 
+01-08-2017 08:41:57 [FASTNet]: Line Number: 13
+01-08-2017 08:41:57 [FASTNet]: Line: Shakespeare produced most of his known work between 1589 and 1613.[6][nb 4] His early plays were primarily comedies and histories, which are 
+01-08-2017 08:41:57 [FASTNet]: Line Number: 14
+01-08-2017 08:41:57 [FASTNet]: Line: regarded as some of the best work ever produced in these genres. He then wrote mainly tragedies until about 1608, including Hamlet, Othello, 
+01-08-2017 08:41:57 [FASTNet]: Line Number: 15
+01-08-2017 08:41:57 [FASTNet]: Line: King Lear, and Macbeth, considered some of the finest works in the English language.[2] In his last phase, he wrote tragicomedies, also known 
+01-08-2017 08:41:57 [FASTNet]: Line Number: 16
+01-08-2017 08:41:57 [FASTNet]: Line: as romances, and collaborated with other playwrights.
+01-08-2017 08:41:57 [FASTNet]: Line Number: 17
+01-08-2017 08:41:57 [FASTNet]: Line: 
+01-08-2017 08:41:57 [FASTNet]: Line Number: 18
+01-08-2017 08:41:57 [FASTNet]: Line: Many of his plays were published in editions of varying quality and accuracy during his lifetime. In 1623, however, John Heminges and Henry 
+01-08-2017 08:41:57 [FASTNet]: Line Number: 19
+01-08-2017 08:41:57 [FASTNet]: Line: Condell, two friends and fellow actors of Shakespeare, published a more definitive text known as the First Folio, a posthumous collected 
+01-08-2017 08:41:57 [FASTNet]: Line Number: 20
+01-08-2017 08:41:57 [FASTNet]: Line: edition of his dramatic works that included all but two of the plays now recognised as Shakespeare's.[7] It was prefaced with a poem by Ben 
+01-08-2017 08:41:57 [FASTNet]: Line Number: 21
+01-08-2017 08:41:57 [FASTNet]: Line: Jonson, in which Shakespeare is hailed, presciently, as "not of an age, but for all time".[7]
+01-08-2017 08:41:57 [FASTNet]: Line Number: 22
+01-08-2017 08:41:57 [FASTNet]: Line: 
+01-08-2017 08:41:57 [FASTNet]: Line Number: 23
+01-08-2017 08:41:57 [FASTNet]: Line: In the 20th and 21st centuries, his works have been repeatedly adapted and rediscovered by new movements in scholarship and performance. His 
+01-08-2017 08:41:57 [FASTNet]: Line Number: 24
+01-08-2017 08:41:57 [FASTNet]: Line: plays remain highly popular and are constantly studied, performed, and reinterpreted in diverse cultural and political contexts throughout 
+01-08-2017 08:41:57 [FASTNet]: Line Number: 25
+01-08-2017 08:41:57 [FASTNet]: Line: the world.
+01-08-2017 08:41:57 [FASTNet]: Line Number: 26
+01-08-2017 08:42:01 [FASTNet]: Exiting function.
+01-08-2017 08:45:06 [FASTNet]: Entered function.
+01-08-2017 08:45:07 [FASTNet]: File ../doc/file.txt succesfully opened.
+01-08-2017 08:45:07 [FASTNet]: Line: William Shakespeare (/ˈʃeɪkspɪər/;[1] 26 April 1564 (baptised) – 23 April 1616)[nb 1] was an English poet, playwright, and actor, widely
+01-08-2017 08:45:07 [FASTNet]: Line Number: 1
+01-08-2017 08:45:07 [FASTNet]: Line: regarded as the greatest writer in the English language and the world's pre-eminent dramatist.[2] He is often called England's national poet, 
+01-08-2017 08:45:07 [FASTNet]: Line Number: 2
+01-08-2017 08:45:07 [FASTNet]: Line: and the "Bard of Avon".[3][nb 2] His extant works, including collaborations, consist of approximately 38 plays,[nb 3] 154 sonnets, two long 
+01-08-2017 08:45:07 [FASTNet]: Line Number: 3
+01-08-2017 08:45:07 [FASTNet]: Line: narrative poems, and a few other verses, some of uncertain authorship. His plays have been translated into every major living language and 
+01-08-2017 08:45:07 [FASTNet]: Line Number: 4
+01-08-2017 08:45:07 [FASTNet]: Line: are performed more often than those of any other playwright.[4]
+01-08-2017 08:45:07 [FASTNet]: Line Number: 5
+01-08-2017 08:45:07 [FASTNet]: Line: 
+01-08-2017 08:45:07 [FASTNet]: Line Number: 6
+01-08-2017 08:45:07 [FASTNet]: Line: Shakespeare was born and brought up in Stratford-upon-Avon, Warwickshire. At the age of 18, he married Anne Hathaway, with whom he had three 
+01-08-2017 08:45:07 [FASTNet]: Line Number: 7
+01-08-2017 08:45:07 [FASTNet]: Line: children: Susanna, and twins Hamnet and Judith. Sometime between 1585 and 1592, he began a successful career in London as an actor, writer, 
+01-08-2017 08:45:07 [FASTNet]: Line Number: 8
+01-08-2017 08:45:07 [FASTNet]: Line: and part-owner of a playing company called the Lord Chamberlain's Men, later known as the King's Men. He appears to have retired to Stratford 
+01-08-2017 08:45:07 [FASTNet]: Line Number: 9
+01-08-2017 08:45:07 [FASTNet]: Line: around 1613, at age 49, where he died three years later. Few records of Shakespeare's private life survive, which has stimulated considerable 
+01-08-2017 08:45:07 [FASTNet]: Line Number: 10
+01-08-2017 08:45:07 [FASTNet]: Line: speculation about such matters as his physical appearance, sexuality, religious beliefs, and whether the works attributed to him were written 
+01-08-2017 08:45:07 [FASTNet]: Line Number: 11
+01-08-2017 08:45:07 [FASTNet]: Line: by others.[5]
+01-08-2017 08:45:07 [FASTNet]: Line Number: 12
+01-08-2017 08:45:07 [FASTNet]: Line: 
+01-08-2017 08:45:07 [FASTNet]: Line Number: 13
+01-08-2017 08:45:07 [FASTNet]: Line: Shakespeare produced most of his known work between 1589 and 1613.[6][nb 4] His early plays were primarily comedies and histories, which are 
+01-08-2017 08:45:07 [FASTNet]: Line Number: 14
+01-08-2017 08:45:07 [FASTNet]: Line: regarded as some of the best work ever produced in these genres. He then wrote mainly tragedies until about 1608, including Hamlet, Othello, 
+01-08-2017 08:45:07 [FASTNet]: Line Number: 15
+01-08-2017 08:45:07 [FASTNet]: Line: King Lear, and Macbeth, considered some of the finest works in the English language.[2] In his last phase, he wrote tragicomedies, also known 
+01-08-2017 08:45:07 [FASTNet]: Line Number: 16
+01-08-2017 08:45:07 [FASTNet]: Line: as romances, and collaborated with other playwrights.
+01-08-2017 08:45:07 [FASTNet]: Line Number: 17
+01-08-2017 08:45:07 [FASTNet]: Line: 
+01-08-2017 08:45:07 [FASTNet]: Line Number: 18
+01-08-2017 08:45:07 [FASTNet]: Line: Many of his plays were published in editions of varying quality and accuracy during his lifetime. In 1623, however, John Heminges and Henry 
+01-08-2017 08:45:07 [FASTNet]: Line Number: 19
+01-08-2017 08:45:07 [FASTNet]: Line: Condell, two friends and fellow actors of Shakespeare, published a more definitive text known as the First Folio, a posthumous collected 
+01-08-2017 08:45:07 [FASTNet]: Line Number: 20
+01-08-2017 08:45:07 [FASTNet]: Line: edition of his dramatic works that included all but two of the plays now recognised as Shakespeare's.[7] It was prefaced with a poem by Ben 
+01-08-2017 08:45:07 [FASTNet]: Line Number: 21
+01-08-2017 08:45:07 [FASTNet]: Line: Jonson, in which Shakespeare is hailed, presciently, as "not of an age, but for all time".[7]
+01-08-2017 08:45:07 [FASTNet]: Line Number: 22
+01-08-2017 08:45:07 [FASTNet]: Line: 
+01-08-2017 08:45:07 [FASTNet]: Line Number: 23
+01-08-2017 08:45:07 [FASTNet]: Line: In the 20th and 21st centuries, his works have been repeatedly adapted and rediscovered by new movements in scholarship and performance. His 
+01-08-2017 08:45:07 [FASTNet]: Line Number: 24
+01-08-2017 08:45:07 [FASTNet]: Line: plays remain highly popular and are constantly studied, performed, and reinterpreted in diverse cultural and political contexts throughout 
+01-08-2017 08:45:07 [FASTNet]: Line Number: 25
+01-08-2017 08:45:07 [FASTNet]: Line: the world.
+01-08-2017 08:45:07 [FASTNet]: Line Number: 26
+01-08-2017 08:45:10 [FASTNet]: Exiting function.
+01-08-2017 09:12:04 [FASTNet]: Entered function.
+01-08-2017 09:12:04 [FASTNet]: File ../doc/file.txt succesfully opened.
+01-08-2017 09:12:04 [FASTNet]: Line: William Shakespeare (/ˈʃeɪkspɪər/;[1] 26 April 1564 (baptised) – 23 April 1616)[nb 1] was an English poet, playwright, and actor, widely
+01-08-2017 09:12:04 [FASTNet]: Line Number: 1
+01-08-2017 09:12:04 [FASTNet]: Line: regarded as the greatest writer in the English language and the world's pre-eminent dramatist.[2] He is often called England's national poet, 
+01-08-2017 09:12:04 [FASTNet]: Line Number: 2
+01-08-2017 09:12:04 [FASTNet]: Line: and the "Bard of Avon".[3][nb 2] His extant works, including collaborations, consist of approximately 38 plays,[nb 3] 154 sonnets, two long 
+01-08-2017 09:12:04 [FASTNet]: Line Number: 3
+01-08-2017 09:12:04 [FASTNet]: Line: narrative poems, and a few other verses, some of uncertain authorship. His plays have been translated into every major living language and 
+01-08-2017 09:12:04 [FASTNet]: Line Number: 4
+01-08-2017 09:12:04 [FASTNet]: Line: are performed more often than those of any other playwright.[4]
+01-08-2017 09:12:04 [FASTNet]: Line Number: 5
+01-08-2017 09:12:04 [FASTNet]: Line: 
+01-08-2017 09:12:04 [FASTNet]: Line Number: 6
+01-08-2017 09:12:04 [FASTNet]: Line: Shakespeare was born and brought up in Stratford-upon-Avon, Warwickshire. At the age of 18, he married Anne Hathaway, with whom he had three 
+01-08-2017 09:12:04 [FASTNet]: Line Number: 7
+01-08-2017 09:12:04 [FASTNet]: Line: children: Susanna, and twins Hamnet and Judith. Sometime between 1585 and 1592, he began a successful career in London as an actor, writer, 
+01-08-2017 09:12:04 [FASTNet]: Line Number: 8
+01-08-2017 09:12:04 [FASTNet]: Line: and part-owner of a playing company called the Lord Chamberlain's Men, later known as the King's Men. He appears to have retired to Stratford 
+01-08-2017 09:12:04 [FASTNet]: Line Number: 9
+01-08-2017 09:12:04 [FASTNet]: Line: around 1613, at age 49, where he died three years later. Few records of Shakespeare's private life survive, which has stimulated considerable 
+01-08-2017 09:12:04 [FASTNet]: Line Number: 10
+01-08-2017 09:12:04 [FASTNet]: Line: speculation about such matters as his physical appearance, sexuality, religious beliefs, and whether the works attributed to him were written 
+01-08-2017 09:12:04 [FASTNet]: Line Number: 11
+01-08-2017 09:12:04 [FASTNet]: Line: by others.[5]
+01-08-2017 09:12:04 [FASTNet]: Line Number: 12
+01-08-2017 09:12:04 [FASTNet]: Line: 
+01-08-2017 09:12:04 [FASTNet]: Line Number: 13
+01-08-2017 09:12:04 [FASTNet]: Line: Shakespeare produced most of his known work between 1589 and 1613.[6][nb 4] His early plays were primarily comedies and histories, which are 
+01-08-2017 09:12:04 [FASTNet]: Line Number: 14
+01-08-2017 09:12:04 [FASTNet]: Line: regarded as some of the best work ever produced in these genres. He then wrote mainly tragedies until about 1608, including Hamlet, Othello, 
+01-08-2017 09:12:04 [FASTNet]: Line Number: 15
+01-08-2017 09:12:04 [FASTNet]: Line: King Lear, and Macbeth, considered some of the finest works in the English language.[2] In his last phase, he wrote tragicomedies, also known 
+01-08-2017 09:12:04 [FASTNet]: Line Number: 16
+01-08-2017 09:12:04 [FASTNet]: Line: as romances, and collaborated with other playwrights.
+01-08-2017 09:12:04 [FASTNet]: Line Number: 17
+01-08-2017 09:12:04 [FASTNet]: Line: 
+01-08-2017 09:12:04 [FASTNet]: Line Number: 18
+01-08-2017 09:12:04 [FASTNet]: Line: Many of his plays were published in editions of varying quality and accuracy during his lifetime. In 1623, however, John Heminges and Henry 
+01-08-2017 09:12:04 [FASTNet]: Line Number: 19
+01-08-2017 09:12:04 [FASTNet]: Line: Condell, two friends and fellow actors of Shakespeare, published a more definitive text known as the First Folio, a posthumous collected 
+01-08-2017 09:12:04 [FASTNet]: Line Number: 20
+01-08-2017 09:12:04 [FASTNet]: Line: edition of his dramatic works that included all but two of the plays now recognised as Shakespeare's.[7] It was prefaced with a poem by Ben 
+01-08-2017 09:12:04 [FASTNet]: Line Number: 21
+01-08-2017 09:12:04 [FASTNet]: Line: Jonson, in which Shakespeare is hailed, presciently, as "not of an age, but for all time".[7]
+01-08-2017 09:12:04 [FASTNet]: Line Number: 22
+01-08-2017 09:12:04 [FASTNet]: Line: 
+01-08-2017 09:12:04 [FASTNet]: Line Number: 23
+01-08-2017 09:12:04 [FASTNet]: Line: In the 20th and 21st centuries, his works have been repeatedly adapted and rediscovered by new movements in scholarship and performance. His 
+01-08-2017 09:12:04 [FASTNet]: Line Number: 24
+01-08-2017 09:12:04 [FASTNet]: Line: plays remain highly popular and are constantly studied, performed, and reinterpreted in diverse cultural and political contexts throughout 
+01-08-2017 09:12:04 [FASTNet]: Line Number: 25
+01-08-2017 09:12:04 [FASTNet]: Line: the world.
+01-08-2017 09:12:04 [FASTNet]: Line Number: 26
+01-08-2017 10:12:07 [FASTNet]: Entered function.
+01-08-2017 10:12:08 [FASTNet]: File ../doc/file.txt succesfully opened.
+01-08-2017 10:12:08 [FASTNet]: Line: William Shakespeare (/ˈʃeɪkspɪər/;[1] 26 April 1564 (baptised) – 23 April 1616)[nb 1] was an English poet, playwright, and actor, widely
+01-08-2017 10:12:08 [FASTNet]: Line Number: 1

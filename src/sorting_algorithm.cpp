@@ -2,55 +2,6 @@
 
 using namespace std;
 
-Word::Word(string line_char, int line_num, int word_num, string plugin_type){
-    word = line_char;
-    line.push_back(line_num);
-    wordnum.push_back(word_num);
-    type.push_back(plugin_type);
-}
-
-string Word::get_word(){
-    return word;
-}
-
-string Word::get_line(){
-    string return_string;
-    for(unsigned int i = 0; i < line.size(); i++){
-        return_string += to_string(line.at(i));
-        return_string += '\t';
-    }
-    return return_string;
-}
-
-string Word::get_wordnum(){
-    string return_string;
-    for(unsigned int i = 0; i < wordnum.size(); i++){
-        return_string += to_string(wordnum.at(i));
-        return_string += '\t';
-    }
-    return return_string;
-}
-
-string Word::get_type(){
-    string return_string;
-    for(unsigned int i = 0; i < type.size(); i++){
-        return_string += type.at(i);
-    }
-    return return_string;
-}
-
-void Word::add_line(int line_num){
-    line.push_back(line_num);
-}
-
-void Word::add_wordnum(int word_num){
-    wordnum.push_back(word_num);
-}
-
-void Word::add_type(string plugin_type){
-    type.push_back(plugin_type);
-}
-
 vector<Word> words;
 
 void sorting_algorithm(string char_word, int line, int wordnum){
@@ -67,6 +18,9 @@ void sorting_algorithm(string char_word, int line, int wordnum){
 
 
     int i = 0, j = 0;
+    // static unsigned int firsttime = 1;
+    // string created_already;
+    // fstream already_created("../doc/already_created.txt", ios::out | ios::in | ios::app);
     for (i = 0; i < 3; i++){
         for (j = 0; j < 3500; j++){
             if (char_word.c_str() == parts_speech[i][j]){
@@ -75,27 +29,45 @@ void sorting_algorithm(string char_word, int line, int wordnum){
                 logs << date_time() << " [SORT_ALGORITHM]: Word Number: " << wordnum << endl;
                 logs << date_time() << " [SORT_ALGORITHM]: Type: " << parts.at(i) << endl;
 
-                // static int firsttime = 1;
+                word = new Word(char_word, line, wordnum, parts.at(i));
+                words.push_back(*word);
+
                 // if(firsttime){
                 //     word = new Word(char_word, line, wordnum, parts.at(i));
                 //     words.push_back(*word);
+                    
+                //     already_created << word->get_word() << endl;
+
+                //     firsttime--;
                 // }
                 // else{
-                //     for(vector<Word>::iterator it = words.begin(); it != words.end(); it++){
-                //         if(it->get_word() == char_word.c_str()){
-                //             it->add_line(line);
-                //             it->add_wordnum(wordnum);
-                //             it->add_type(parts.at(i));
+                //     if(already_created.is_open()){
+                //         int match = 0;
+                //         while(getline(already_created, created_already)){
+                //             if(created_already == char_word.c_str()){
+                //                 for (vector<Word>::iterator it = words.begin(); it != words.end(); ++it){
+                //                     if(it->get_word() == created_already){
+                //                         it->add_line(line);
+                //                         it->add_wordnum(wordnum);
+                //                         it->add_type(parts.at(i));
+
+                //                         match = 1;
+                //                     }
+                //                 }
+                //             }
                 //         }
-                //         else{
+                //         if(!match){
                 //             word = new Word(char_word, line, wordnum, parts.at(i));
                 //             words.push_back(*word);
                 //         }
-                //     }
-                // }
 
-                word = new Word(char_word, line, wordnum, parts.at(i).c_str());
-                words.push_back(*word);
+
+                //     }
+                //     else{
+                //         logs << date_time() << " [ERROR][SORT_ALGORITHM]: File not opened." << endl;
+                //         cout << date_time() << " [ERROR][SORT_ALGORITHM]: File not opened." << endl;
+                //     }  
+                // }
                  
                 logs << date_time() << " [SORT_ALGORITHM]: Word from Class: " << word->get_word() << endl;
                 logs << date_time() << " [SORT_ALGORITHM]: Line Number from Class: " << word->get_line() << endl;
@@ -123,6 +95,10 @@ void sorting_algorithm(string char_word, int line, int wordnum){
     }
 
     logs << date_time() << " [SORT_ALGORITHM]: Exiting function." << endl;
+
+    // already_created.close();
+    // already_created.open("../doc/already_created.txt", ios::out | ios::trunc);
+    // already_created.close();
 
     logs.close();
 }

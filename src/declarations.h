@@ -26,6 +26,7 @@ private:
     vector<int> line;
     vector<int> wordnum;
     vector<string> type;
+    vector<Word> synonyms;
 public:
     Word(string,int,int,string);
     Word(string,int,int,vector<string>);
@@ -35,9 +36,12 @@ public:
     string get_wordnum();
     string get_type();
 
+    vector<Word> get_synonyms();
+
     void add_line(int);
     void add_wordnum(int);
     void add_type(string);
+    void add_synonym(Word);
 
 };
 

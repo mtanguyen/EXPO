@@ -55,6 +55,6 @@ void Word::add_type(string plugin_type){
     type.push_back(plugin_type);
 }
 
-void Word::add_synonyms(Word synonym){
+void Word::add_synonym(Word synonym){
     synonyms.push_back(synonym);
 }

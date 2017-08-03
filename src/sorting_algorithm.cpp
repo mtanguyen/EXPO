@@ -51,6 +51,7 @@ void sorting_algorithm(string char_word, int line, int wordnum){
                 }
                 else {
                     if(i == 2 && j == 3499){
+                        logs << date_time() << " [SORT_ALGORITHM]: Looking for word " << char_word << " in the dictionary." << endl;
                         word = new Word(char_word.c_str(), line, wordnum, dic_algorithm(char_word.c_str(), 0));
                         words.push_back(*word);
                     }

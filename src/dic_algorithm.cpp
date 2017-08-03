@@ -69,14 +69,15 @@ vector<string> dic_algorithm(string wordToGet){
     string::const_iterator searchStart( whole_file.cbegin() );
 
     while ( regex_search( searchStart, whole_file.cend(), m, r ) ) {
-      parts.insert(m[0]);
-      searchStart += m.position() + m.length();
+        parts.insert(m[0]);
+        searchStart += m.position() + m.length();
     }
     while ( regex_search( searchStart, whole_file.cend(), m2, r2 ) ) {
-      parts2.insert(m2[0]);
-      searchStart += m2.position() + m2.length();
+        parts2.insert(m2[0]);
+        searchStart += m2.position() + m2.length();
     }
 
+    word_types.push_back("Word Types:");
     for (set<string>::iterator itr=parts.begin(); itr!=parts.end(); ++itr){
         string tempStr = (*itr);
         tempStr = tempStr.substr(16,tempStr.length());
@@ -85,21 +86,15 @@ vector<string> dic_algorithm(string wordToGet){
         word_types.push_back(tempStr);
     }
 
+    word_types.push_back("Synonyms:");
     for (set<string>::iterator itr=parts2.begin(); itr!=parts2.end(); ++itr){
         string tempStr = (*itr);
-        
-        size_t pos1 = tempStr.find("<span class=\"text\">");
-        size_t pos2 = tempStr.find("</span><span class=\"star inactive\">star</span></a></li>");
-
-        cout << "pos1 " << pos1 << " pos2 " << pos2 << endl;
 
         tempStr = tempStr.substr(19 ,tempStr.size()-19);
         size_t pos = tempStr.find("</");
         tempStr = tempStr.substr(0 ,pos);
 
-        cout << "*itr: " << *itr << endl;
-        cout << "Synonyms: " << tempStr << endl;
-        cout << endl;
+        word_types.push_back(tempStr);
     }
 
     return word_types;

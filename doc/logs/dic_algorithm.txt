@@ -1,0 +1,1336 @@
+03-08-2017 11:01:43 [DIC_ALGORITHM]: Entered function.
+03-08-2017 11:01:43 [DIC_ALGORITHM]: Word to get William
+03-08-2017 11:01:44 [DIC_ALGORITHM]: Exitited function.
+03-08-2017 11:01:44 [DIC_ALGORITHM]: Entered function.
+03-08-2017 11:01:44 [DIC_ALGORITHM]: Word to get William
+03-08-2017 11:02:54 [DIC_ALGORITHM]: Entered function.
+03-08-2017 11:02:54 [DIC_ALGORITHM]: Word to get William
+03-08-2017 11:02:56 [DIC_ALGORITHM]: Exitited function.
+03-08-2017 11:02:56 [DIC_ALGORITHM]: Entered function.
+03-08-2017 11:02:56 [DIC_ALGORITHM]: Word to get Shakespeare
+03-08-2017 11:02:57 [DIC_ALGORITHM]: Exitited function.
+03-08-2017 11:02:57 [DIC_ALGORITHM]: Entered function.
+03-08-2017 11:02:57 [DIC_ALGORITHM]: Word to get (/ˈʃeɪkspɪər/;[1]
+03-08-2017 11:02:59 [DIC_ALGORITHM]: Exitited function.
+03-08-2017 11:02:59 [DIC_ALGORITHM]: Entered function.
+03-08-2017 11:02:59 [DIC_ALGORITHM]: Word to get 26
+03-08-2017 11:03:00 [DIC_ALGORITHM]: Exitited function.
+03-08-2017 11:03:00 [DIC_ALGORITHM]: Entered function.
+03-08-2017 11:03:00 [DIC_ALGORITHM]: Word to get April
+03-08-2017 11:03:02 [DIC_ALGORITHM]: Exitited function.
+03-08-2017 11:03:02 [DIC_ALGORITHM]: Entered function.
+03-08-2017 11:03:02 [DIC_ALGORITHM]: Word to get 1564
+03-08-2017 11:03:03 [DIC_ALGORITHM]: Exitited function.
+03-08-2017 11:03:03 [DIC_ALGORITHM]: Entered function.
+03-08-2017 11:03:03 [DIC_ALGORITHM]: Word to get (baptised)
+03-08-2017 11:03:04 [DIC_ALGORITHM]: Exitited function.
+03-08-2017 11:03:04 [DIC_ALGORITHM]: Entered function.
+03-08-2017 11:03:04 [DIC_ALGORITHM]: Word to get –
+03-08-2017 11:03:05 [DIC_ALGORITHM]: Exitited function.
+03-08-2017 11:03:05 [DIC_ALGORITHM]: Entered function.
+03-08-2017 11:03:05 [DIC_ALGORITHM]: Word to get 23
+03-08-2017 11:03:06 [DIC_ALGORITHM]: Exitited function.
+03-08-2017 11:03:06 [DIC_ALGORITHM]: Entered function.
+03-08-2017 11:03:06 [DIC_ALGORITHM]: Word to get April
+03-08-2017 11:03:44 [DIC_ALGORITHM]: Entered function.
+03-08-2017 11:03:44 [DIC_ALGORITHM]: Word to get William
+03-08-2017 11:03:45 [DIC_ALGORITHM]: Exitited function.
+03-08-2017 11:03:45 [DIC_ALGORITHM]: Entered function.
+03-08-2017 11:03:45 [DIC_ALGORITHM]: Word to get Shakespeare
+03-08-2017 11:03:47 [DIC_ALGORITHM]: Exitited function.
+03-08-2017 11:03:47 [DIC_ALGORITHM]: Entered function.
+03-08-2017 11:03:47 [DIC_ALGORITHM]: Word to get (/ˈʃeɪkspɪər/;[1]
+03-08-2017 11:03:49 [DIC_ALGORITHM]: Exitited function.
+03-08-2017 11:03:49 [DIC_ALGORITHM]: Entered function.
+03-08-2017 11:03:49 [DIC_ALGORITHM]: Word to get 26
+03-08-2017 11:03:51 [DIC_ALGORITHM]: Exitited function.
+03-08-2017 11:03:51 [DIC_ALGORITHM]: Entered function.
+03-08-2017 11:03:51 [DIC_ALGORITHM]: Word to get April
+03-08-2017 11:03:53 [DIC_ALGORITHM]: Exitited function.
+03-08-2017 11:03:53 [DIC_ALGORITHM]: Entered function.
+03-08-2017 11:03:53 [DIC_ALGORITHM]: Word to get 1564
+03-08-2017 11:03:54 [DIC_ALGORITHM]: Exitited function.
+03-08-2017 11:03:54 [DIC_ALGORITHM]: Entered function.
+03-08-2017 11:03:54 [DIC_ALGORITHM]: Word to get (baptised)
+03-08-2017 11:03:56 [DIC_ALGORITHM]: Exitited function.
+03-08-2017 11:03:56 [DIC_ALGORITHM]: Entered function.
+03-08-2017 11:03:56 [DIC_ALGORITHM]: Word to get –
+03-08-2017 11:03:57 [DIC_ALGORITHM]: Exitited function.
+03-08-2017 11:03:57 [DIC_ALGORITHM]: Entered function.
+03-08-2017 11:03:57 [DIC_ALGORITHM]: Word to get 23
+03-08-2017 11:04:00 [DIC_ALGORITHM]: Exitited function.
+03-08-2017 11:04:00 [DIC_ALGORITHM]: Entered function.
+03-08-2017 11:04:00 [DIC_ALGORITHM]: Word to get April
+03-08-2017 11:04:07 [DIC_ALGORITHM]: Exitited function.
+03-08-2017 11:04:07 [DIC_ALGORITHM]: Entered function.
+03-08-2017 11:04:07 [DIC_ALGORITHM]: Word to get 1616)[nb
+03-08-2017 11:04:14 [DIC_ALGORITHM]: Exitited function.
+03-08-2017 11:04:14 [DIC_ALGORITHM]: Entered function.
+03-08-2017 11:04:14 [DIC_ALGORITHM]: Word to get 1]
+03-08-2017 11:04:15 [DIC_ALGORITHM]: Exitited function.
+03-08-2017 11:04:15 [DIC_ALGORITHM]: Entered function.
+03-08-2017 11:04:15 [DIC_ALGORITHM]: Word to get was
+03-08-2017 11:04:17 [DIC_ALGORITHM]: Exitited function.
+03-08-2017 11:04:17 [DIC_ALGORITHM]: Entered function.
+03-08-2017 11:04:17 [DIC_ALGORITHM]: Word to get an
+03-08-2017 11:04:17 [DIC_ALGORITHM]: Exitited function.
+03-08-2017 11:04:17 [DIC_ALGORITHM]: Entered function.
+03-08-2017 11:04:17 [DIC_ALGORITHM]: Word to get English
+03-08-2017 11:04:20 [DIC_ALGORITHM]: Exitited function.
+03-08-2017 11:04:20 [DIC_ALGORITHM]: Entered function.
+03-08-2017 11:04:20 [DIC_ALGORITHM]: Word to get poet,
+03-08-2017 11:04:22 [DIC_ALGORITHM]: Exitited function.
+03-08-2017 11:04:22 [DIC_ALGORITHM]: Entered function.
+03-08-2017 11:04:22 [DIC_ALGORITHM]: Word to get playwright,
+03-08-2017 11:04:24 [DIC_ALGORITHM]: Exitited function.
+03-08-2017 11:04:24 [DIC_ALGORITHM]: Entered function.
+03-08-2017 11:04:24 [DIC_ALGORITHM]: Word to get and
+03-08-2017 11:04:25 [DIC_ALGORITHM]: Exitited function.
+03-08-2017 11:04:25 [DIC_ALGORITHM]: Entered function.
+03-08-2017 11:04:25 [DIC_ALGORITHM]: Word to get actor,
+03-08-2017 11:04:32 [DIC_ALGORITHM]: Exitited function.
+03-08-2017 11:04:32 [DIC_ALGORITHM]: Entered function.
+03-08-2017 11:04:32 [DIC_ALGORITHM]: Word to get widely
+03-08-2017 11:04:34 [DIC_ALGORITHM]: Exitited function.
+03-08-2017 11:04:34 [DIC_ALGORITHM]: Entered function.
+03-08-2017 11:04:34 [DIC_ALGORITHM]: Word to get regarded
+03-08-2017 11:04:36 [DIC_ALGORITHM]: Exitited function.
+03-08-2017 11:04:36 [DIC_ALGORITHM]: Entered function.
+03-08-2017 11:04:36 [DIC_ALGORITHM]: Word to get as
+03-08-2017 11:04:38 [DIC_ALGORITHM]: Exitited function.
+03-08-2017 11:04:38 [DIC_ALGORITHM]: Entered function.
+03-08-2017 11:04:38 [DIC_ALGORITHM]: Word to get the
+03-08-2017 11:04:40 [DIC_ALGORITHM]: Exitited function.
+03-08-2017 11:04:40 [DIC_ALGORITHM]: Entered function.
+03-08-2017 11:04:40 [DIC_ALGORITHM]: Word to get greatest
+03-08-2017 11:04:42 [DIC_ALGORITHM]: Exitited function.
+03-08-2017 11:04:42 [DIC_ALGORITHM]: Entered function.
+03-08-2017 11:04:42 [DIC_ALGORITHM]: Word to get writer
+03-08-2017 11:04:50 [DIC_ALGORITHM]: Exitited function.
+03-08-2017 11:04:50 [DIC_ALGORITHM]: Entered function.
+03-08-2017 11:04:50 [DIC_ALGORITHM]: Word to get in
+03-08-2017 11:04:51 [DIC_ALGORITHM]: Exitited function.
+03-08-2017 11:04:51 [DIC_ALGORITHM]: Entered function.
+03-08-2017 11:04:51 [DIC_ALGORITHM]: Word to get the
+03-08-2017 11:04:53 [DIC_ALGORITHM]: Exitited function.
+03-08-2017 11:04:53 [DIC_ALGORITHM]: Entered function.
+03-08-2017 11:04:53 [DIC_ALGORITHM]: Word to get English
+03-08-2017 11:04:55 [DIC_ALGORITHM]: Exitited function.
+03-08-2017 11:04:55 [DIC_ALGORITHM]: Entered function.
+03-08-2017 11:04:55 [DIC_ALGORITHM]: Word to get language
+03-08-2017 11:04:57 [DIC_ALGORITHM]: Exitited function.
+03-08-2017 11:04:57 [DIC_ALGORITHM]: Entered function.
+03-08-2017 11:04:57 [DIC_ALGORITHM]: Word to get and
+03-08-2017 11:04:59 [DIC_ALGORITHM]: Exitited function.
+03-08-2017 11:04:59 [DIC_ALGORITHM]: Entered function.
+03-08-2017 11:04:59 [DIC_ALGORITHM]: Word to get the
+03-08-2017 11:05:01 [DIC_ALGORITHM]: Exitited function.
+03-08-2017 11:05:01 [DIC_ALGORITHM]: Entered function.
+03-08-2017 11:05:01 [DIC_ALGORITHM]: Word to get world's
+03-08-2017 11:05:02 [DIC_ALGORITHM]: Exitited function.
+03-08-2017 11:05:02 [DIC_ALGORITHM]: Entered function.
+03-08-2017 11:05:02 [DIC_ALGORITHM]: Word to get pre-eminent
+03-08-2017 11:05:20 [DIC_ALGORITHM]: Exitited function.
+03-08-2017 11:05:20 [DIC_ALGORITHM]: Entered function.
+03-08-2017 11:05:20 [DIC_ALGORITHM]: Word to get dramatist.[2]
+03-08-2017 11:05:22 [DIC_ALGORITHM]: Exitited function.
+03-08-2017 11:05:22 [DIC_ALGORITHM]: Entered function.
+03-08-2017 11:05:22 [DIC_ALGORITHM]: Word to get He
+03-08-2017 11:05:24 [DIC_ALGORITHM]: Exitited function.
+03-08-2017 11:05:24 [DIC_ALGORITHM]: Entered function.
+03-08-2017 11:05:24 [DIC_ALGORITHM]: Word to get is
+03-08-2017 11:05:26 [DIC_ALGORITHM]: Exitited function.
+03-08-2017 11:05:26 [DIC_ALGORITHM]: Entered function.
+03-08-2017 11:05:26 [DIC_ALGORITHM]: Word to get often
+03-08-2017 11:05:27 [DIC_ALGORITHM]: Exitited function.
+03-08-2017 11:05:27 [DIC_ALGORITHM]: Entered function.
+03-08-2017 11:05:27 [DIC_ALGORITHM]: Word to get called
+03-08-2017 11:05:29 [DIC_ALGORITHM]: Exitited function.
+03-08-2017 11:05:29 [DIC_ALGORITHM]: Entered function.
+03-08-2017 11:05:29 [DIC_ALGORITHM]: Word to get England's
+03-08-2017 11:05:30 [DIC_ALGORITHM]: Exitited function.
+03-08-2017 11:05:30 [DIC_ALGORITHM]: Entered function.
+03-08-2017 11:05:30 [DIC_ALGORITHM]: Word to get national
+03-08-2017 11:05:32 [DIC_ALGORITHM]: Exitited function.
+03-08-2017 11:05:32 [DIC_ALGORITHM]: Entered function.
+03-08-2017 11:05:32 [DIC_ALGORITHM]: Word to get poet,
+03-08-2017 11:05:39 [DIC_ALGORITHM]: Exitited function.
+03-08-2017 11:05:39 [DIC_ALGORITHM]: Entered function.
+03-08-2017 11:05:39 [DIC_ALGORITHM]: Word to get and
+03-08-2017 11:05:40 [DIC_ALGORITHM]: Exitited function.
+03-08-2017 11:05:40 [DIC_ALGORITHM]: Entered function.
+03-08-2017 11:05:40 [DIC_ALGORITHM]: Word to get the
+03-08-2017 11:05:42 [DIC_ALGORITHM]: Exitited function.
+03-08-2017 11:05:42 [DIC_ALGORITHM]: Entered function.
+03-08-2017 11:05:42 [DIC_ALGORITHM]: Word to get "Bard
+03-08-2017 11:05:43 [DIC_ALGORITHM]: Exitited function.
+03-08-2017 11:05:43 [DIC_ALGORITHM]: Entered function.
+03-08-2017 11:05:43 [DIC_ALGORITHM]: Word to get of
+03-08-2017 11:05:45 [DIC_ALGORITHM]: Exitited function.
+03-08-2017 11:05:45 [DIC_ALGORITHM]: Entered function.
+03-08-2017 11:05:45 [DIC_ALGORITHM]: Word to get Avon".[3][nb
+03-08-2017 11:05:47 [DIC_ALGORITHM]: Exitited function.
+03-08-2017 11:05:47 [DIC_ALGORITHM]: Entered function.
+03-08-2017 11:05:47 [DIC_ALGORITHM]: Word to get 2]
+03-08-2017 11:05:50 [DIC_ALGORITHM]: Exitited function.
+03-08-2017 11:05:50 [DIC_ALGORITHM]: Entered function.
+03-08-2017 11:05:50 [DIC_ALGORITHM]: Word to get His
+03-08-2017 11:05:52 [DIC_ALGORITHM]: Exitited function.
+03-08-2017 11:05:52 [DIC_ALGORITHM]: Entered function.
+03-08-2017 11:05:52 [DIC_ALGORITHM]: Word to get extant
+03-08-2017 11:05:54 [DIC_ALGORITHM]: Exitited function.
+03-08-2017 11:05:54 [DIC_ALGORITHM]: Entered function.
+03-08-2017 11:05:54 [DIC_ALGORITHM]: Word to get works,
+03-08-2017 11:05:56 [DIC_ALGORITHM]: Exitited function.
+03-08-2017 11:05:56 [DIC_ALGORITHM]: Entered function.
+03-08-2017 11:05:56 [DIC_ALGORITHM]: Word to get including
+03-08-2017 11:05:59 [DIC_ALGORITHM]: Exitited function.
+03-08-2017 11:05:59 [DIC_ALGORITHM]: Entered function.
+03-08-2017 11:05:59 [DIC_ALGORITHM]: Word to get collaborations,
+03-08-2017 11:06:01 [DIC_ALGORITHM]: Exitited function.
+03-08-2017 11:06:01 [DIC_ALGORITHM]: Entered function.
+03-08-2017 11:06:01 [DIC_ALGORITHM]: Word to get consist
+03-08-2017 11:06:02 [DIC_ALGORITHM]: Exitited function.
+03-08-2017 11:06:02 [DIC_ALGORITHM]: Entered function.
+03-08-2017 11:06:02 [DIC_ALGORITHM]: Word to get of
+03-08-2017 11:06:03 [DIC_ALGORITHM]: Exitited function.
+03-08-2017 11:06:03 [DIC_ALGORITHM]: Entered function.
+03-08-2017 11:06:03 [DIC_ALGORITHM]: Word to get approximately
+03-08-2017 11:06:04 [DIC_ALGORITHM]: Exitited function.
+03-08-2017 11:06:04 [DIC_ALGORITHM]: Entered function.
+03-08-2017 11:06:04 [DIC_ALGORITHM]: Word to get 38
+03-08-2017 11:06:05 [DIC_ALGORITHM]: Exitited function.
+03-08-2017 11:06:05 [DIC_ALGORITHM]: Entered function.
+03-08-2017 11:06:05 [DIC_ALGORITHM]: Word to get plays,[nb
+03-08-2017 11:06:07 [DIC_ALGORITHM]: Exitited function.
+03-08-2017 11:06:07 [DIC_ALGORITHM]: Entered function.
+03-08-2017 11:06:07 [DIC_ALGORITHM]: Word to get 3]
+03-08-2017 11:06:09 [DIC_ALGORITHM]: Exitited function.
+03-08-2017 11:06:09 [DIC_ALGORITHM]: Entered function.
+03-08-2017 11:06:09 [DIC_ALGORITHM]: Word to get 154
+03-08-2017 11:06:10 [DIC_ALGORITHM]: Exitited function.
+03-08-2017 11:06:10 [DIC_ALGORITHM]: Entered function.
+03-08-2017 11:06:10 [DIC_ALGORITHM]: Word to get sonnets,
+03-08-2017 11:06:11 [DIC_ALGORITHM]: Exitited function.
+03-08-2017 11:06:11 [DIC_ALGORITHM]: Entered function.
+03-08-2017 11:06:11 [DIC_ALGORITHM]: Word to get two
+03-08-2017 11:06:13 [DIC_ALGORITHM]: Exitited function.
+03-08-2017 11:06:13 [DIC_ALGORITHM]: Entered function.
+03-08-2017 11:06:13 [DIC_ALGORITHM]: Word to get long
+03-08-2017 11:06:15 [DIC_ALGORITHM]: Exitited function.
+03-08-2017 11:06:15 [DIC_ALGORITHM]: Entered function.
+03-08-2017 11:06:15 [DIC_ALGORITHM]: Word to get narrative
+03-08-2017 11:06:17 [DIC_ALGORITHM]: Exitited function.
+03-08-2017 11:06:17 [DIC_ALGORITHM]: Entered function.
+03-08-2017 11:06:17 [DIC_ALGORITHM]: Word to get poems,
+03-08-2017 11:06:19 [DIC_ALGORITHM]: Exitited function.
+03-08-2017 11:06:19 [DIC_ALGORITHM]: Entered function.
+03-08-2017 11:06:19 [DIC_ALGORITHM]: Word to get and
+03-08-2017 11:06:21 [DIC_ALGORITHM]: Exitited function.
+03-08-2017 11:06:21 [DIC_ALGORITHM]: Entered function.
+03-08-2017 11:06:21 [DIC_ALGORITHM]: Word to get a
+03-08-2017 11:06:23 [DIC_ALGORITHM]: Exitited function.
+03-08-2017 11:06:23 [DIC_ALGORITHM]: Entered function.
+03-08-2017 11:06:23 [DIC_ALGORITHM]: Word to get few
+03-08-2017 11:06:25 [DIC_ALGORITHM]: Exitited function.
+03-08-2017 11:06:25 [DIC_ALGORITHM]: Entered function.
+03-08-2017 11:06:25 [DIC_ALGORITHM]: Word to get other
+03-08-2017 11:06:26 [DIC_ALGORITHM]: Exitited function.
+03-08-2017 11:06:26 [DIC_ALGORITHM]: Entered function.
+03-08-2017 11:06:26 [DIC_ALGORITHM]: Word to get verses,
+03-08-2017 11:06:28 [DIC_ALGORITHM]: Exitited function.
+03-08-2017 11:06:28 [DIC_ALGORITHM]: Entered function.
+03-08-2017 11:06:28 [DIC_ALGORITHM]: Word to get some
+03-08-2017 11:06:29 [DIC_ALGORITHM]: Exitited function.
+03-08-2017 11:06:29 [DIC_ALGORITHM]: Entered function.
+03-08-2017 11:06:29 [DIC_ALGORITHM]: Word to get of
+03-08-2017 11:06:30 [DIC_ALGORITHM]: Exitited function.
+03-08-2017 11:06:30 [DIC_ALGORITHM]: Entered function.
+03-08-2017 11:06:30 [DIC_ALGORITHM]: Word to get uncertain
+03-08-2017 11:06:33 [DIC_ALGORITHM]: Exitited function.
+03-08-2017 11:06:33 [DIC_ALGORITHM]: Entered function.
+03-08-2017 11:06:33 [DIC_ALGORITHM]: Word to get authorship.
+03-08-2017 11:06:35 [DIC_ALGORITHM]: Exitited function.
+03-08-2017 11:06:35 [DIC_ALGORITHM]: Entered function.
+03-08-2017 11:06:35 [DIC_ALGORITHM]: Word to get His
+03-08-2017 11:06:36 [DIC_ALGORITHM]: Exitited function.
+03-08-2017 11:06:36 [DIC_ALGORITHM]: Entered function.
+03-08-2017 11:06:36 [DIC_ALGORITHM]: Word to get plays
+03-08-2017 11:06:39 [DIC_ALGORITHM]: Exitited function.
+03-08-2017 11:06:39 [DIC_ALGORITHM]: Entered function.
+03-08-2017 11:06:39 [DIC_ALGORITHM]: Word to get have
+03-08-2017 11:06:42 [DIC_ALGORITHM]: Exitited function.
+03-08-2017 11:06:42 [DIC_ALGORITHM]: Entered function.
+03-08-2017 11:06:42 [DIC_ALGORITHM]: Word to get been
+03-08-2017 11:06:43 [DIC_ALGORITHM]: Exitited function.
+03-08-2017 11:06:43 [DIC_ALGORITHM]: Entered function.
+03-08-2017 11:06:43 [DIC_ALGORITHM]: Word to get translated
+03-08-2017 11:06:44 [DIC_ALGORITHM]: Exitited function.
+03-08-2017 11:06:44 [DIC_ALGORITHM]: Entered function.
+03-08-2017 11:06:44 [DIC_ALGORITHM]: Word to get into
+03-08-2017 11:06:45 [DIC_ALGORITHM]: Exitited function.
+03-08-2017 11:06:45 [DIC_ALGORITHM]: Entered function.
+03-08-2017 11:06:45 [DIC_ALGORITHM]: Word to get every
+03-08-2017 11:06:47 [DIC_ALGORITHM]: Exitited function.
+03-08-2017 11:06:47 [DIC_ALGORITHM]: Entered function.
+03-08-2017 11:06:47 [DIC_ALGORITHM]: Word to get major
+03-08-2017 11:06:48 [DIC_ALGORITHM]: Exitited function.
+03-08-2017 11:06:48 [DIC_ALGORITHM]: Entered function.
+03-08-2017 11:06:48 [DIC_ALGORITHM]: Word to get living
+03-08-2017 11:06:55 [DIC_ALGORITHM]: Exitited function.
+03-08-2017 11:06:55 [DIC_ALGORITHM]: Entered function.
+03-08-2017 11:06:55 [DIC_ALGORITHM]: Word to get language
+03-08-2017 11:06:57 [DIC_ALGORITHM]: Exitited function.
+03-08-2017 11:06:57 [DIC_ALGORITHM]: Entered function.
+03-08-2017 11:06:57 [DIC_ALGORITHM]: Word to get and
+03-08-2017 11:06:59 [DIC_ALGORITHM]: Exitited function.
+03-08-2017 11:06:59 [DIC_ALGORITHM]: Entered function.
+03-08-2017 11:06:59 [DIC_ALGORITHM]: Word to get are
+03-08-2017 11:07:00 [DIC_ALGORITHM]: Exitited function.
+03-08-2017 11:07:00 [DIC_ALGORITHM]: Entered function.
+03-08-2017 11:07:00 [DIC_ALGORITHM]: Word to get performed
+03-08-2017 11:07:02 [DIC_ALGORITHM]: Exitited function.
+03-08-2017 11:07:02 [DIC_ALGORITHM]: Entered function.
+03-08-2017 11:07:02 [DIC_ALGORITHM]: Word to get more
+03-08-2017 11:07:04 [DIC_ALGORITHM]: Exitited function.
+03-08-2017 11:07:04 [DIC_ALGORITHM]: Entered function.
+03-08-2017 11:07:04 [DIC_ALGORITHM]: Word to get often
+03-08-2017 11:07:06 [DIC_ALGORITHM]: Exitited function.
+03-08-2017 11:07:06 [DIC_ALGORITHM]: Entered function.
+03-08-2017 11:07:06 [DIC_ALGORITHM]: Word to get than
+03-08-2017 11:07:07 [DIC_ALGORITHM]: Exitited function.
+03-08-2017 11:07:08 [DIC_ALGORITHM]: Entered function.
+03-08-2017 11:07:08 [DIC_ALGORITHM]: Word to get those
+03-08-2017 11:07:09 [DIC_ALGORITHM]: Exitited function.
+03-08-2017 11:07:09 [DIC_ALGORITHM]: Entered function.
+03-08-2017 11:07:09 [DIC_ALGORITHM]: Word to get of
+03-08-2017 11:07:10 [DIC_ALGORITHM]: Exitited function.
+03-08-2017 11:07:10 [DIC_ALGORITHM]: Entered function.
+03-08-2017 11:07:10 [DIC_ALGORITHM]: Word to get any
+03-08-2017 11:07:12 [DIC_ALGORITHM]: Exitited function.
+03-08-2017 11:07:12 [DIC_ALGORITHM]: Entered function.
+03-08-2017 11:07:12 [DIC_ALGORITHM]: Word to get other
+03-08-2017 11:07:13 [DIC_ALGORITHM]: Exitited function.
+03-08-2017 11:07:13 [DIC_ALGORITHM]: Entered function.
+03-08-2017 11:07:13 [DIC_ALGORITHM]: Word to get playwright.[4]
+03-08-2017 11:07:14 [DIC_ALGORITHM]: Exitited function.
+03-08-2017 11:07:14 [DIC_ALGORITHM]: Entered function.
+03-08-2017 11:07:14 [DIC_ALGORITHM]: Word to get Shakespeare
+03-08-2017 11:07:15 [DIC_ALGORITHM]: Exitited function.
+03-08-2017 11:07:15 [DIC_ALGORITHM]: Entered function.
+03-08-2017 11:07:15 [DIC_ALGORITHM]: Word to get was
+03-08-2017 11:07:17 [DIC_ALGORITHM]: Exitited function.
+03-08-2017 11:07:17 [DIC_ALGORITHM]: Entered function.
+03-08-2017 11:07:17 [DIC_ALGORITHM]: Word to get born
+03-08-2017 11:07:18 [DIC_ALGORITHM]: Exitited function.
+03-08-2017 11:07:18 [DIC_ALGORITHM]: Entered function.
+03-08-2017 11:07:18 [DIC_ALGORITHM]: Word to get and
+03-08-2017 11:07:20 [DIC_ALGORITHM]: Exitited function.
+03-08-2017 11:07:20 [DIC_ALGORITHM]: Entered function.
+03-08-2017 11:07:20 [DIC_ALGORITHM]: Word to get brought
+03-08-2017 11:07:22 [DIC_ALGORITHM]: Exitited function.
+03-08-2017 11:07:22 [DIC_ALGORITHM]: Entered function.
+03-08-2017 11:07:22 [DIC_ALGORITHM]: Word to get up
+03-08-2017 11:07:24 [DIC_ALGORITHM]: Exitited function.
+03-08-2017 11:07:24 [DIC_ALGORITHM]: Entered function.
+03-08-2017 11:07:24 [DIC_ALGORITHM]: Word to get in
+03-08-2017 11:07:25 [DIC_ALGORITHM]: Exitited function.
+03-08-2017 11:07:25 [DIC_ALGORITHM]: Entered function.
+03-08-2017 11:07:25 [DIC_ALGORITHM]: Word to get Stratford-upon-Avon,
+03-08-2017 11:07:28 [DIC_ALGORITHM]: Exitited function.
+03-08-2017 11:07:28 [DIC_ALGORITHM]: Entered function.
+03-08-2017 11:07:28 [DIC_ALGORITHM]: Word to get Warwickshire.
+03-08-2017 11:07:30 [DIC_ALGORITHM]: Exitited function.
+03-08-2017 11:07:30 [DIC_ALGORITHM]: Entered function.
+03-08-2017 11:07:30 [DIC_ALGORITHM]: Word to get At
+03-08-2017 11:07:31 [DIC_ALGORITHM]: Exitited function.
+03-08-2017 11:07:31 [DIC_ALGORITHM]: Entered function.
+03-08-2017 11:07:31 [DIC_ALGORITHM]: Word to get the
+03-08-2017 11:07:33 [DIC_ALGORITHM]: Exitited function.
+03-08-2017 11:07:33 [DIC_ALGORITHM]: Entered function.
+03-08-2017 11:07:33 [DIC_ALGORITHM]: Word to get age
+03-08-2017 11:07:34 [DIC_ALGORITHM]: Exitited function.
+03-08-2017 11:07:34 [DIC_ALGORITHM]: Entered function.
+03-08-2017 11:07:34 [DIC_ALGORITHM]: Word to get of
+03-08-2017 11:07:35 [DIC_ALGORITHM]: Exitited function.
+03-08-2017 11:07:35 [DIC_ALGORITHM]: Entered function.
+03-08-2017 11:07:35 [DIC_ALGORITHM]: Word to get 18,
+03-08-2017 11:07:36 [DIC_ALGORITHM]: Exitited function.
+03-08-2017 11:07:36 [DIC_ALGORITHM]: Entered function.
+03-08-2017 11:07:36 [DIC_ALGORITHM]: Word to get he
+03-08-2017 11:07:38 [DIC_ALGORITHM]: Exitited function.
+03-08-2017 11:07:38 [DIC_ALGORITHM]: Entered function.
+03-08-2017 11:07:38 [DIC_ALGORITHM]: Word to get married
+03-08-2017 11:07:40 [DIC_ALGORITHM]: Exitited function.
+03-08-2017 11:07:40 [DIC_ALGORITHM]: Entered function.
+03-08-2017 11:07:40 [DIC_ALGORITHM]: Word to get Anne
+03-08-2017 11:07:42 [DIC_ALGORITHM]: Exitited function.
+03-08-2017 11:07:42 [DIC_ALGORITHM]: Entered function.
+03-08-2017 11:07:42 [DIC_ALGORITHM]: Word to get Hathaway,
+03-08-2017 11:07:44 [DIC_ALGORITHM]: Exitited function.
+03-08-2017 11:07:44 [DIC_ALGORITHM]: Entered function.
+03-08-2017 11:07:44 [DIC_ALGORITHM]: Word to get with
+03-08-2017 11:07:45 [DIC_ALGORITHM]: Exitited function.
+03-08-2017 11:07:45 [DIC_ALGORITHM]: Entered function.
+03-08-2017 11:07:45 [DIC_ALGORITHM]: Word to get whom
+03-08-2017 11:07:46 [DIC_ALGORITHM]: Exitited function.
+03-08-2017 11:07:46 [DIC_ALGORITHM]: Entered function.
+03-08-2017 11:07:46 [DIC_ALGORITHM]: Word to get he
+03-08-2017 11:07:47 [DIC_ALGORITHM]: Exitited function.
+03-08-2017 11:07:47 [DIC_ALGORITHM]: Entered function.
+03-08-2017 11:07:47 [DIC_ALGORITHM]: Word to get had
+03-08-2017 11:07:48 [DIC_ALGORITHM]: Exitited function.
+03-08-2017 11:07:48 [DIC_ALGORITHM]: Entered function.
+03-08-2017 11:07:48 [DIC_ALGORITHM]: Word to get three
+03-08-2017 11:07:50 [DIC_ALGORITHM]: Exitited function.
+03-08-2017 11:07:50 [DIC_ALGORITHM]: Entered function.
+03-08-2017 11:07:50 [DIC_ALGORITHM]: Word to get children:
+03-08-2017 11:07:52 [DIC_ALGORITHM]: Exitited function.
+03-08-2017 11:07:52 [DIC_ALGORITHM]: Entered function.
+03-08-2017 11:07:52 [DIC_ALGORITHM]: Word to get Susanna,
+03-08-2017 11:07:54 [DIC_ALGORITHM]: Exitited function.
+03-08-2017 11:07:54 [DIC_ALGORITHM]: Entered function.
+03-08-2017 11:07:54 [DIC_ALGORITHM]: Word to get and
+03-08-2017 11:07:55 [DIC_ALGORITHM]: Exitited function.
+03-08-2017 11:07:55 [DIC_ALGORITHM]: Entered function.
+03-08-2017 11:07:55 [DIC_ALGORITHM]: Word to get twins
+03-08-2017 11:07:57 [DIC_ALGORITHM]: Exitited function.
+03-08-2017 11:07:57 [DIC_ALGORITHM]: Entered function.
+03-08-2017 11:07:57 [DIC_ALGORITHM]: Word to get Hamnet
+03-08-2017 11:07:59 [DIC_ALGORITHM]: Exitited function.
+03-08-2017 11:07:59 [DIC_ALGORITHM]: Entered function.
+03-08-2017 11:07:59 [DIC_ALGORITHM]: Word to get and
+03-08-2017 11:08:01 [DIC_ALGORITHM]: Exitited function.
+03-08-2017 11:08:01 [DIC_ALGORITHM]: Entered function.
+03-08-2017 11:08:01 [DIC_ALGORITHM]: Word to get Judith.
+03-08-2017 11:08:03 [DIC_ALGORITHM]: Exitited function.
+03-08-2017 11:08:03 [DIC_ALGORITHM]: Entered function.
+03-08-2017 11:08:03 [DIC_ALGORITHM]: Word to get Sometime
+03-08-2017 11:08:05 [DIC_ALGORITHM]: Exitited function.
+03-08-2017 11:08:05 [DIC_ALGORITHM]: Entered function.
+03-08-2017 11:08:05 [DIC_ALGORITHM]: Word to get between
+03-08-2017 11:08:07 [DIC_ALGORITHM]: Exitited function.
+03-08-2017 11:08:07 [DIC_ALGORITHM]: Entered function.
+03-08-2017 11:08:07 [DIC_ALGORITHM]: Word to get 1585
+03-08-2017 11:08:09 [DIC_ALGORITHM]: Exitited function.
+03-08-2017 11:08:09 [DIC_ALGORITHM]: Entered function.
+03-08-2017 11:08:09 [DIC_ALGORITHM]: Word to get and
+03-08-2017 11:08:11 [DIC_ALGORITHM]: Exitited function.
+03-08-2017 11:08:11 [DIC_ALGORITHM]: Entered function.
+03-08-2017 11:08:11 [DIC_ALGORITHM]: Word to get 1592,
+03-08-2017 11:08:13 [DIC_ALGORITHM]: Exitited function.
+03-08-2017 11:08:13 [DIC_ALGORITHM]: Entered function.
+03-08-2017 11:08:13 [DIC_ALGORITHM]: Word to get he
+03-08-2017 11:08:15 [DIC_ALGORITHM]: Exitited function.
+03-08-2017 11:08:15 [DIC_ALGORITHM]: Entered function.
+03-08-2017 11:08:15 [DIC_ALGORITHM]: Word to get began
+03-08-2017 11:08:18 [DIC_ALGORITHM]: Exitited function.
+03-08-2017 11:08:18 [DIC_ALGORITHM]: Entered function.
+03-08-2017 11:08:18 [DIC_ALGORITHM]: Word to get a
+03-08-2017 11:08:19 [DIC_ALGORITHM]: Exitited function.
+03-08-2017 11:08:19 [DIC_ALGORITHM]: Entered function.
+03-08-2017 11:08:19 [DIC_ALGORITHM]: Word to get successful
+03-08-2017 11:08:20 [DIC_ALGORITHM]: Exitited function.
+03-08-2017 11:08:20 [DIC_ALGORITHM]: Entered function.
+03-08-2017 11:08:20 [DIC_ALGORITHM]: Word to get career
+03-08-2017 11:08:22 [DIC_ALGORITHM]: Exitited function.
+03-08-2017 11:08:22 [DIC_ALGORITHM]: Entered function.
+03-08-2017 11:08:22 [DIC_ALGORITHM]: Word to get in
+03-08-2017 11:08:23 [DIC_ALGORITHM]: Exitited function.
+03-08-2017 11:08:23 [DIC_ALGORITHM]: Entered function.
+03-08-2017 11:08:23 [DIC_ALGORITHM]: Word to get London
+03-08-2017 11:08:25 [DIC_ALGORITHM]: Exitited function.
+03-08-2017 11:08:25 [DIC_ALGORITHM]: Entered function.
+03-08-2017 11:08:25 [DIC_ALGORITHM]: Word to get as
+03-08-2017 11:08:26 [DIC_ALGORITHM]: Exitited function.
+03-08-2017 11:08:26 [DIC_ALGORITHM]: Entered function.
+03-08-2017 11:08:26 [DIC_ALGORITHM]: Word to get an
+03-08-2017 11:08:27 [DIC_ALGORITHM]: Exitited function.
+03-08-2017 11:08:27 [DIC_ALGORITHM]: Entered function.
+03-08-2017 11:08:27 [DIC_ALGORITHM]: Word to get actor,
+03-08-2017 11:08:29 [DIC_ALGORITHM]: Exitited function.
+03-08-2017 11:08:29 [DIC_ALGORITHM]: Entered function.
+03-08-2017 11:08:29 [DIC_ALGORITHM]: Word to get writer,
+03-08-2017 11:08:30 [DIC_ALGORITHM]: Exitited function.
+03-08-2017 11:08:30 [DIC_ALGORITHM]: Entered function.
+03-08-2017 11:08:30 [DIC_ALGORITHM]: Word to get and
+03-08-2017 11:08:32 [DIC_ALGORITHM]: Exitited function.
+03-08-2017 11:08:32 [DIC_ALGORITHM]: Entered function.
+03-08-2017 11:08:32 [DIC_ALGORITHM]: Word to get part-owner
+03-08-2017 11:08:34 [DIC_ALGORITHM]: Exitited function.
+03-08-2017 11:08:34 [DIC_ALGORITHM]: Entered function.
+03-08-2017 11:08:34 [DIC_ALGORITHM]: Word to get of
+03-08-2017 11:08:35 [DIC_ALGORITHM]: Exitited function.
+03-08-2017 11:08:35 [DIC_ALGORITHM]: Entered function.
+03-08-2017 11:08:35 [DIC_ALGORITHM]: Word to get a
+03-08-2017 11:08:36 [DIC_ALGORITHM]: Exitited function.
+03-08-2017 11:08:36 [DIC_ALGORITHM]: Entered function.
+03-08-2017 11:08:36 [DIC_ALGORITHM]: Word to get playing
+03-08-2017 11:08:38 [DIC_ALGORITHM]: Exitited function.
+03-08-2017 11:08:38 [DIC_ALGORITHM]: Entered function.
+03-08-2017 11:08:38 [DIC_ALGORITHM]: Word to get company
+03-08-2017 11:08:39 [DIC_ALGORITHM]: Exitited function.
+03-08-2017 11:08:39 [DIC_ALGORITHM]: Entered function.
+03-08-2017 11:08:39 [DIC_ALGORITHM]: Word to get called
+03-08-2017 11:08:40 [DIC_ALGORITHM]: Exitited function.
+03-08-2017 11:08:40 [DIC_ALGORITHM]: Entered function.
+03-08-2017 11:08:40 [DIC_ALGORITHM]: Word to get the
+03-08-2017 11:08:41 [DIC_ALGORITHM]: Exitited function.
+03-08-2017 11:08:41 [DIC_ALGORITHM]: Entered function.
+03-08-2017 11:08:41 [DIC_ALGORITHM]: Word to get Lord
+03-08-2017 11:08:43 [DIC_ALGORITHM]: Exitited function.
+03-08-2017 11:08:43 [DIC_ALGORITHM]: Entered function.
+03-08-2017 11:08:43 [DIC_ALGORITHM]: Word to get Chamberlain's
+03-08-2017 11:08:45 [DIC_ALGORITHM]: Exitited function.
+03-08-2017 11:08:45 [DIC_ALGORITHM]: Entered function.
+03-08-2017 11:08:45 [DIC_ALGORITHM]: Word to get Men,
+03-08-2017 11:08:47 [DIC_ALGORITHM]: Exitited function.
+03-08-2017 11:08:47 [DIC_ALGORITHM]: Entered function.
+03-08-2017 11:08:47 [DIC_ALGORITHM]: Word to get later
+03-08-2017 11:08:50 [DIC_ALGORITHM]: Exitited function.
+03-08-2017 11:08:50 [DIC_ALGORITHM]: Entered function.
+03-08-2017 11:08:50 [DIC_ALGORITHM]: Word to get known
+03-08-2017 11:08:51 [DIC_ALGORITHM]: Exitited function.
+03-08-2017 11:08:51 [DIC_ALGORITHM]: Entered function.
+03-08-2017 11:08:51 [DIC_ALGORITHM]: Word to get as
+03-08-2017 11:08:53 [DIC_ALGORITHM]: Exitited function.
+03-08-2017 11:08:53 [DIC_ALGORITHM]: Entered function.
+03-08-2017 11:08:53 [DIC_ALGORITHM]: Word to get the
+03-08-2017 11:08:55 [DIC_ALGORITHM]: Exitited function.
+03-08-2017 11:08:55 [DIC_ALGORITHM]: Entered function.
+03-08-2017 11:08:55 [DIC_ALGORITHM]: Word to get King's
+03-08-2017 11:08:57 [DIC_ALGORITHM]: Exitited function.
+03-08-2017 11:08:57 [DIC_ALGORITHM]: Entered function.
+03-08-2017 11:08:57 [DIC_ALGORITHM]: Word to get Men.
+03-08-2017 11:09:00 [DIC_ALGORITHM]: Exitited function.
+03-08-2017 11:09:00 [DIC_ALGORITHM]: Entered function.
+03-08-2017 11:09:00 [DIC_ALGORITHM]: Word to get He
+03-08-2017 11:09:01 [DIC_ALGORITHM]: Exitited function.
+03-08-2017 11:09:01 [DIC_ALGORITHM]: Entered function.
+03-08-2017 11:09:01 [DIC_ALGORITHM]: Word to get appears
+03-08-2017 11:09:02 [DIC_ALGORITHM]: Exitited function.
+03-08-2017 11:09:02 [DIC_ALGORITHM]: Entered function.
+03-08-2017 11:09:02 [DIC_ALGORITHM]: Word to get to
+03-08-2017 11:09:04 [DIC_ALGORITHM]: Exitited function.
+03-08-2017 11:09:04 [DIC_ALGORITHM]: Entered function.
+03-08-2017 11:09:04 [DIC_ALGORITHM]: Word to get have
+03-08-2017 11:09:07 [DIC_ALGORITHM]: Exitited function.
+03-08-2017 11:09:07 [DIC_ALGORITHM]: Entered function.
+03-08-2017 11:09:07 [DIC_ALGORITHM]: Word to get retired
+03-08-2017 11:09:09 [DIC_ALGORITHM]: Exitited function.
+03-08-2017 11:09:09 [DIC_ALGORITHM]: Entered function.
+03-08-2017 11:09:09 [DIC_ALGORITHM]: Word to get to
+03-08-2017 11:09:11 [DIC_ALGORITHM]: Exitited function.
+03-08-2017 11:09:11 [DIC_ALGORITHM]: Entered function.
+03-08-2017 11:09:11 [DIC_ALGORITHM]: Word to get Stratford
+03-08-2017 11:09:12 [DIC_ALGORITHM]: Exitited function.
+03-08-2017 11:09:12 [DIC_ALGORITHM]: Entered function.
+03-08-2017 11:09:12 [DIC_ALGORITHM]: Word to get around
+03-08-2017 11:09:14 [DIC_ALGORITHM]: Exitited function.
+03-08-2017 11:09:14 [DIC_ALGORITHM]: Entered function.
+03-08-2017 11:09:14 [DIC_ALGORITHM]: Word to get 1613,
+03-08-2017 11:09:15 [DIC_ALGORITHM]: Exitited function.
+03-08-2017 11:09:15 [DIC_ALGORITHM]: Entered function.
+03-08-2017 11:09:15 [DIC_ALGORITHM]: Word to get at
+03-08-2017 11:09:18 [DIC_ALGORITHM]: Exitited function.
+03-08-2017 11:09:18 [DIC_ALGORITHM]: Entered function.
+03-08-2017 11:09:18 [DIC_ALGORITHM]: Word to get age
+03-08-2017 11:09:26 [DIC_ALGORITHM]: Exitited function.
+03-08-2017 11:09:26 [DIC_ALGORITHM]: Entered function.
+03-08-2017 11:09:26 [DIC_ALGORITHM]: Word to get 49,
+03-08-2017 11:09:27 [DIC_ALGORITHM]: Exitited function.
+03-08-2017 11:09:27 [DIC_ALGORITHM]: Entered function.
+03-08-2017 11:09:27 [DIC_ALGORITHM]: Word to get where
+03-08-2017 11:09:28 [DIC_ALGORITHM]: Exitited function.
+03-08-2017 11:09:28 [DIC_ALGORITHM]: Entered function.
+03-08-2017 11:09:28 [DIC_ALGORITHM]: Word to get he
+03-08-2017 11:09:30 [DIC_ALGORITHM]: Exitited function.
+03-08-2017 11:09:30 [DIC_ALGORITHM]: Entered function.
+03-08-2017 11:09:30 [DIC_ALGORITHM]: Word to get died
+03-08-2017 11:09:31 [DIC_ALGORITHM]: Exitited function.
+03-08-2017 11:09:31 [DIC_ALGORITHM]: Entered function.
+03-08-2017 11:09:31 [DIC_ALGORITHM]: Word to get three
+03-08-2017 11:09:32 [DIC_ALGORITHM]: Exitited function.
+03-08-2017 11:09:32 [DIC_ALGORITHM]: Entered function.
+03-08-2017 11:09:32 [DIC_ALGORITHM]: Word to get years
+03-08-2017 11:09:34 [DIC_ALGORITHM]: Exitited function.
+03-08-2017 11:09:34 [DIC_ALGORITHM]: Entered function.
+03-08-2017 11:09:34 [DIC_ALGORITHM]: Word to get later.
+03-08-2017 11:09:36 [DIC_ALGORITHM]: Exitited function.
+03-08-2017 11:09:36 [DIC_ALGORITHM]: Entered function.
+03-08-2017 11:09:36 [DIC_ALGORITHM]: Word to get Few
+03-08-2017 11:09:37 [DIC_ALGORITHM]: Exitited function.
+03-08-2017 11:09:37 [DIC_ALGORITHM]: Entered function.
+03-08-2017 11:09:37 [DIC_ALGORITHM]: Word to get records
+03-08-2017 11:09:40 [DIC_ALGORITHM]: Exitited function.
+03-08-2017 11:09:40 [DIC_ALGORITHM]: Entered function.
+03-08-2017 11:09:40 [DIC_ALGORITHM]: Word to get of
+03-08-2017 11:09:41 [DIC_ALGORITHM]: Exitited function.
+03-08-2017 11:09:41 [DIC_ALGORITHM]: Entered function.
+03-08-2017 11:09:41 [DIC_ALGORITHM]: Word to get Shakespeare's
+03-08-2017 11:09:43 [DIC_ALGORITHM]: Exitited function.
+03-08-2017 11:09:43 [DIC_ALGORITHM]: Entered function.
+03-08-2017 11:09:43 [DIC_ALGORITHM]: Word to get private
+03-08-2017 11:09:45 [DIC_ALGORITHM]: Exitited function.
+03-08-2017 11:09:45 [DIC_ALGORITHM]: Entered function.
+03-08-2017 11:09:45 [DIC_ALGORITHM]: Word to get life
+03-08-2017 11:09:47 [DIC_ALGORITHM]: Exitited function.
+03-08-2017 11:09:47 [DIC_ALGORITHM]: Entered function.
+03-08-2017 11:09:47 [DIC_ALGORITHM]: Word to get survive,
+03-08-2017 11:09:48 [DIC_ALGORITHM]: Exitited function.
+03-08-2017 11:09:48 [DIC_ALGORITHM]: Entered function.
+03-08-2017 11:09:48 [DIC_ALGORITHM]: Word to get which
+03-08-2017 11:09:56 [DIC_ALGORITHM]: Exitited function.
+03-08-2017 11:09:56 [DIC_ALGORITHM]: Entered function.
+03-08-2017 11:09:56 [DIC_ALGORITHM]: Word to get has
+03-08-2017 11:09:57 [DIC_ALGORITHM]: Exitited function.
+03-08-2017 11:09:57 [DIC_ALGORITHM]: Entered function.
+03-08-2017 11:09:57 [DIC_ALGORITHM]: Word to get stimulated
+03-08-2017 11:09:59 [DIC_ALGORITHM]: Exitited function.
+03-08-2017 11:09:59 [DIC_ALGORITHM]: Entered function.
+03-08-2017 11:09:59 [DIC_ALGORITHM]: Word to get considerable
+03-08-2017 11:10:02 [DIC_ALGORITHM]: Exitited function.
+03-08-2017 11:10:02 [DIC_ALGORITHM]: Entered function.
+03-08-2017 11:10:02 [DIC_ALGORITHM]: Word to get speculation
+03-08-2017 11:10:05 [DIC_ALGORITHM]: Exitited function.
+03-08-2017 11:10:05 [DIC_ALGORITHM]: Entered function.
+03-08-2017 11:10:05 [DIC_ALGORITHM]: Word to get about
+03-08-2017 11:10:07 [DIC_ALGORITHM]: Exitited function.
+03-08-2017 11:10:07 [DIC_ALGORITHM]: Entered function.
+03-08-2017 11:10:07 [DIC_ALGORITHM]: Word to get such
+03-08-2017 11:10:08 [DIC_ALGORITHM]: Exitited function.
+03-08-2017 11:10:08 [DIC_ALGORITHM]: Entered function.
+03-08-2017 11:10:08 [DIC_ALGORITHM]: Word to get matters
+03-08-2017 11:10:10 [DIC_ALGORITHM]: Exitited function.
+03-08-2017 11:10:10 [DIC_ALGORITHM]: Entered function.
+03-08-2017 11:10:10 [DIC_ALGORITHM]: Word to get as
+03-08-2017 11:10:12 [DIC_ALGORITHM]: Exitited function.
+03-08-2017 11:10:12 [DIC_ALGORITHM]: Entered function.
+03-08-2017 11:10:12 [DIC_ALGORITHM]: Word to get his
+03-08-2017 11:10:13 [DIC_ALGORITHM]: Exitited function.
+03-08-2017 11:10:13 [DIC_ALGORITHM]: Entered function.
+03-08-2017 11:10:13 [DIC_ALGORITHM]: Word to get physical
+03-08-2017 11:10:15 [DIC_ALGORITHM]: Exitited function.
+03-08-2017 11:10:15 [DIC_ALGORITHM]: Entered function.
+03-08-2017 11:10:15 [DIC_ALGORITHM]: Word to get appearance,
+03-08-2017 11:10:17 [DIC_ALGORITHM]: Exitited function.
+03-08-2017 11:10:17 [DIC_ALGORITHM]: Entered function.
+03-08-2017 11:10:17 [DIC_ALGORITHM]: Word to get sexuality,
+03-08-2017 11:10:18 [DIC_ALGORITHM]: Exitited function.
+03-08-2017 11:10:18 [DIC_ALGORITHM]: Entered function.
+03-08-2017 11:10:18 [DIC_ALGORITHM]: Word to get religious
+03-08-2017 11:10:20 [DIC_ALGORITHM]: Exitited function.
+03-08-2017 11:10:20 [DIC_ALGORITHM]: Entered function.
+03-08-2017 11:10:20 [DIC_ALGORITHM]: Word to get beliefs,
+03-08-2017 11:10:21 [DIC_ALGORITHM]: Exitited function.
+03-08-2017 11:10:21 [DIC_ALGORITHM]: Entered function.
+03-08-2017 11:10:21 [DIC_ALGORITHM]: Word to get and
+03-08-2017 11:10:23 [DIC_ALGORITHM]: Exitited function.
+03-08-2017 11:10:23 [DIC_ALGORITHM]: Entered function.
+03-08-2017 11:10:23 [DIC_ALGORITHM]: Word to get whether
+03-08-2017 11:10:24 [DIC_ALGORITHM]: Exitited function.
+03-08-2017 11:10:24 [DIC_ALGORITHM]: Entered function.
+03-08-2017 11:10:24 [DIC_ALGORITHM]: Word to get the
+03-08-2017 11:10:26 [DIC_ALGORITHM]: Exitited function.
+03-08-2017 11:10:26 [DIC_ALGORITHM]: Entered function.
+03-08-2017 11:10:26 [DIC_ALGORITHM]: Word to get works
+03-08-2017 11:10:28 [DIC_ALGORITHM]: Exitited function.
+03-08-2017 11:10:28 [DIC_ALGORITHM]: Entered function.
+03-08-2017 11:10:28 [DIC_ALGORITHM]: Word to get attributed
+03-08-2017 11:10:31 [DIC_ALGORITHM]: Exitited function.
+03-08-2017 11:10:31 [DIC_ALGORITHM]: Entered function.
+03-08-2017 11:10:31 [DIC_ALGORITHM]: Word to get to
+03-08-2017 11:10:32 [DIC_ALGORITHM]: Exitited function.
+03-08-2017 11:10:32 [DIC_ALGORITHM]: Entered function.
+03-08-2017 11:10:32 [DIC_ALGORITHM]: Word to get him
+03-08-2017 11:10:34 [DIC_ALGORITHM]: Exitited function.
+03-08-2017 11:10:34 [DIC_ALGORITHM]: Entered function.
+03-08-2017 11:10:34 [DIC_ALGORITHM]: Word to get were
+03-08-2017 11:10:36 [DIC_ALGORITHM]: Exitited function.
+03-08-2017 11:10:36 [DIC_ALGORITHM]: Entered function.
+03-08-2017 11:10:36 [DIC_ALGORITHM]: Word to get written
+03-08-2017 11:10:38 [DIC_ALGORITHM]: Exitited function.
+03-08-2017 11:10:38 [DIC_ALGORITHM]: Entered function.
+03-08-2017 11:10:38 [DIC_ALGORITHM]: Word to get by
+03-08-2017 11:10:41 [DIC_ALGORITHM]: Exitited function.
+03-08-2017 11:10:41 [DIC_ALGORITHM]: Entered function.
+03-08-2017 11:10:41 [DIC_ALGORITHM]: Word to get others.[5]
+03-08-2017 11:10:43 [DIC_ALGORITHM]: Exitited function.
+03-08-2017 11:10:43 [DIC_ALGORITHM]: Entered function.
+03-08-2017 11:10:43 [DIC_ALGORITHM]: Word to get Shakespeare
+03-08-2017 11:10:44 [DIC_ALGORITHM]: Exitited function.
+03-08-2017 11:10:44 [DIC_ALGORITHM]: Entered function.
+03-08-2017 11:10:44 [DIC_ALGORITHM]: Word to get produced
+03-08-2017 11:10:45 [DIC_ALGORITHM]: Exitited function.
+03-08-2017 11:10:45 [DIC_ALGORITHM]: Entered function.
+03-08-2017 11:10:45 [DIC_ALGORITHM]: Word to get most
+03-08-2017 11:10:47 [DIC_ALGORITHM]: Exitited function.
+03-08-2017 11:10:47 [DIC_ALGORITHM]: Entered function.
+03-08-2017 11:10:47 [DIC_ALGORITHM]: Word to get of
+03-08-2017 11:10:48 [DIC_ALGORITHM]: Exitited function.
+03-08-2017 11:10:48 [DIC_ALGORITHM]: Entered function.
+03-08-2017 11:10:48 [DIC_ALGORITHM]: Word to get his
+03-08-2017 11:10:50 [DIC_ALGORITHM]: Exitited function.
+03-08-2017 11:10:50 [DIC_ALGORITHM]: Entered function.
+03-08-2017 11:10:50 [DIC_ALGORITHM]: Word to get known
+03-08-2017 11:10:51 [DIC_ALGORITHM]: Exitited function.
+03-08-2017 11:10:51 [DIC_ALGORITHM]: Entered function.
+03-08-2017 11:10:51 [DIC_ALGORITHM]: Word to get work
+03-08-2017 11:10:55 [DIC_ALGORITHM]: Exitited function.
+03-08-2017 11:10:55 [DIC_ALGORITHM]: Entered function.
+03-08-2017 11:10:55 [DIC_ALGORITHM]: Word to get between
+03-08-2017 11:10:56 [DIC_ALGORITHM]: Exitited function.
+03-08-2017 11:10:56 [DIC_ALGORITHM]: Entered function.
+03-08-2017 11:10:56 [DIC_ALGORITHM]: Word to get 1589
+03-08-2017 11:10:58 [DIC_ALGORITHM]: Exitited function.
+03-08-2017 11:10:58 [DIC_ALGORITHM]: Entered function.
+03-08-2017 11:10:58 [DIC_ALGORITHM]: Word to get and
+03-08-2017 11:10:59 [DIC_ALGORITHM]: Exitited function.
+03-08-2017 11:10:59 [DIC_ALGORITHM]: Entered function.
+03-08-2017 11:10:59 [DIC_ALGORITHM]: Word to get 1613.[6][nb
+03-08-2017 11:11:02 [DIC_ALGORITHM]: Exitited function.
+03-08-2017 11:11:02 [DIC_ALGORITHM]: Entered function.
+03-08-2017 11:11:02 [DIC_ALGORITHM]: Word to get 4]
+03-08-2017 11:11:04 [DIC_ALGORITHM]: Exitited function.
+03-08-2017 11:11:04 [DIC_ALGORITHM]: Entered function.
+03-08-2017 11:11:04 [DIC_ALGORITHM]: Word to get His
+03-08-2017 11:11:06 [DIC_ALGORITHM]: Exitited function.
+03-08-2017 11:11:06 [DIC_ALGORITHM]: Entered function.
+03-08-2017 11:11:06 [DIC_ALGORITHM]: Word to get early
+03-08-2017 11:11:08 [DIC_ALGORITHM]: Exitited function.
+03-08-2017 11:11:08 [DIC_ALGORITHM]: Entered function.
+03-08-2017 11:11:08 [DIC_ALGORITHM]: Word to get plays
+03-08-2017 11:11:12 [DIC_ALGORITHM]: Exitited function.
+03-08-2017 11:11:12 [DIC_ALGORITHM]: Entered function.
+03-08-2017 11:11:12 [DIC_ALGORITHM]: Word to get were
+03-08-2017 11:11:15 [DIC_ALGORITHM]: Exitited function.
+03-08-2017 11:11:15 [DIC_ALGORITHM]: Entered function.
+03-08-2017 11:11:15 [DIC_ALGORITHM]: Word to get primarily
+03-08-2017 11:11:16 [DIC_ALGORITHM]: Exitited function.
+03-08-2017 11:11:16 [DIC_ALGORITHM]: Entered function.
+03-08-2017 11:11:16 [DIC_ALGORITHM]: Word to get comedies
+03-08-2017 11:11:18 [DIC_ALGORITHM]: Exitited function.
+03-08-2017 11:11:18 [DIC_ALGORITHM]: Entered function.
+03-08-2017 11:11:18 [DIC_ALGORITHM]: Word to get and
+03-08-2017 11:11:20 [DIC_ALGORITHM]: Exitited function.
+03-08-2017 11:11:20 [DIC_ALGORITHM]: Entered function.
+03-08-2017 11:11:20 [DIC_ALGORITHM]: Word to get histories,
+03-08-2017 11:11:22 [DIC_ALGORITHM]: Exitited function.
+03-08-2017 11:11:22 [DIC_ALGORITHM]: Entered function.
+03-08-2017 11:11:22 [DIC_ALGORITHM]: Word to get which
+03-08-2017 11:11:25 [DIC_ALGORITHM]: Exitited function.
+03-08-2017 11:11:25 [DIC_ALGORITHM]: Entered function.
+03-08-2017 11:11:25 [DIC_ALGORITHM]: Word to get are
+03-08-2017 11:11:27 [DIC_ALGORITHM]: Exitited function.
+03-08-2017 11:11:27 [DIC_ALGORITHM]: Entered function.
+03-08-2017 11:11:27 [DIC_ALGORITHM]: Word to get regarded
+03-08-2017 11:11:28 [DIC_ALGORITHM]: Exitited function.
+03-08-2017 11:11:28 [DIC_ALGORITHM]: Entered function.
+03-08-2017 11:11:28 [DIC_ALGORITHM]: Word to get as
+03-08-2017 11:11:30 [DIC_ALGORITHM]: Exitited function.
+03-08-2017 11:11:30 [DIC_ALGORITHM]: Entered function.
+03-08-2017 11:11:30 [DIC_ALGORITHM]: Word to get some
+03-08-2017 11:11:32 [DIC_ALGORITHM]: Exitited function.
+03-08-2017 11:11:32 [DIC_ALGORITHM]: Entered function.
+03-08-2017 11:11:32 [DIC_ALGORITHM]: Word to get of
+03-08-2017 11:11:39 [DIC_ALGORITHM]: Exitited function.
+03-08-2017 11:11:39 [DIC_ALGORITHM]: Entered function.
+03-08-2017 11:11:39 [DIC_ALGORITHM]: Word to get the
+03-08-2017 11:11:41 [DIC_ALGORITHM]: Exitited function.
+03-08-2017 11:11:41 [DIC_ALGORITHM]: Entered function.
+03-08-2017 11:11:41 [DIC_ALGORITHM]: Word to get best
+03-08-2017 11:11:43 [DIC_ALGORITHM]: Exitited function.
+03-08-2017 11:11:43 [DIC_ALGORITHM]: Entered function.
+03-08-2017 11:11:43 [DIC_ALGORITHM]: Word to get work
+03-08-2017 11:11:46 [DIC_ALGORITHM]: Exitited function.
+03-08-2017 11:11:46 [DIC_ALGORITHM]: Entered function.
+03-08-2017 11:11:46 [DIC_ALGORITHM]: Word to get ever
+03-08-2017 11:11:48 [DIC_ALGORITHM]: Exitited function.
+03-08-2017 11:11:48 [DIC_ALGORITHM]: Entered function.
+03-08-2017 11:11:48 [DIC_ALGORITHM]: Word to get produced
+03-08-2017 11:11:50 [DIC_ALGORITHM]: Exitited function.
+03-08-2017 11:11:50 [DIC_ALGORITHM]: Entered function.
+03-08-2017 11:11:50 [DIC_ALGORITHM]: Word to get in
+03-08-2017 11:11:52 [DIC_ALGORITHM]: Exitited function.
+03-08-2017 11:11:52 [DIC_ALGORITHM]: Entered function.
+03-08-2017 11:11:52 [DIC_ALGORITHM]: Word to get these
+03-08-2017 11:11:54 [DIC_ALGORITHM]: Exitited function.
+03-08-2017 11:11:54 [DIC_ALGORITHM]: Entered function.
+03-08-2017 11:11:54 [DIC_ALGORITHM]: Word to get genres.
+03-08-2017 11:11:55 [DIC_ALGORITHM]: Exitited function.
+03-08-2017 11:11:55 [DIC_ALGORITHM]: Entered function.
+03-08-2017 11:11:55 [DIC_ALGORITHM]: Word to get He
+03-08-2017 11:11:57 [DIC_ALGORITHM]: Exitited function.
+03-08-2017 11:11:57 [DIC_ALGORITHM]: Entered function.
+03-08-2017 11:11:57 [DIC_ALGORITHM]: Word to get then
+03-08-2017 11:11:58 [DIC_ALGORITHM]: Exitited function.
+03-08-2017 11:11:58 [DIC_ALGORITHM]: Entered function.
+03-08-2017 11:11:58 [DIC_ALGORITHM]: Word to get wrote
+03-08-2017 11:12:00 [DIC_ALGORITHM]: Exitited function.
+03-08-2017 11:12:00 [DIC_ALGORITHM]: Entered function.
+03-08-2017 11:12:00 [DIC_ALGORITHM]: Word to get mainly
+03-08-2017 11:12:01 [DIC_ALGORITHM]: Exitited function.
+03-08-2017 11:12:01 [DIC_ALGORITHM]: Entered function.
+03-08-2017 11:12:01 [DIC_ALGORITHM]: Word to get tragedies
+03-08-2017 11:12:02 [DIC_ALGORITHM]: Exitited function.
+03-08-2017 11:12:02 [DIC_ALGORITHM]: Entered function.
+03-08-2017 11:12:02 [DIC_ALGORITHM]: Word to get until
+03-08-2017 11:12:03 [DIC_ALGORITHM]: Exitited function.
+03-08-2017 11:12:03 [DIC_ALGORITHM]: Entered function.
+03-08-2017 11:12:03 [DIC_ALGORITHM]: Word to get about
+03-08-2017 11:12:04 [DIC_ALGORITHM]: Exitited function.
+03-08-2017 11:12:04 [DIC_ALGORITHM]: Entered function.
+03-08-2017 11:12:04 [DIC_ALGORITHM]: Word to get 1608,
+03-08-2017 11:12:06 [DIC_ALGORITHM]: Exitited function.
+03-08-2017 11:12:06 [DIC_ALGORITHM]: Entered function.
+03-08-2017 11:12:06 [DIC_ALGORITHM]: Word to get including
+03-08-2017 11:12:07 [DIC_ALGORITHM]: Exitited function.
+03-08-2017 11:12:07 [DIC_ALGORITHM]: Entered function.
+03-08-2017 11:12:07 [DIC_ALGORITHM]: Word to get Hamlet,
+03-08-2017 11:12:09 [DIC_ALGORITHM]: Exitited function.
+03-08-2017 11:12:09 [DIC_ALGORITHM]: Entered function.
+03-08-2017 11:12:09 [DIC_ALGORITHM]: Word to get Othello,
+03-08-2017 11:12:11 [DIC_ALGORITHM]: Exitited function.
+03-08-2017 11:12:11 [DIC_ALGORITHM]: Entered function.
+03-08-2017 11:12:11 [DIC_ALGORITHM]: Word to get King
+03-08-2017 11:12:12 [DIC_ALGORITHM]: Exitited function.
+03-08-2017 11:12:12 [DIC_ALGORITHM]: Entered function.
+03-08-2017 11:12:12 [DIC_ALGORITHM]: Word to get Lear,
+03-08-2017 11:12:14 [DIC_ALGORITHM]: Exitited function.
+03-08-2017 11:12:14 [DIC_ALGORITHM]: Entered function.
+03-08-2017 11:12:14 [DIC_ALGORITHM]: Word to get and
+03-08-2017 11:12:16 [DIC_ALGORITHM]: Exitited function.
+03-08-2017 11:12:16 [DIC_ALGORITHM]: Entered function.
+03-08-2017 11:12:16 [DIC_ALGORITHM]: Word to get Macbeth,
+03-08-2017 11:12:17 [DIC_ALGORITHM]: Exitited function.
+03-08-2017 11:12:17 [DIC_ALGORITHM]: Entered function.
+03-08-2017 11:12:17 [DIC_ALGORITHM]: Word to get considered
+03-08-2017 11:12:20 [DIC_ALGORITHM]: Exitited function.
+03-08-2017 11:12:20 [DIC_ALGORITHM]: Entered function.
+03-08-2017 11:12:20 [DIC_ALGORITHM]: Word to get some
+03-08-2017 11:12:21 [DIC_ALGORITHM]: Exitited function.
+03-08-2017 11:12:21 [DIC_ALGORITHM]: Entered function.
+03-08-2017 11:12:21 [DIC_ALGORITHM]: Word to get of
+03-08-2017 11:12:23 [DIC_ALGORITHM]: Exitited function.
+03-08-2017 11:12:23 [DIC_ALGORITHM]: Entered function.
+03-08-2017 11:12:23 [DIC_ALGORITHM]: Word to get the
+03-08-2017 11:12:24 [DIC_ALGORITHM]: Exitited function.
+03-08-2017 11:12:24 [DIC_ALGORITHM]: Entered function.
+03-08-2017 11:12:24 [DIC_ALGORITHM]: Word to get finest
+03-08-2017 11:12:26 [DIC_ALGORITHM]: Exitited function.
+03-08-2017 11:12:26 [DIC_ALGORITHM]: Entered function.
+03-08-2017 11:12:26 [DIC_ALGORITHM]: Word to get works
+03-08-2017 11:12:27 [DIC_ALGORITHM]: Exitited function.
+03-08-2017 11:12:27 [DIC_ALGORITHM]: Entered function.
+03-08-2017 11:12:27 [DIC_ALGORITHM]: Word to get in
+03-08-2017 11:12:34 [DIC_ALGORITHM]: Exitited function.
+03-08-2017 11:12:34 [DIC_ALGORITHM]: Entered function.
+03-08-2017 11:12:34 [DIC_ALGORITHM]: Word to get the
+03-08-2017 11:12:35 [DIC_ALGORITHM]: Exitited function.
+03-08-2017 11:12:35 [DIC_ALGORITHM]: Entered function.
+03-08-2017 11:12:35 [DIC_ALGORITHM]: Word to get English
+03-08-2017 11:12:36 [DIC_ALGORITHM]: Exitited function.
+03-08-2017 11:12:36 [DIC_ALGORITHM]: Entered function.
+03-08-2017 11:12:36 [DIC_ALGORITHM]: Word to get language.[2]
+03-08-2017 11:12:39 [DIC_ALGORITHM]: Exitited function.
+03-08-2017 11:12:39 [DIC_ALGORITHM]: Entered function.
+03-08-2017 11:12:39 [DIC_ALGORITHM]: Word to get In
+03-08-2017 11:12:40 [DIC_ALGORITHM]: Exitited function.
+03-08-2017 11:12:40 [DIC_ALGORITHM]: Entered function.
+03-08-2017 11:12:40 [DIC_ALGORITHM]: Word to get his
+03-08-2017 11:12:41 [DIC_ALGORITHM]: Exitited function.
+03-08-2017 11:12:41 [DIC_ALGORITHM]: Entered function.
+03-08-2017 11:12:41 [DIC_ALGORITHM]: Word to get last
+03-08-2017 11:12:44 [DIC_ALGORITHM]: Exitited function.
+03-08-2017 11:12:44 [DIC_ALGORITHM]: Entered function.
+03-08-2017 11:12:44 [DIC_ALGORITHM]: Word to get phase,
+03-08-2017 11:12:46 [DIC_ALGORITHM]: Exitited function.
+03-08-2017 11:12:46 [DIC_ALGORITHM]: Entered function.
+03-08-2017 11:12:46 [DIC_ALGORITHM]: Word to get he
+03-08-2017 11:12:48 [DIC_ALGORITHM]: Exitited function.
+03-08-2017 11:12:48 [DIC_ALGORITHM]: Entered function.
+03-08-2017 11:12:48 [DIC_ALGORITHM]: Word to get wrote
+03-08-2017 11:12:50 [DIC_ALGORITHM]: Exitited function.
+03-08-2017 11:12:50 [DIC_ALGORITHM]: Entered function.
+03-08-2017 11:12:50 [DIC_ALGORITHM]: Word to get tragicomedies,
+03-08-2017 11:12:52 [DIC_ALGORITHM]: Exitited function.
+03-08-2017 11:12:52 [DIC_ALGORITHM]: Entered function.
+03-08-2017 11:12:52 [DIC_ALGORITHM]: Word to get also
+03-08-2017 11:12:53 [DIC_ALGORITHM]: Exitited function.
+03-08-2017 11:12:53 [DIC_ALGORITHM]: Entered function.
+03-08-2017 11:12:53 [DIC_ALGORITHM]: Word to get known
+03-08-2017 11:12:54 [DIC_ALGORITHM]: Exitited function.
+03-08-2017 11:12:54 [DIC_ALGORITHM]: Entered function.
+03-08-2017 11:12:54 [DIC_ALGORITHM]: Word to get as
+03-08-2017 11:12:57 [DIC_ALGORITHM]: Exitited function.
+03-08-2017 11:12:57 [DIC_ALGORITHM]: Entered function.
+03-08-2017 11:12:57 [DIC_ALGORITHM]: Word to get romances,
+03-08-2017 11:12:59 [DIC_ALGORITHM]: Exitited function.
+03-08-2017 11:12:59 [DIC_ALGORITHM]: Entered function.
+03-08-2017 11:12:59 [DIC_ALGORITHM]: Word to get and
+03-08-2017 11:13:00 [DIC_ALGORITHM]: Exitited function.
+03-08-2017 11:13:00 [DIC_ALGORITHM]: Entered function.
+03-08-2017 11:13:00 [DIC_ALGORITHM]: Word to get collaborated
+03-08-2017 11:13:01 [DIC_ALGORITHM]: Exitited function.
+03-08-2017 11:13:01 [DIC_ALGORITHM]: Entered function.
+03-08-2017 11:13:01 [DIC_ALGORITHM]: Word to get with
+03-08-2017 11:13:04 [DIC_ALGORITHM]: Exitited function.
+03-08-2017 11:13:04 [DIC_ALGORITHM]: Entered function.
+03-08-2017 11:13:04 [DIC_ALGORITHM]: Word to get other
+03-08-2017 11:13:06 [DIC_ALGORITHM]: Exitited function.
+03-08-2017 11:13:06 [DIC_ALGORITHM]: Entered function.
+03-08-2017 11:13:06 [DIC_ALGORITHM]: Word to get playwrights.
+03-08-2017 11:13:07 [DIC_ALGORITHM]: Exitited function.
+03-08-2017 11:13:07 [DIC_ALGORITHM]: Entered function.
+03-08-2017 11:13:07 [DIC_ALGORITHM]: Word to get Many
+03-08-2017 11:13:09 [DIC_ALGORITHM]: Exitited function.
+03-08-2017 11:13:09 [DIC_ALGORITHM]: Entered function.
+03-08-2017 11:13:09 [DIC_ALGORITHM]: Word to get of
+03-08-2017 11:13:10 [DIC_ALGORITHM]: Exitited function.
+03-08-2017 11:13:10 [DIC_ALGORITHM]: Entered function.
+03-08-2017 11:13:10 [DIC_ALGORITHM]: Word to get his
+03-08-2017 11:13:13 [DIC_ALGORITHM]: Exitited function.
+03-08-2017 11:13:13 [DIC_ALGORITHM]: Entered function.
+03-08-2017 11:13:13 [DIC_ALGORITHM]: Word to get plays
+03-08-2017 11:13:16 [DIC_ALGORITHM]: Exitited function.
+03-08-2017 11:13:16 [DIC_ALGORITHM]: Entered function.
+03-08-2017 11:13:16 [DIC_ALGORITHM]: Word to get were
+03-08-2017 11:13:18 [DIC_ALGORITHM]: Exitited function.
+03-08-2017 11:13:18 [DIC_ALGORITHM]: Entered function.
+03-08-2017 11:13:18 [DIC_ALGORITHM]: Word to get published
+03-08-2017 11:13:20 [DIC_ALGORITHM]: Exitited function.
+03-08-2017 11:13:20 [DIC_ALGORITHM]: Entered function.
+03-08-2017 11:13:20 [DIC_ALGORITHM]: Word to get in
+03-08-2017 11:13:22 [DIC_ALGORITHM]: Exitited function.
+03-08-2017 11:13:22 [DIC_ALGORITHM]: Entered function.
+03-08-2017 11:13:22 [DIC_ALGORITHM]: Word to get editions
+03-08-2017 11:13:24 [DIC_ALGORITHM]: Exitited function.
+03-08-2017 11:13:24 [DIC_ALGORITHM]: Entered function.
+03-08-2017 11:13:24 [DIC_ALGORITHM]: Word to get of
+03-08-2017 11:13:26 [DIC_ALGORITHM]: Exitited function.
+03-08-2017 11:13:26 [DIC_ALGORITHM]: Entered function.
+03-08-2017 11:13:26 [DIC_ALGORITHM]: Word to get varying
+03-08-2017 11:13:27 [DIC_ALGORITHM]: Exitited function.
+03-08-2017 11:13:27 [DIC_ALGORITHM]: Entered function.
+03-08-2017 11:13:27 [DIC_ALGORITHM]: Word to get quality
+03-08-2017 11:13:29 [DIC_ALGORITHM]: Exitited function.
+03-08-2017 11:13:29 [DIC_ALGORITHM]: Entered function.
+03-08-2017 11:13:29 [DIC_ALGORITHM]: Word to get and
+03-08-2017 11:13:36 [DIC_ALGORITHM]: Exitited function.
+03-08-2017 11:13:36 [DIC_ALGORITHM]: Entered function.
+03-08-2017 11:13:36 [DIC_ALGORITHM]: Word to get accuracy
+03-08-2017 11:13:37 [DIC_ALGORITHM]: Exitited function.
+03-08-2017 11:13:37 [DIC_ALGORITHM]: Entered function.
+03-08-2017 11:13:37 [DIC_ALGORITHM]: Word to get during
+03-08-2017 11:13:39 [DIC_ALGORITHM]: Exitited function.
+03-08-2017 11:13:39 [DIC_ALGORITHM]: Entered function.
+03-08-2017 11:13:39 [DIC_ALGORITHM]: Word to get his
+03-08-2017 11:13:41 [DIC_ALGORITHM]: Exitited function.
+03-08-2017 11:13:41 [DIC_ALGORITHM]: Entered function.
+03-08-2017 11:13:41 [DIC_ALGORITHM]: Word to get lifetime.
+03-08-2017 11:13:42 [DIC_ALGORITHM]: Exitited function.
+03-08-2017 11:13:42 [DIC_ALGORITHM]: Entered function.
+03-08-2017 11:13:42 [DIC_ALGORITHM]: Word to get In
+03-08-2017 11:13:44 [DIC_ALGORITHM]: Exitited function.
+03-08-2017 11:13:44 [DIC_ALGORITHM]: Entered function.
+03-08-2017 11:13:44 [DIC_ALGORITHM]: Word to get 1623,
+03-08-2017 11:13:45 [DIC_ALGORITHM]: Exitited function.
+03-08-2017 11:13:45 [DIC_ALGORITHM]: Entered function.
+03-08-2017 11:13:45 [DIC_ALGORITHM]: Word to get however,
+03-08-2017 11:13:47 [DIC_ALGORITHM]: Exitited function.
+03-08-2017 11:13:47 [DIC_ALGORITHM]: Entered function.
+03-08-2017 11:13:47 [DIC_ALGORITHM]: Word to get John
+03-08-2017 11:13:49 [DIC_ALGORITHM]: Exitited function.
+03-08-2017 11:13:49 [DIC_ALGORITHM]: Entered function.
+03-08-2017 11:13:49 [DIC_ALGORITHM]: Word to get Heminges
+03-08-2017 11:13:51 [DIC_ALGORITHM]: Exitited function.
+03-08-2017 11:13:51 [DIC_ALGORITHM]: Entered function.
+03-08-2017 11:13:51 [DIC_ALGORITHM]: Word to get and
+03-08-2017 11:13:53 [DIC_ALGORITHM]: Exitited function.
+03-08-2017 11:13:53 [DIC_ALGORITHM]: Entered function.
+03-08-2017 11:13:53 [DIC_ALGORITHM]: Word to get Henry
+03-08-2017 11:13:54 [DIC_ALGORITHM]: Exitited function.
+03-08-2017 11:13:54 [DIC_ALGORITHM]: Entered function.
+03-08-2017 11:13:54 [DIC_ALGORITHM]: Word to get Condell,
+03-08-2017 11:13:55 [DIC_ALGORITHM]: Exitited function.
+03-08-2017 11:13:55 [DIC_ALGORITHM]: Entered function.
+03-08-2017 11:13:55 [DIC_ALGORITHM]: Word to get two
+03-08-2017 11:13:57 [DIC_ALGORITHM]: Exitited function.
+03-08-2017 11:13:57 [DIC_ALGORITHM]: Entered function.
+03-08-2017 11:13:57 [DIC_ALGORITHM]: Word to get friends
+03-08-2017 11:13:59 [DIC_ALGORITHM]: Exitited function.
+03-08-2017 11:13:59 [DIC_ALGORITHM]: Entered function.
+03-08-2017 11:13:59 [DIC_ALGORITHM]: Word to get and
+03-08-2017 11:14:00 [DIC_ALGORITHM]: Exitited function.
+03-08-2017 11:14:00 [DIC_ALGORITHM]: Entered function.
+03-08-2017 11:14:00 [DIC_ALGORITHM]: Word to get fellow
+03-08-2017 11:14:02 [DIC_ALGORITHM]: Exitited function.
+03-08-2017 11:14:02 [DIC_ALGORITHM]: Entered function.
+03-08-2017 11:14:02 [DIC_ALGORITHM]: Word to get actors
+03-08-2017 11:14:03 [DIC_ALGORITHM]: Exitited function.
+03-08-2017 11:14:03 [DIC_ALGORITHM]: Entered function.
+03-08-2017 11:14:03 [DIC_ALGORITHM]: Word to get of
+03-08-2017 11:14:04 [DIC_ALGORITHM]: Exitited function.
+03-08-2017 11:14:04 [DIC_ALGORITHM]: Entered function.
+03-08-2017 11:14:04 [DIC_ALGORITHM]: Word to get Shakespeare,
+03-08-2017 11:14:07 [DIC_ALGORITHM]: Exitited function.
+03-08-2017 11:14:07 [DIC_ALGORITHM]: Entered function.
+03-08-2017 11:14:07 [DIC_ALGORITHM]: Word to get published
+03-08-2017 11:14:08 [DIC_ALGORITHM]: Exitited function.
+03-08-2017 11:14:08 [DIC_ALGORITHM]: Entered function.
+03-08-2017 11:14:08 [DIC_ALGORITHM]: Word to get a
+03-08-2017 11:14:10 [DIC_ALGORITHM]: Exitited function.
+03-08-2017 11:14:10 [DIC_ALGORITHM]: Entered function.
+03-08-2017 11:14:10 [DIC_ALGORITHM]: Word to get more
+03-08-2017 11:14:12 [DIC_ALGORITHM]: Exitited function.
+03-08-2017 11:14:12 [DIC_ALGORITHM]: Entered function.
+03-08-2017 11:14:12 [DIC_ALGORITHM]: Word to get definitive
+03-08-2017 11:14:14 [DIC_ALGORITHM]: Exitited function.
+03-08-2017 11:14:14 [DIC_ALGORITHM]: Entered function.
+03-08-2017 11:14:14 [DIC_ALGORITHM]: Word to get text
+03-08-2017 11:14:16 [DIC_ALGORITHM]: Exitited function.
+03-08-2017 11:14:16 [DIC_ALGORITHM]: Entered function.
+03-08-2017 11:14:16 [DIC_ALGORITHM]: Word to get known
+03-08-2017 11:14:18 [DIC_ALGORITHM]: Exitited function.
+03-08-2017 11:14:18 [DIC_ALGORITHM]: Entered function.
+03-08-2017 11:14:18 [DIC_ALGORITHM]: Word to get as
+03-08-2017 11:14:20 [DIC_ALGORITHM]: Exitited function.
+03-08-2017 11:14:20 [DIC_ALGORITHM]: Entered function.
+03-08-2017 11:14:20 [DIC_ALGORITHM]: Word to get the
+03-08-2017 11:14:22 [DIC_ALGORITHM]: Exitited function.
+03-08-2017 11:14:22 [DIC_ALGORITHM]: Entered function.
+03-08-2017 11:14:22 [DIC_ALGORITHM]: Word to get First
+03-08-2017 11:14:23 [DIC_ALGORITHM]: Exitited function.
+03-08-2017 11:14:23 [DIC_ALGORITHM]: Entered function.
+03-08-2017 11:14:23 [DIC_ALGORITHM]: Word to get Folio,
+03-08-2017 11:14:25 [DIC_ALGORITHM]: Exitited function.
+03-08-2017 11:14:25 [DIC_ALGORITHM]: Entered function.
+03-08-2017 11:14:25 [DIC_ALGORITHM]: Word to get a
+03-08-2017 11:14:26 [DIC_ALGORITHM]: Exitited function.
+03-08-2017 11:14:26 [DIC_ALGORITHM]: Entered function.
+03-08-2017 11:14:26 [DIC_ALGORITHM]: Word to get posthumous
+03-08-2017 11:14:27 [DIC_ALGORITHM]: Exitited function.
+03-08-2017 11:14:27 [DIC_ALGORITHM]: Entered function.
+03-08-2017 11:14:27 [DIC_ALGORITHM]: Word to get collected
+03-08-2017 11:14:28 [DIC_ALGORITHM]: Exitited function.
+03-08-2017 11:14:28 [DIC_ALGORITHM]: Entered function.
+03-08-2017 11:14:28 [DIC_ALGORITHM]: Word to get edition
+03-08-2017 11:14:30 [DIC_ALGORITHM]: Exitited function.
+03-08-2017 11:14:30 [DIC_ALGORITHM]: Entered function.
+03-08-2017 11:14:30 [DIC_ALGORITHM]: Word to get of
+03-08-2017 11:14:31 [DIC_ALGORITHM]: Exitited function.
+03-08-2017 11:14:31 [DIC_ALGORITHM]: Entered function.
+03-08-2017 11:14:31 [DIC_ALGORITHM]: Word to get his
+03-08-2017 11:14:39 [DIC_ALGORITHM]: Exitited function.
+03-08-2017 11:14:39 [DIC_ALGORITHM]: Entered function.
+03-08-2017 11:14:39 [DIC_ALGORITHM]: Word to get dramatic
+03-08-2017 11:14:40 [DIC_ALGORITHM]: Exitited function.
+03-08-2017 11:14:40 [DIC_ALGORITHM]: Entered function.
+03-08-2017 11:14:40 [DIC_ALGORITHM]: Word to get works
+03-08-2017 11:14:41 [DIC_ALGORITHM]: Exitited function.
+03-08-2017 11:14:41 [DIC_ALGORITHM]: Entered function.
+03-08-2017 11:14:41 [DIC_ALGORITHM]: Word to get that
+03-08-2017 11:14:44 [DIC_ALGORITHM]: Exitited function.
+03-08-2017 11:14:44 [DIC_ALGORITHM]: Entered function.
+03-08-2017 11:14:44 [DIC_ALGORITHM]: Word to get included
+03-08-2017 11:14:46 [DIC_ALGORITHM]: Exitited function.
+03-08-2017 11:14:46 [DIC_ALGORITHM]: Entered function.
+03-08-2017 11:14:46 [DIC_ALGORITHM]: Word to get all
+03-08-2017 11:14:48 [DIC_ALGORITHM]: Exitited function.
+03-08-2017 11:14:48 [DIC_ALGORITHM]: Entered function.
+03-08-2017 11:14:48 [DIC_ALGORITHM]: Word to get but
+03-08-2017 11:14:50 [DIC_ALGORITHM]: Exitited function.
+03-08-2017 11:14:50 [DIC_ALGORITHM]: Entered function.
+03-08-2017 11:14:50 [DIC_ALGORITHM]: Word to get two
+03-08-2017 11:14:51 [DIC_ALGORITHM]: Exitited function.
+03-08-2017 11:14:51 [DIC_ALGORITHM]: Entered function.
+03-08-2017 11:14:51 [DIC_ALGORITHM]: Word to get of
+03-08-2017 11:14:52 [DIC_ALGORITHM]: Exitited function.
+03-08-2017 11:14:52 [DIC_ALGORITHM]: Entered function.
+03-08-2017 11:14:52 [DIC_ALGORITHM]: Word to get the
+03-08-2017 11:14:54 [DIC_ALGORITHM]: Exitited function.
+03-08-2017 11:14:54 [DIC_ALGORITHM]: Entered function.
+03-08-2017 11:14:54 [DIC_ALGORITHM]: Word to get plays
+03-08-2017 11:14:56 [DIC_ALGORITHM]: Exitited function.
+03-08-2017 11:14:56 [DIC_ALGORITHM]: Entered function.
+03-08-2017 11:14:56 [DIC_ALGORITHM]: Word to get now
+03-08-2017 11:14:58 [DIC_ALGORITHM]: Exitited function.
+03-08-2017 11:14:58 [DIC_ALGORITHM]: Entered function.
+03-08-2017 11:14:58 [DIC_ALGORITHM]: Word to get recognised
+03-08-2017 11:14:59 [DIC_ALGORITHM]: Exitited function.
+03-08-2017 11:14:59 [DIC_ALGORITHM]: Entered function.
+03-08-2017 11:14:59 [DIC_ALGORITHM]: Word to get as
+03-08-2017 11:15:01 [DIC_ALGORITHM]: Exitited function.
+03-08-2017 11:15:01 [DIC_ALGORITHM]: Entered function.
+03-08-2017 11:15:01 [DIC_ALGORITHM]: Word to get Shakespeare's.[7]
+03-08-2017 11:15:03 [DIC_ALGORITHM]: Exitited function.
+03-08-2017 11:15:03 [DIC_ALGORITHM]: Entered function.
+03-08-2017 11:15:03 [DIC_ALGORITHM]: Word to get It
+03-08-2017 11:15:11 [DIC_ALGORITHM]: Exitited function.
+03-08-2017 11:15:11 [DIC_ALGORITHM]: Entered function.
+03-08-2017 11:15:11 [DIC_ALGORITHM]: Word to get was
+03-08-2017 11:15:12 [DIC_ALGORITHM]: Exitited function.
+03-08-2017 11:15:12 [DIC_ALGORITHM]: Entered function.
+03-08-2017 11:15:12 [DIC_ALGORITHM]: Word to get prefaced
+03-08-2017 11:15:14 [DIC_ALGORITHM]: Exitited function.
+03-08-2017 11:15:14 [DIC_ALGORITHM]: Entered function.
+03-08-2017 11:15:14 [DIC_ALGORITHM]: Word to get with
+03-08-2017 11:15:18 [DIC_ALGORITHM]: Exitited function.
+03-08-2017 11:15:18 [DIC_ALGORITHM]: Entered function.
+03-08-2017 11:15:18 [DIC_ALGORITHM]: Word to get a
+03-08-2017 11:15:20 [DIC_ALGORITHM]: Exitited function.
+03-08-2017 11:15:20 [DIC_ALGORITHM]: Entered function.
+03-08-2017 11:15:20 [DIC_ALGORITHM]: Word to get poem
+03-08-2017 11:15:21 [DIC_ALGORITHM]: Exitited function.
+03-08-2017 11:15:21 [DIC_ALGORITHM]: Entered function.
+03-08-2017 11:15:21 [DIC_ALGORITHM]: Word to get by
+03-08-2017 11:15:29 [DIC_ALGORITHM]: Exitited function.
+03-08-2017 11:15:29 [DIC_ALGORITHM]: Entered function.
+03-08-2017 11:15:29 [DIC_ALGORITHM]: Word to get Ben
+03-08-2017 11:15:30 [DIC_ALGORITHM]: Exitited function.
+03-08-2017 11:15:30 [DIC_ALGORITHM]: Entered function.
+03-08-2017 11:15:30 [DIC_ALGORITHM]: Word to get Jonson,
+03-08-2017 11:15:32 [DIC_ALGORITHM]: Exitited function.
+03-08-2017 11:15:32 [DIC_ALGORITHM]: Entered function.
+03-08-2017 11:15:32 [DIC_ALGORITHM]: Word to get in
+03-08-2017 11:15:34 [DIC_ALGORITHM]: Exitited function.
+03-08-2017 11:15:34 [DIC_ALGORITHM]: Entered function.
+03-08-2017 11:15:34 [DIC_ALGORITHM]: Word to get which
+03-08-2017 11:15:41 [DIC_ALGORITHM]: Exitited function.
+03-08-2017 11:15:41 [DIC_ALGORITHM]: Entered function.
+03-08-2017 11:15:41 [DIC_ALGORITHM]: Word to get Shakespeare
+03-08-2017 11:15:42 [DIC_ALGORITHM]: Exitited function.
+03-08-2017 11:15:42 [DIC_ALGORITHM]: Entered function.
+03-08-2017 11:15:42 [DIC_ALGORITHM]: Word to get is
+03-08-2017 11:15:44 [DIC_ALGORITHM]: Exitited function.
+03-08-2017 11:15:44 [DIC_ALGORITHM]: Entered function.
+03-08-2017 11:15:44 [DIC_ALGORITHM]: Word to get hailed,
+03-08-2017 11:15:47 [DIC_ALGORITHM]: Exitited function.
+03-08-2017 11:15:47 [DIC_ALGORITHM]: Entered function.
+03-08-2017 11:15:47 [DIC_ALGORITHM]: Word to get presciently,
+03-08-2017 11:15:49 [DIC_ALGORITHM]: Exitited function.
+03-08-2017 11:15:49 [DIC_ALGORITHM]: Entered function.
+03-08-2017 11:15:49 [DIC_ALGORITHM]: Word to get as
+03-08-2017 11:15:52 [DIC_ALGORITHM]: Exitited function.
+03-08-2017 11:15:52 [DIC_ALGORITHM]: Entered function.
+03-08-2017 11:15:52 [DIC_ALGORITHM]: Word to get "not
+03-08-2017 11:15:53 [DIC_ALGORITHM]: Exitited function.
+03-08-2017 11:15:53 [DIC_ALGORITHM]: Entered function.
+03-08-2017 11:15:53 [DIC_ALGORITHM]: Word to get of
+03-08-2017 11:15:54 [DIC_ALGORITHM]: Exitited function.
+03-08-2017 11:15:54 [DIC_ALGORITHM]: Entered function.
+03-08-2017 11:15:54 [DIC_ALGORITHM]: Word to get an
+03-08-2017 11:15:55 [DIC_ALGORITHM]: Exitited function.
+03-08-2017 11:15:55 [DIC_ALGORITHM]: Entered function.
+03-08-2017 11:15:55 [DIC_ALGORITHM]: Word to get age,
+03-08-2017 11:15:56 [DIC_ALGORITHM]: Exitited function.
+03-08-2017 11:15:56 [DIC_ALGORITHM]: Entered function.
+03-08-2017 11:15:56 [DIC_ALGORITHM]: Word to get but
+03-08-2017 11:15:58 [DIC_ALGORITHM]: Exitited function.
+03-08-2017 11:15:58 [DIC_ALGORITHM]: Entered function.
+03-08-2017 11:15:58 [DIC_ALGORITHM]: Word to get for
+03-08-2017 11:15:59 [DIC_ALGORITHM]: Exitited function.
+03-08-2017 11:15:59 [DIC_ALGORITHM]: Entered function.
+03-08-2017 11:15:59 [DIC_ALGORITHM]: Word to get all
+03-08-2017 11:16:01 [DIC_ALGORITHM]: Exitited function.
+03-08-2017 11:16:01 [DIC_ALGORITHM]: Entered function.
+03-08-2017 11:16:01 [DIC_ALGORITHM]: Word to get time".[7]
+03-08-2017 11:16:02 [DIC_ALGORITHM]: Exitited function.
+03-08-2017 11:16:02 [DIC_ALGORITHM]: Entered function.
+03-08-2017 11:16:02 [DIC_ALGORITHM]: Word to get In
+03-08-2017 11:16:05 [DIC_ALGORITHM]: Exitited function.
+03-08-2017 11:16:05 [DIC_ALGORITHM]: Entered function.
+03-08-2017 11:16:05 [DIC_ALGORITHM]: Word to get the
+03-08-2017 11:16:05 [DIC_ALGORITHM]: Exitited function.
+03-08-2017 11:16:05 [DIC_ALGORITHM]: Entered function.
+03-08-2017 11:16:05 [DIC_ALGORITHM]: Word to get 20th
+03-08-2017 11:16:07 [DIC_ALGORITHM]: Exitited function.
+03-08-2017 11:16:07 [DIC_ALGORITHM]: Entered function.
+03-08-2017 11:16:07 [DIC_ALGORITHM]: Word to get and
+03-08-2017 11:16:08 [DIC_ALGORITHM]: Exitited function.
+03-08-2017 11:16:08 [DIC_ALGORITHM]: Entered function.
+03-08-2017 11:16:08 [DIC_ALGORITHM]: Word to get 21st
+03-08-2017 11:16:10 [DIC_ALGORITHM]: Exitited function.
+03-08-2017 11:16:10 [DIC_ALGORITHM]: Entered function.
+03-08-2017 11:16:10 [DIC_ALGORITHM]: Word to get centuries,
+03-08-2017 11:16:11 [DIC_ALGORITHM]: Exitited function.
+03-08-2017 11:16:11 [DIC_ALGORITHM]: Entered function.
+03-08-2017 11:16:11 [DIC_ALGORITHM]: Word to get his
+03-08-2017 11:16:13 [DIC_ALGORITHM]: Exitited function.
+03-08-2017 11:16:13 [DIC_ALGORITHM]: Entered function.
+03-08-2017 11:16:13 [DIC_ALGORITHM]: Word to get works
+03-08-2017 11:16:14 [DIC_ALGORITHM]: Exitited function.
+03-08-2017 11:16:14 [DIC_ALGORITHM]: Entered function.
+03-08-2017 11:16:14 [DIC_ALGORITHM]: Word to get have
+03-08-2017 11:16:16 [DIC_ALGORITHM]: Exitited function.
+03-08-2017 11:16:16 [DIC_ALGORITHM]: Entered function.
+03-08-2017 11:16:16 [DIC_ALGORITHM]: Word to get been
+03-08-2017 11:16:18 [DIC_ALGORITHM]: Exitited function.
+03-08-2017 11:16:18 [DIC_ALGORITHM]: Entered function.
+03-08-2017 11:16:18 [DIC_ALGORITHM]: Word to get repeatedly
+03-08-2017 11:16:20 [DIC_ALGORITHM]: Exitited function.
+03-08-2017 11:16:20 [DIC_ALGORITHM]: Entered function.
+03-08-2017 11:16:20 [DIC_ALGORITHM]: Word to get adapted
+03-08-2017 11:16:22 [DIC_ALGORITHM]: Exitited function.
+03-08-2017 11:16:22 [DIC_ALGORITHM]: Entered function.
+03-08-2017 11:16:22 [DIC_ALGORITHM]: Word to get and
+03-08-2017 11:16:23 [DIC_ALGORITHM]: Exitited function.
+03-08-2017 11:16:23 [DIC_ALGORITHM]: Entered function.
+03-08-2017 11:16:23 [DIC_ALGORITHM]: Word to get rediscovered
+03-08-2017 11:16:25 [DIC_ALGORITHM]: Exitited function.
+03-08-2017 11:16:25 [DIC_ALGORITHM]: Entered function.
+03-08-2017 11:16:25 [DIC_ALGORITHM]: Word to get by
+03-08-2017 11:16:26 [DIC_ALGORITHM]: Exitited function.
+03-08-2017 11:16:26 [DIC_ALGORITHM]: Entered function.
+03-08-2017 11:16:26 [DIC_ALGORITHM]: Word to get new
+03-08-2017 11:16:28 [DIC_ALGORITHM]: Exitited function.
+03-08-2017 11:16:28 [DIC_ALGORITHM]: Entered function.
+03-08-2017 11:16:28 [DIC_ALGORITHM]: Word to get movements
+03-08-2017 11:16:31 [DIC_ALGORITHM]: Exitited function.
+03-08-2017 11:16:31 [DIC_ALGORITHM]: Entered function.
+03-08-2017 11:16:31 [DIC_ALGORITHM]: Word to get in
+03-08-2017 11:16:32 [DIC_ALGORITHM]: Exitited function.
+03-08-2017 11:16:32 [DIC_ALGORITHM]: Entered function.
+03-08-2017 11:16:32 [DIC_ALGORITHM]: Word to get scholarship
+03-08-2017 11:16:34 [DIC_ALGORITHM]: Exitited function.
+03-08-2017 11:16:34 [DIC_ALGORITHM]: Entered function.
+03-08-2017 11:16:34 [DIC_ALGORITHM]: Word to get and
+03-08-2017 11:16:35 [DIC_ALGORITHM]: Exitited function.
+03-08-2017 11:16:35 [DIC_ALGORITHM]: Entered function.
+03-08-2017 11:16:35 [DIC_ALGORITHM]: Word to get performance.
+03-08-2017 11:16:37 [DIC_ALGORITHM]: Exitited function.
+03-08-2017 11:16:37 [DIC_ALGORITHM]: Entered function.
+03-08-2017 11:16:37 [DIC_ALGORITHM]: Word to get His
+03-08-2017 11:16:38 [DIC_ALGORITHM]: Exitited function.
+03-08-2017 11:16:38 [DIC_ALGORITHM]: Entered function.
+03-08-2017 11:16:38 [DIC_ALGORITHM]: Word to get plays
+03-08-2017 11:16:41 [DIC_ALGORITHM]: Exitited function.
+03-08-2017 11:16:41 [DIC_ALGORITHM]: Entered function.
+03-08-2017 11:16:41 [DIC_ALGORITHM]: Word to get remain
+03-08-2017 11:16:43 [DIC_ALGORITHM]: Exitited function.
+03-08-2017 11:16:43 [DIC_ALGORITHM]: Entered function.
+03-08-2017 11:16:43 [DIC_ALGORITHM]: Word to get highly
+03-08-2017 11:16:45 [DIC_ALGORITHM]: Exitited function.
+03-08-2017 11:16:45 [DIC_ALGORITHM]: Entered function.
+03-08-2017 11:16:45 [DIC_ALGORITHM]: Word to get popular
+03-08-2017 11:16:46 [DIC_ALGORITHM]: Exitited function.
+03-08-2017 11:16:46 [DIC_ALGORITHM]: Entered function.
+03-08-2017 11:16:46 [DIC_ALGORITHM]: Word to get and
+03-08-2017 11:16:47 [DIC_ALGORITHM]: Exitited function.
+03-08-2017 11:16:47 [DIC_ALGORITHM]: Entered function.
+03-08-2017 11:16:47 [DIC_ALGORITHM]: Word to get are
+03-08-2017 11:16:49 [DIC_ALGORITHM]: Exitited function.
+03-08-2017 11:16:49 [DIC_ALGORITHM]: Entered function.
+03-08-2017 11:16:49 [DIC_ALGORITHM]: Word to get constantly
+03-08-2017 11:16:50 [DIC_ALGORITHM]: Exitited function.
+03-08-2017 11:16:50 [DIC_ALGORITHM]: Entered function.
+03-08-2017 11:16:50 [DIC_ALGORITHM]: Word to get studied,
+03-08-2017 11:16:52 [DIC_ALGORITHM]: Exitited function.
+03-08-2017 11:16:52 [DIC_ALGORITHM]: Entered function.
+03-08-2017 11:16:52 [DIC_ALGORITHM]: Word to get performed,
+03-08-2017 11:16:54 [DIC_ALGORITHM]: Exitited function.
+03-08-2017 11:16:54 [DIC_ALGORITHM]: Entered function.
+03-08-2017 11:16:54 [DIC_ALGORITHM]: Word to get and
+03-08-2017 11:16:55 [DIC_ALGORITHM]: Exitited function.
+03-08-2017 11:16:55 [DIC_ALGORITHM]: Entered function.
+03-08-2017 11:16:55 [DIC_ALGORITHM]: Word to get reinterpreted
+03-08-2017 11:16:57 [DIC_ALGORITHM]: Exitited function.
+03-08-2017 11:16:57 [DIC_ALGORITHM]: Entered function.
+03-08-2017 11:16:57 [DIC_ALGORITHM]: Word to get in
+03-08-2017 11:16:58 [DIC_ALGORITHM]: Exitited function.
+03-08-2017 11:16:58 [DIC_ALGORITHM]: Entered function.
+03-08-2017 11:16:58 [DIC_ALGORITHM]: Word to get diverse
+03-08-2017 11:17:00 [DIC_ALGORITHM]: Exitited function.
+03-08-2017 11:17:00 [DIC_ALGORITHM]: Entered function.
+03-08-2017 11:17:00 [DIC_ALGORITHM]: Word to get cultural
+03-08-2017 11:17:02 [DIC_ALGORITHM]: Exitited function.
+03-08-2017 11:17:02 [DIC_ALGORITHM]: Entered function.
+03-08-2017 11:17:02 [DIC_ALGORITHM]: Word to get and
+03-08-2017 11:17:03 [DIC_ALGORITHM]: Exitited function.
+03-08-2017 11:17:03 [DIC_ALGORITHM]: Entered function.
+03-08-2017 11:17:03 [DIC_ALGORITHM]: Word to get political
+03-08-2017 11:17:04 [DIC_ALGORITHM]: Exitited function.
+03-08-2017 11:17:04 [DIC_ALGORITHM]: Entered function.
+03-08-2017 11:17:04 [DIC_ALGORITHM]: Word to get contexts
+03-08-2017 11:17:06 [DIC_ALGORITHM]: Exitited function.
+03-08-2017 11:17:06 [DIC_ALGORITHM]: Entered function.
+03-08-2017 11:17:06 [DIC_ALGORITHM]: Word to get throughout
+03-08-2017 11:17:08 [DIC_ALGORITHM]: Exitited function.
+03-08-2017 11:17:08 [DIC_ALGORITHM]: Entered function.
+03-08-2017 11:17:08 [DIC_ALGORITHM]: Word to get the
+03-08-2017 11:17:10 [DIC_ALGORITHM]: Exitited function.
+03-08-2017 11:17:10 [DIC_ALGORITHM]: Entered function.
+03-08-2017 11:17:10 [DIC_ALGORITHM]: Word to get world.
+03-08-2017 11:17:12 [DIC_ALGORITHM]: Exitited function.
+03-08-2017 12:47:44 [DIC_ALGORITHM]: Entered function.
+03-08-2017 12:47:45 [DIC_ALGORITHM]: Exitited function.
+03-08-2017 12:47:45 [DIC_ALGORITHM]: Entered function.
+03-08-2017 12:47:47 [DIC_ALGORITHM]: Exitited function.
+03-08-2017 12:47:47 [DIC_ALGORITHM]: Entered function.
+03-08-2017 12:47:48 [DIC_ALGORITHM]: Exitited function.
+03-08-2017 12:47:48 [DIC_ALGORITHM]: Entered function.
+03-08-2017 12:47:50 [DIC_ALGORITHM]: Exitited function.
+03-08-2017 12:47:50 [DIC_ALGORITHM]: Entered function.
+03-08-2017 12:47:52 [DIC_ALGORITHM]: Exitited function.
+03-08-2017 12:47:52 [DIC_ALGORITHM]: Entered function.
+03-08-2017 12:47:53 [DIC_ALGORITHM]: Exitited function.
+03-08-2017 12:47:53 [DIC_ALGORITHM]: Entered function.
+03-08-2017 12:47:54 [DIC_ALGORITHM]: Exitited function.
+03-08-2017 12:47:54 [DIC_ALGORITHM]: Entered function.
+03-08-2017 12:47:55 [DIC_ALGORITHM]: Exitited function.
+03-08-2017 12:47:55 [DIC_ALGORITHM]: Entered function.
+03-08-2017 12:47:56 [DIC_ALGORITHM]: Exitited function.
+03-08-2017 12:53:12 [DIC_ALGORITHM]: Entered function.
+03-08-2017 12:53:12 [DIC_ALGORITHM]: Word to get William
+03-08-2017 12:53:14 [DIC_ALGORITHM]: Exitited function.
+03-08-2017 12:53:14 [DIC_ALGORITHM]: Entered function.
+03-08-2017 12:53:14 [DIC_ALGORITHM]: Word to get Shakespeare
+03-08-2017 12:53:15 [DIC_ALGORITHM]: Exitited function.
+03-08-2017 12:53:15 [DIC_ALGORITHM]: Entered function.
+03-08-2017 12:53:15 [DIC_ALGORITHM]: Word to get (/ˈʃeɪkspɪər/;[1]
+03-08-2017 12:53:16 [DIC_ALGORITHM]: Exitited function.
+03-08-2017 12:53:16 [DIC_ALGORITHM]: Entered function.
+03-08-2017 12:53:16 [DIC_ALGORITHM]: Word to get 26
+03-08-2017 12:53:17 [DIC_ALGORITHM]: Exitited function.
+03-08-2017 12:53:17 [DIC_ALGORITHM]: Entered function.
+03-08-2017 12:53:17 [DIC_ALGORITHM]: Word to get April
+03-08-2017 12:53:19 [DIC_ALGORITHM]: Exitited function.
+03-08-2017 12:53:19 [DIC_ALGORITHM]: Entered function.
+03-08-2017 12:53:19 [DIC_ALGORITHM]: Word to get 1564
+03-08-2017 12:53:20 [DIC_ALGORITHM]: Exitited function.
+03-08-2017 12:53:20 [DIC_ALGORITHM]: Entered function.
+03-08-2017 12:53:20 [DIC_ALGORITHM]: Word to get (baptised)
+03-08-2017 12:53:22 [DIC_ALGORITHM]: Exitited function.
+03-08-2017 12:53:22 [DIC_ALGORITHM]: Entered function.
+03-08-2017 12:53:22 [DIC_ALGORITHM]: Word to get –
+03-08-2017 12:53:23 [DIC_ALGORITHM]: Exitited function.
+03-08-2017 12:53:23 [DIC_ALGORITHM]: Entered function.
+03-08-2017 12:53:23 [DIC_ALGORITHM]: Word to get 23
+03-08-2017 12:53:24 [DIC_ALGORITHM]: Exitited function.
+03-08-2017 01:26:08 [DIC_ALGORITHM]: Entered function.
+03-08-2017 01:26:08 [DIC_ALGORITHM]: Word to get William
+03-08-2017 01:26:11 [DIC_ALGORITHM]: Exitited function.
+03-08-2017 01:26:11 [DIC_ALGORITHM]: Entered function.
+03-08-2017 01:26:11 [DIC_ALGORITHM]: Word to get Shakespeare
+03-08-2017 01:26:12 [DIC_ALGORITHM]: Exitited function.
+03-08-2017 01:26:12 [DIC_ALGORITHM]: Entered function.
+03-08-2017 01:26:12 [DIC_ALGORITHM]: Word to get (/ˈʃeɪkspɪər/;[1]
+03-08-2017 01:26:13 [DIC_ALGORITHM]: Exitited function.
+03-08-2017 01:26:13 [DIC_ALGORITHM]: Entered function.
+03-08-2017 01:26:13 [DIC_ALGORITHM]: Word to get 26
+03-08-2017 01:26:14 [DIC_ALGORITHM]: Exitited function.
+03-08-2017 01:26:14 [DIC_ALGORITHM]: Entered function.
+03-08-2017 01:26:14 [DIC_ALGORITHM]: Word to get April
+03-08-2017 01:26:17 [DIC_ALGORITHM]: Exitited function.
+03-08-2017 01:26:17 [DIC_ALGORITHM]: Entered function.
+03-08-2017 01:26:17 [DIC_ALGORITHM]: Word to get 1564
+03-08-2017 01:26:19 [DIC_ALGORITHM]: Exitited function.
+03-08-2017 01:26:19 [DIC_ALGORITHM]: Entered function.
+03-08-2017 01:26:19 [DIC_ALGORITHM]: Word to get (baptised)
+03-08-2017 01:26:21 [DIC_ALGORITHM]: Exitited function.
+03-08-2017 01:26:21 [DIC_ALGORITHM]: Entered function.
+03-08-2017 01:26:21 [DIC_ALGORITHM]: Word to get –
+03-08-2017 01:26:23 [DIC_ALGORITHM]: Exitited function.
+03-08-2017 01:26:23 [DIC_ALGORITHM]: Entered function.
+03-08-2017 01:26:23 [DIC_ALGORITHM]: Word to get 23
+03-08-2017 01:26:25 [DIC_ALGORITHM]: Exitited function.

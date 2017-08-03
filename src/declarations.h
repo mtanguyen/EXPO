@@ -18,7 +18,7 @@ extern void sorting_algorithm(string word, int line, int wordnum);
 
 extern string date_time();
 
-extern vector<string> dic_algorithm(string wordToGet);
+extern vector<string> dic_algorithm(string wordToGet, int choice);
 
 class Word{
 private:

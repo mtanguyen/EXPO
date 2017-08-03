@@ -9,6 +9,15 @@ Word::Word(string line_char, int line_num, int word_num, string plugin_type){
     type.push_back(plugin_type);
 }
 
+Word::Word(string line_char, int line_num, int word_num, vector<string> plugin_type){
+    word = line_char;
+    line.push_back(line_num);
+    wordnum.push_back(word_num);
+    for(unsigned int i = 0; i < plugin_type.size(); i++){
+        type.push_back(plugin_type.at(i));
+    }
+}
+
 string Word::get_word(){
     return word;
 }

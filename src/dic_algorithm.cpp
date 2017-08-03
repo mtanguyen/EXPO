@@ -6,7 +6,8 @@
 #include <regex>
 #include <set>
 
-#define html_filename "html.txt"
+#define html_filename       "../doc/logs/html.txt"
+#define dic_algorithm_log   "../doc/logs/dic_algorithm.txt"
 
 using namespace std;
 
@@ -15,10 +16,17 @@ static size_t write_data(void *ptr, size_t size, size_t nmemb, void *stream){
     return written;
 }
 
-vector<string> dic_algorithm(string wordToGet){
+vector<string> dic_algorithm(string wordToGet, int choice){
     CURL *curl_handle;
-
     FILE *html;
+
+    ofstream logs(dic_algorithm_log, ios::out | ios::app);
+
+    
+    logs << date_time() << " [DIC_ALGORITHM]: Entered function." << endl;
+    logs << date_time() << " [DIC_ALGORITHM]: Word to get " << wordToGet << endl;
+    cout << date_time() << " [DIC_ALGORITHM]: Word to get " << wordToGet << endl;
+
     html = fopen(html_filename, "w");
     if(html == NULL){
       cout << html_filename << " did not open." << endl;
@@ -56,46 +64,58 @@ vector<string> dic_algorithm(string wordToGet){
         whole_file += v.at(i);
     }
 
-    set<string> parts;
-    set<string> parts2;
-    vector<string> word_types;
+
     smatch m, m2;
+    set<string> parts, parts2;
+    vector<string> word_types;
     regex r("<em class=\"txt\">.+");
     regex r2("<span class=\"text\">.+");
+    string::const_iterator searchStart(whole_file.cbegin());
 
-    regex_search(whole_file, m, r);
-    regex_search(whole_file, m2, r2);
+    switch(choice){
+        case 0:
+            regex_search(whole_file, m, r);
 
-    string::const_iterator searchStart( whole_file.cbegin() );
+            while ( regex_search( searchStart, whole_file.cend(), m, r ) ) {
+                parts.insert(m[0]);
+                searchStart += m.position() + m.length();
+            }
 
-    while ( regex_search( searchStart, whole_file.cend(), m, r ) ) {
-        parts.insert(m[0]);
-        searchStart += m.position() + m.length();
+            for (set<string>::iterator itr=parts.begin(); itr!=parts.end(); ++itr){
+                string tempStr = (*itr);
+
+                tempStr = tempStr.substr(16,tempStr.length());
+                tempStr = tempStr.substr(0,tempStr.length()-5);
+                
+                word_types.push_back(tempStr);
+            }
+            break;
+        case 1:            
+            regex_search(whole_file, m2, r2);
+
+            while ( regex_search( searchStart, whole_file.cend(), m2, r2 ) ) {
+                parts2.insert(m2[0]);
+                searchStart += m2.position() + m2.length();
+            }
+
+            for (set<string>::iterator itr=parts2.begin(); itr!=parts2.end(); ++itr){
+                string tempStr = (*itr);
+
+                tempStr = tempStr.substr(19 ,tempStr.size()-19);
+                size_t pos = tempStr.find("</");
+                tempStr = tempStr.substr(0 ,pos);
+
+                word_types.push_back(tempStr);
+            }
+            break;
+        default:
+            logs << date_time() << " [ERROR][DIC_ALGORITHM]: Choice number " << choice << " is an incorrect input." << endl;
+            cout << date_time() << " [ERROR][DIC_ALGORITHM]: Choice number " << choice << " is an incorrect input." << endl;
+            break;
     }
-    while ( regex_search( searchStart, whole_file.cend(), m2, r2 ) ) {
-        parts2.insert(m2[0]);
-        searchStart += m2.position() + m2.length();
-    }
 
-    word_types.push_back("Word Types:");
-    for (set<string>::iterator itr=parts.begin(); itr!=parts.end(); ++itr){
-        string tempStr = (*itr);
-        tempStr = tempStr.substr(16,tempStr.length());
-        tempStr = tempStr.substr(0,tempStr.length()-5);
-
-        word_types.push_back(tempStr);
-    }
-
-    word_types.push_back("Synonyms:");
-    for (set<string>::iterator itr=parts2.begin(); itr!=parts2.end(); ++itr){
-        string tempStr = (*itr);
-
-        tempStr = tempStr.substr(19 ,tempStr.size()-19);
-        size_t pos = tempStr.find("</");
-        tempStr = tempStr.substr(0 ,pos);
-
-        word_types.push_back(tempStr);
-    }
+    logs << date_time() << " [DIC_ALGORITHM]: Exitited function." << endl;
+    logs.close();
 
     return word_types;
 }

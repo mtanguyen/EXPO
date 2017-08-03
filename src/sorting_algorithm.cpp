@@ -22,76 +22,41 @@ void sorting_algorithm(string char_word, int line, int wordnum){
     // string created_already;
     // fstream already_created("../doc/already_created.txt", ios::out | ios::in | ios::app);
     for (i = 0; i < 3; i++){
-        for (j = 0; j < 3500; j++){
-            if (char_word.c_str() == parts_speech[i][j]){
-                logs << date_time() << " [SORT_ALGORITHM]: Word: " << char_word << endl;
-                logs << date_time() << " [SORT_ALGORITHM]: Line Number: " << line << endl;
-                logs << date_time() << " [SORT_ALGORITHM]: Word Number: " << wordnum << endl;
-                logs << date_time() << " [SORT_ALGORITHM]: Type: " << parts.at(i) << endl;
+        for(vector<Word>::iterator it = words.begin(); it != words.end(); it++){
+            if(char_word.c_str() == it->get_word()){
+                it->add_line(line);
+                it->add_wordnum(wordnum);
+                it->add_type(parts.at(i));
 
-                word = new Word(char_word, line, wordnum, parts.at(i));
-                words.push_back(*word);
-
-                // if(firsttime){
-                //     word = new Word(char_word, line, wordnum, parts.at(i));
-                //     words.push_back(*word);
-                    
-                //     already_created << word->get_word() << endl;
-
-                //     firsttime--;
-                // }
-                // else{
-                //     if(already_created.is_open()){
-                //         int match = 0;
-                //         while(getline(already_created, created_already)){
-                //             if(created_already == char_word.c_str()){
-                //                 for (vector<Word>::iterator it = words.begin(); it != words.end(); ++it){
-                //                     if(it->get_word() == created_already){
-                //                         it->add_line(line);
-                //                         it->add_wordnum(wordnum);
-                //                         it->add_type(parts.at(i));
-
-                //                         match = 1;
-                //                     }
-                //                 }
-                //             }
-                //         }
-                //         if(!match){
-                //             word = new Word(char_word, line, wordnum, parts.at(i));
-                //             words.push_back(*word);
-                //         }
-
-
-                //     }
-                //     else{
-                //         logs << date_time() << " [ERROR][SORT_ALGORITHM]: File not opened." << endl;
-                //         cout << date_time() << " [ERROR][SORT_ALGORITHM]: File not opened." << endl;
-                //     }  
-                // }
-                 
-                logs << date_time() << " [SORT_ALGORITHM]: Word from Class: " << word->get_word() << endl;
-                logs << date_time() << " [SORT_ALGORITHM]: Line Number from Class: " << word->get_line() << endl;
-                logs << date_time() << " [SORT_ALGORITHM]: Word Number from Class: " << word->get_wordnum() << endl;
-                logs << date_time() << " [SORT_ALGORITHM]: Type from Class: " << word->get_type() << endl;
-                
-                logs << date_time() << " [SORT_ALGORITHM]: New word created " << word->get_word() << endl;
-            }
-            else {
-                // string type = plugin(word);
-                // Word word(word, line, wordnum, type);
-                // words.push_back(word);
-
-                // word = new Word(char_word, line, wordnum, dic_algorithm(char_word.c_str()));
-                // words.push_back(*word);
-
-                if(i == 2 && j == 3499)
-                    logs << date_time() << " [SORT_ALGORITHM]: No new words created for " << i+1 << " filess and " << (j+1)*3 << " words." << endl;
-                
+                i = -1;
             }
         }
+        if(i != -1){
+            for (j = 0; j < 3500; j++){
+                if (char_word.c_str() == parts_speech[i][j]){
+                    logs << date_time() << " [SORT_ALGORITHM]: Word: " << char_word << endl;
+                    logs << date_time() << " [SORT_ALGORITHM]: Line Number: " << line << endl;
+                    logs << date_time() << " [SORT_ALGORITHM]: Word Number: " << wordnum << endl;
+                    logs << date_time() << " [SORT_ALGORITHM]: Type: " << parts.at(i) << endl;
 
-        // if(i == 2)
-        //     dic_algorithm(char_word);
+                    word = new Word(char_word, line, wordnum, parts.at(i));
+                    words.push_back(*word);
+
+                    logs << date_time() << " [SORT_ALGORITHM]: Word from Class: " << word->get_word() << endl;
+                    logs << date_time() << " [SORT_ALGORITHM]: Line Number from Class: " << word->get_line() << endl;
+                    logs << date_time() << " [SORT_ALGORITHM]: Word Number from Class: " << word->get_wordnum() << endl;
+                    logs << date_time() << " [SORT_ALGORITHM]: Type from Class: " << word->get_type() << endl;
+                
+                    logs << date_time() << " [SORT_ALGORITHM]: New word created " << word->get_word() << endl;
+                }
+                else {
+                    if(i == 2 && j == 3499){
+                        word = new Word(char_word.c_str(), line, wordnum, dic_algorithm(char_word.c_str(), 0));
+                        words.push_back(*word);
+                    }
+                }
+            }
+        }
     }
 
     logs << date_time() << " [SORT_ALGORITHM]: Exiting function." << endl;

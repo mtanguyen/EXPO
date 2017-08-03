@@ -42,18 +42,6 @@ int main(int argc, char **argv){
 			find_function(line);
 	}while(line != "\\exit");
 
-	do{
-		cout << date_time() << " [FASTNet]: What would you like to find in the dictionary." << endl;
-		cin >> line;
-		if(line != "\\exit"){
-			vector<string> dictionary = dic_algorithm(line);
-			for (unsigned int i = 0; i < dictionary.size(); ++i){
-				logs << date_time() << " [FASTNet]: Dictionary at " << i << " :" << dictionary.at(i) << endl;;
-				cout << date_time() << " [FASTNet]: Dictionary at " << i << " :" << dictionary.at(i) << endl;;
-			}
-		}
-	}while(line != "\\exit");
-
 	logs << date_time() << " [FASTNet]: Exiting function." << endl;
 	cout << date_time() << " [FASTNet]: Closing program." << endl;
 

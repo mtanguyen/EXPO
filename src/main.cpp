@@ -42,7 +42,6 @@ int main(int argc, char **argv){
 			find_function(line);
 	}while(line != "\\exit");
 
-<<<<<<< HEAD
 	do{
 		cout << date_time() << " [FASTNet]: What would you like to find in the dictionary?" << endl;
 		cin >> line;
@@ -55,8 +54,7 @@ int main(int argc, char **argv){
 		}
 	}while(line != "\\exit");
 
-=======
->>>>>>> 58e7eeb00cc574ae0e1e36ae4d8ea4c242437587
+
 	logs << date_time() << " [FASTNet]: Exiting function." << endl;
 	cout << date_time() << " [FASTNet]: Closing program." << endl;
 

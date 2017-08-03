@@ -22,7 +22,8 @@ void sorting_algorithm(string char_word, int line, int wordnum){
     // string created_already;
     // fstream already_created("../doc/already_created.txt", ios::out | ios::in | ios::app);
     for (i = 0; i < 3; i++){
-        for(vector<Word>::iterator it = words.begin(); it != words.end(); it++){
+        vector<Word>::iterator it;
+        for(it = words.begin(); it != words.end(); it++){
             if(char_word.c_str() == it->get_word()){
                 it->add_line(line);
                 it->add_wordnum(wordnum);
@@ -31,6 +32,7 @@ void sorting_algorithm(string char_word, int line, int wordnum){
                 i = -1;
             }
         }
+        delete it;
         if(i != -1){
             for (j = 0; j < 3500; j++){
                 if (char_word.c_str() == parts_speech[i][j]){
@@ -41,6 +43,7 @@ void sorting_algorithm(string char_word, int line, int wordnum){
 
                     word = new Word(char_word, line, wordnum, parts.at(i));
                     words.push_back(*word);
+                    delete word;
 
                     logs << date_time() << " [SORT_ALGORITHM]: Word from Class: " << word->get_word() << endl;
                     logs << date_time() << " [SORT_ALGORITHM]: Line Number from Class: " << word->get_line() << endl;
@@ -54,6 +57,7 @@ void sorting_algorithm(string char_word, int line, int wordnum){
                         logs << date_time() << " [SORT_ALGORITHM]: Looking for word " << char_word << " in the dictionary." << endl;
                         word = new Word(char_word.c_str(), line, wordnum, dic_algorithm(char_word.c_str(), 0));
                         words.push_back(*word);
+                        delete word;
                     }
                 }
             }

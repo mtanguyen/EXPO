@@ -40,6 +40,7 @@ vector<string> dic_algorithm(string wordToGet, int choice){
     curl_handle = curl_easy_init();
 
     curl_easy_setopt(curl_handle, CURLOPT_URL, url_address);
+    delete [] url_address;
     curl_easy_setopt(curl_handle, CURLOPT_NOPROGRESS, 1L);
     curl_easy_setopt(curl_handle, CURLOPT_WRITEFUNCTION, write_data);
     curl_easy_setopt(curl_handle, CURLOPT_FOLLOWLOCATION, 1);
@@ -98,7 +99,7 @@ vector<string> dic_algorithm(string wordToGet, int choice){
                 searchStart += m2.position() + m2.length();
             }
 
-            for (set<string>::iterator itr=parts2.begin(); itr!=parts2.end(); ++itr){
+            for (set<string>::iterator itr = parts2.begin(); itr!=parts2.end(); ++itr){
                 string tempStr = (*itr);
 
                 tempStr = tempStr.substr(19 ,tempStr.size()-19);

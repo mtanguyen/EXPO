@@ -36,14 +36,14 @@ int main(int argc, char **argv){
 	else logs << date_time() << " [ERROR][FASTNet]: File was not opened, line 26." << endl;
 
 	do{
-		cout << date_time() << " [FASTNet]: What would you like to find." << endl;
+		cout << date_time() << " [FASTNet]: What would you like to find?" << endl;
 		getline(cin, line);
 		if(line != "\\exit")
 			find_function(line);
 	}while(line != "\\exit");
 
 	do{
-		cout << date_time() << " [FASTNet]: What would you like to find in the dictionary." << endl;
+		cout << date_time() << " [FASTNet]: What would you like to find in the dictionary?" << endl;
 		cin >> line;
 		if(line != "\\exit"){
 			vector<string> dictionary = dic_algorithm(line);

@@ -6,8 +6,6 @@
 #include <regex>
 #include <set>
 
-#define html_filename       "../doc/logs/html.txt"
-
 using namespace std;
 
 static size_t write_data(void *ptr, size_t size, size_t nmemb, void *stream){
@@ -15,7 +13,7 @@ static size_t write_data(void *ptr, size_t size, size_t nmemb, void *stream){
     return written;
 }
 
-list<string> dic_algorithm(string wordToGet, int choice){
+list<string> dic_algorithm(string wordToGet){
     CURL *curl_handle;
     FILE *html;
 
@@ -26,9 +24,9 @@ list<string> dic_algorithm(string wordToGet, int choice){
     logs << date_time() << " [DIC_ALGORITHM]: Word to get " << wordToGet << endl;
     cout << date_time() << " [DIC_ALGORITHM]: Word to get " << wordToGet << endl;
 
-    html = fopen(html_filename, "w");
+    html = fopen("../doc/html/html.txt", "w");
     if(html == NULL){
-      cout << html_filename << " did not open." << endl;
+      cout << "../doc/html/html.txt" << " did not open." << endl;
     }
 
     string address = "http://www.thesaurus.com/browse/"+wordToGet+"?s=t";
@@ -51,7 +49,7 @@ list<string> dic_algorithm(string wordToGet, int choice){
 
     string line;
     list<string> v;
-    fstream html_file(html_filename, ios::in);
+    fstream html_file("../doc/html/html.txt", ios::in);
     while(getline(html_file, line)){
         v.push_back(line);
     }
@@ -71,46 +69,45 @@ list<string> dic_algorithm(string wordToGet, int choice){
     regex r2("<span class=\"text\">.+");
     string::const_iterator searchStart(whole_file.cbegin());
 
-    switch(choice){
-        case 0:
-            regex_search(whole_file, m, r);
+    regex_search(whole_file, m, r);
 
-            while ( regex_search( searchStart, whole_file.cend(), m, r ) ) {
-                parts.insert(m[0]);
-                searchStart += m.position() + m.length();
-            }
+    while ( regex_search( searchStart, whole_file.cend(), m, r ) ) {
+        parts.insert(m[0]);
+        searchStart += m.position() + m.length();
+    }
 
-            for (set<string>::iterator itr=parts.begin(); itr!=parts.end(); ++itr){
-                string tempStr = (*itr);
+    for (set<string>::iterator itr=parts.begin(); itr!=parts.end(); ++itr){
+        string tempStr = (*itr);
 
-                tempStr = tempStr.substr(16,tempStr.length());
-                tempStr = tempStr.substr(0,tempStr.length()-5);
+        tempStr = tempStr.substr(16,tempStr.length());
+        tempStr = tempStr.substr(0,tempStr.length()-5);
                 
-                word_types.push_back(tempStr);
-            }
-            break;
-        case 1:            
-            regex_search(whole_file, m2, r2);
+        word_types.push_back(tempStr);
+    }
 
-            while ( regex_search( searchStart, whole_file.cend(), m2, r2 ) ) {
-                parts2.insert(m2[0]);
-                searchStart += m2.position() + m2.length();
-            }
+          
 
-            for (set<string>::iterator itr = parts2.begin(); itr!=parts2.end(); ++itr){
-                string tempStr = (*itr);
+    string html_filename = "../doc/html/html_" + wordToGet + ".txt";
+    ofstream html_synonym(html_filename, ios::out | ios::app);
 
-                tempStr = tempStr.substr(19 ,tempStr.size()-19);
-                size_t pos = tempStr.find("</");
-                tempStr = tempStr.substr(0 ,pos);
+    if(!html_synonym.is_open()){
+      cout << html_filename << " did not open." << endl;
+    }
+    regex_search(whole_file, m2, r2);
 
-                word_types.push_back(tempStr);
-            }
-            break;
-        default:
-            logs << date_time() << " [ERROR][DIC_ALGORITHM]: Choice number " << choice << " is an incorrect input." << endl;
-            cout << date_time() << " [ERROR][DIC_ALGORITHM]: Choice number " << choice << " is an incorrect input." << endl;
-            break;
+    while ( regex_search( searchStart, whole_file.cend(), m2, r2 ) ) {
+        parts2.insert(m2[0]);
+        searchStart += m2.position() + m2.length();
+    }
+
+    for (set<string>::iterator itr = parts2.begin(); itr!=parts2.end(); ++itr){
+        string tempStr = (*itr);
+
+        tempStr = tempStr.substr(19 ,tempStr.size()-19);
+        size_t pos = tempStr.find("</");
+        tempStr = tempStr.substr(0 ,pos);
+
+        html_synonym << tempStr << endl;
     }
 
     logs << date_time() << " [DIC_ALGORITHM]: Exitited function." << endl;

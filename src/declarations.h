@@ -29,7 +29,7 @@ extern void sorting_algorithm(string word, int line, int wordnum);
 
 extern string date_time();
 
-extern list<string> dic_algorithm(string wordToGet, int choice);
+extern list<string> dic_algorithm(string wordToGet);
 
 class Word{
 private:

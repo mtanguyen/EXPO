@@ -50,9 +50,19 @@ void sorting_algorithm(string char_word, int line, int wordnum){
                 else {
                     if(i == 2 && j == 3499){
                         logs << date_time() << " [SORT_ALGORITHM]: Looking for word " << char_word << " in the dictionary." << endl;
-                        word = new Word(char_word.c_str(), line, wordnum, dic_algorithm(char_word.c_str(), 0));
-                        words.push_back(*word);
-                        delete word;
+                        
+                        list<string> dic_words = dic_algorithm(char_word.c_str())
+                        
+                        if(dic_words.size() < 1){
+                            word = new Word(char_word.c_str(), line, wordnum, "unknown");
+                            words.push_back(*word);
+                            delete word;
+                        }
+                        else{
+                            word = new Word(char_word.c_str(), line, wordnum, dic_words);
+                            words.push_back(*word);
+                            delete word;
+                        }
                     }
                 }
             }

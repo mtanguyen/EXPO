@@ -4,7 +4,7 @@ CFLAGS = -Wall -c -std=c++0x $(DEBUG)
 LFLAGS = -Wall $(DEBUG)
 LINCUL += -lcurl
 PROGRAM = FASTNet
-LOGS = ../doc/logs/*.txt
+LOGS = ../doc/logs/*.txt ../doc/html/*.txt
 
 src = $(wildcard *.cpp)
 obj = $(src:.cpp=.o)

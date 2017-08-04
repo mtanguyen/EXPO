@@ -4,6 +4,7 @@ CFLAGS = -Wall -c -std=c++0x $(DEBUG)
 LFLAGS = -Wall $(DEBUG)
 LINCUL += -lcurl
 PROGRAM = FASTNet
+LOGS = ../doc/logs/*.txt
 
 src = $(wildcard *.cpp)
 obj = $(src:.cpp=.o)
@@ -16,17 +17,7 @@ $(obj): $(src)
 	$(CC) $(CFLAGS) $(src)
 
 clean:
-	\rm $(obj) $(PROGRAM)
+	\rm $(obj) $(PROGRAM) $(LOGS)
 
 tar:
 	tar cfv $(PROGRAM).tar $(src)
-
-#PREFIX = /usr/local
-# .PHONY: install
-# install: FASTNet
-# 	mkdir -p $(DESTDIR)$(PREFIX)/bin
-# 	cp $< $(DESTDIR)$(PREFIX)/bin/FASTNet
-
-# .PHONY: uninstall
-# uninstall:
-# 	rm -f $(DESTDIR)$(PREFIX)/bin/FASTNet

@@ -9,12 +9,12 @@ Word::Word(string line_char, int line_num, int word_num, string plugin_type){
     type.push_back(plugin_type);
 }
 
-Word::Word(string line_char, int line_num, int word_num, vector<string> plugin_type){
+Word::Word(string line_char, int line_num, int word_num, list<string> plugin_type){
     word = line_char;
     line.push_back(line_num);
     wordnum.push_back(word_num);
-    for(unsigned int i = 0; i < plugin_type.size(); i++){
-        type.push_back(plugin_type.at(i));
+    for(list<string>::iterator it = plugin_type.begin(); it != plugin_type.end(); it++){
+        type.push_back(*it);
     }
 }
 
@@ -24,8 +24,8 @@ string Word::get_word(){
 
 string Word::get_line(){
     string return_string;
-    for(unsigned int i = 0; i < line.size(); i++){
-        return_string += to_string(line.at(i));
+    for(list<int>::iterator it = line.begin(); it != line.end(); it++){
+        return_string += to_string(*it);
         return_string += '\t';
     }
     return return_string;
@@ -33,8 +33,8 @@ string Word::get_line(){
 
 string Word::get_wordnum(){
     string return_string;
-    for(unsigned int i = 0; i < wordnum.size(); i++){
-        return_string += to_string(wordnum.at(i));
+    for(list<int>::iterator it = wordnum.begin(); it != wordnum.end(); it++){
+        return_string += to_string(*it);
         return_string += '\t';
     }
     return return_string;
@@ -42,13 +42,14 @@ string Word::get_wordnum(){
 
 string Word::get_type(){
     string return_string;
-    for(unsigned int i = 0; i < type.size(); i++){
-        return_string += type.at(i);
+    for(list<string>::iterator it = type.begin(); it != type.end(); it++){
+        return_string += *it;
+        return_string += '\t';
     }
     return return_string;
 }
 
-vector<Word> Word::get_synonyms(){
+list<Word> Word::get_synonyms(){
     return synonyms;
 }
 

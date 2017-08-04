@@ -7,7 +7,6 @@
 #include <set>
 
 #define html_filename       "../doc/logs/html.txt"
-#define dic_algorithm_log   "../doc/logs/dic_algorithm.txt"
 
 using namespace std;
 
@@ -16,7 +15,7 @@ static size_t write_data(void *ptr, size_t size, size_t nmemb, void *stream){
     return written;
 }
 
-vector<string> dic_algorithm(string wordToGet, int choice){
+list<string> dic_algorithm(string wordToGet, int choice){
     CURL *curl_handle;
     FILE *html;
 
@@ -51,7 +50,7 @@ vector<string> dic_algorithm(string wordToGet, int choice){
     fclose(html);
 
     string line;
-    vector<string> v;
+    list<string> v;
     fstream html_file(html_filename, ios::in);
     while(getline(html_file, line)){
         v.push_back(line);
@@ -61,14 +60,13 @@ vector<string> dic_algorithm(string wordToGet, int choice){
     curl_easy_cleanup(curl_handle);
 
     string whole_file;
-    for(unsigned int i = 0; i < v.size(); i++){
-        whole_file += v.at(i);
+    for(list<string>::iterator it = v.begin(); it != v.end(); it++){
+        whole_file += *it;
     }
-
 
     smatch m, m2;
     set<string> parts, parts2;
-    vector<string> word_types;
+    list<string> word_types;
     regex r("<em class=\"txt\">.+");
     regex r2("<span class=\"text\">.+");
     string::const_iterator searchStart(whole_file.cbegin());

@@ -10,7 +10,7 @@
 using namespace std;
 
 void line_reader(string line, int line_num){
-	ofstream logs("../doc/logs/line_reader.txt", ios::out | ios::app);
+	ofstream logs(line_reader_log, ios::out | ios::app);
 
     logs << date_time() << " [LINE_READER]: Entered function." << endl;
 

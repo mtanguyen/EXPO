@@ -2,38 +2,33 @@
 
 using namespace std;
 
-vector<Word> words;
+list<Word> words;
 
 void sorting_algorithm(string char_word, int line, int wordnum){
-    ofstream logs("../doc/logs/sorting_algorithm.txt", ios::out | ios::app);
+    ofstream logs(sorting_algorithm_log, ios::out | ios::app);
 
     logs << date_time() << " [SORT_ALGORITHM]: Entered function." << endl;
     
     Word *word;
-    vector<string> parts;
+    vector<string> parts(3);
 
     parts.push_back("Noun");
     parts.push_back("Adjective");
     parts.push_back("Verb");
 
 
-    int i = 0, j = 0;
-    // static unsigned int firsttime = 1;
-    // string created_already;
-    // fstream already_created("../doc/already_created.txt", ios::out | ios::in | ios::app);
+    int i = 0, j = 0, k = 0;
     for (i = 0; i < 3; i++){
-        vector<Word>::iterator it;
-        for(it = words.begin(); it != words.end(); it++){
+        for(list<Word>::iterator it = words.begin(); it != words.end(); it++){
             if(char_word.c_str() == it->get_word()){
                 it->add_line(line);
                 it->add_wordnum(wordnum);
                 it->add_type(parts.at(i));
 
-                i = -1;
+                k = -1;
             }
         }
-        delete it;
-        if(i != -1){
+        if(k != -1){
             for (j = 0; j < 3500; j++){
                 if (char_word.c_str() == parts_speech[i][j]){
                     logs << date_time() << " [SORT_ALGORITHM]: Word: " << char_word << endl;
@@ -65,10 +60,6 @@ void sorting_algorithm(string char_word, int line, int wordnum){
     }
 
     logs << date_time() << " [SORT_ALGORITHM]: Exiting function." << endl;
-
-    // already_created.close();
-    // already_created.open("../doc/already_created.txt", ios::out | ios::trunc);
-    // already_created.close();
 
     logs.close();
 }

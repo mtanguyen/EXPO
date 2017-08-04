@@ -9,6 +9,8 @@
 using namespace std;
 
 int main(int argc, char **argv){
+	clear_logs();
+
 	int line_num = 0;
 	string line;
 
@@ -16,7 +18,7 @@ int main(int argc, char **argv){
 	getline(cin, line);
 
 	ifstream file(line);
-	ofstream logs("../doc/logs/fastnet.txt", ios::out | ios::app);
+	ofstream logs(main_log, ios::out | ios::app);
 
 	cout << date_time() << " [FASTNet]: Program started running..." << endl;
 	logs << date_time() << " [FASTNet]: Entered function." << endl;
@@ -40,18 +42,6 @@ int main(int argc, char **argv){
 		getline(cin, line);
 		if(line != "\\exit")
 			find_function(line);
-	}while(line != "\\exit");
-
-	do{
-		cout << date_time() << " [FASTNet]: What would you like to find in the dictionary?" << endl;
-		cin >> line;
-		if(line != "\\exit"){
-			vector<string> dictionary = dic_algorithm(line);
-			for (unsigned int i = 0; i < dictionary.size(); ++i){
-				logs << date_time() << " [FASTNet]: Dictionary at " << i << " :" << dictionary.at(i) << endl;;
-				cout << date_time() << " [FASTNet]: Dictionary at " << i << " :" << dictionary.at(i) << endl;;
-			}
-		}
 	}while(line != "\\exit");
 
 

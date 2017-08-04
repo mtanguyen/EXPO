@@ -7,11 +7,11 @@ string parts_speech[3][3500];
 extern string date_time();
 
 void setup_algorithm(){
-    ofstream logs("../doc/logs/setup_algorithm.txt", ios::out | ios::app);
+    ofstream logs(setup_algorithm_log, ios::out | ios::app);
 
     logs << date_time() << " [SETUP_ALGORITHM]: Entered function." << endl;
 
-    vector<string> word_files;
+    vector<string> word_files(3);
     word_files.push_back("../doc/Nouns.txt");
     word_files.push_back("../doc/Adjectives.txt");
     word_files.push_back("../doc/Verbs.txt");

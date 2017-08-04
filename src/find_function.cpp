@@ -34,7 +34,13 @@ void find_function(string phrase_find){
                 logs << date_time() << " [FIND_FUNCTION]: Line number: " << it->get_line() << endl;
                 logs << date_time() << " [FIND_FUNCTION]: Word number: " << it->get_wordnum() << endl;
                 logs << date_time() << " [FIND_FUNCTION]: Type: " << it->get_type() << endl;
-                // logs << date_time() << " [FIND_FUNCTION]: Synonyms: " << it->get_synonyms() << endl;
+                string synonym_types;
+                list<Word> temp_Word = it->get_synonyms();
+                for(list<Word>::iterator itr = temp_Word.begin(); itr != temp_Word.end(); itr++){
+                    synonym_types += itr->get_word();
+                    synonym_types += '\t';
+                }
+                logs << date_time() << " [FIND_FUNCTION]: Synonyms: " << synonym_types << endl;
 
                 it->get_line();
 
@@ -42,7 +48,7 @@ void find_function(string phrase_find){
                 cout << date_time() << " [FIND_FUNCTION]: Line number: " << it->get_line() << endl;
                 cout << date_time() << " [FIND_FUNCTION]: Word number: " << it->get_wordnum() << endl;
                 cout << date_time() << " [FIND_FUNCTION]: Type: " << it->get_type() << endl;
-                // cout << date_time() << " [FIND_FUNCTION]: Synonyms: " << it->get_synonyms() << endl;
+                 cout << date_time() << " [FIND_FUNCTION]: Synonyms: " << synonym_types << endl;
 
 
 

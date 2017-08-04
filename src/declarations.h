@@ -20,6 +20,7 @@ using namespace std;
 extern string parts_speech[3][3500];
 extern list<string> parts;
 
+extern void synonyms();
 extern void clear_logs();
 extern void setup_algorithm();
 extern void find_function(string);

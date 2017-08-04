@@ -36,6 +36,7 @@ int main(int argc, char **argv){
 		}
 	}
 	else logs << date_time() << " [ERROR][FASTNet]: File was not opened, line 26." << endl;
+	synonyms();
 
 	do{
 		cout << date_time() << " [FASTNet]: What would you like to find?" << endl;

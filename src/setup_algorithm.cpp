@@ -32,7 +32,8 @@ void setup_algorithm(){
                 int word_num = 0; 
 
                 for (unsigned int i = 0; i < line.size(); ++i){
-                    if((line[i] >= 0x20 && line[i] <= 0x2E) || (line[i] >= 0x3A && line[i] <= 0x40) 
+                    if((line[i] >= 0x20 && line[i] <= 0x2C) || line[i] == 0x2E
+                                                            || (line[i] >= 0x3A && line[i] <= 0x40) 
                                                             || (line[i] >= 0x5B && line[i] <= 0x60) 
                                                             || (line[i] >= 0x7B && line[i] <= 0x7E) 
                                                             || line[i] == '\0' || line[i] == '\r'){

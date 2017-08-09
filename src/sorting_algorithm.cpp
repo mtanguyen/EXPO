@@ -30,7 +30,7 @@ void sorting_algorithm(string char_word, int line, int wordnum){
         }
         if(k != -1){
             for (j = 0; j < 3500; j++){
-                if (char_word.c_str() == parts_speech[i][j]){
+                if (strcasecmp(char_word.c_str(),parts_speech[i][j].c_str()) == 0){
                     logs << date_time() << " [SORT_ALGORITHM]: Word: " << char_word << endl;
                     logs << date_time() << " [SORT_ALGORITHM]: Line Number: " << line << endl;
                     logs << date_time() << " [SORT_ALGORITHM]: Word Number: " << wordnum << endl;
@@ -48,10 +48,17 @@ void sorting_algorithm(string char_word, int line, int wordnum){
                     logs << date_time() << " [SORT_ALGORITHM]: New word created " << word->get_word() << endl;
                 }
                 else {
-                    if(i == 2 && j == 3499){
+                    if(j == 3499){
                         logs << date_time() << " [SORT_ALGORITHM]: Looking for word " << char_word << " in the dictionary." << endl;
                         
-                        list<string> dic_words = dic_algorithm(char_word.c_str())
+                        string location = "../doc/" + parts.at(i+1) + ".txt";
+                        ofstream type_file(location, ios::out | ios::app);
+                        if(type_file.is_open())
+                            type_file << char_word << endl;
+                        else cout << date_time() << " [SORT_ALGORITHM]: " << "../doc/" + parts.at(i) + ".txt" << " did not open." << endl;
+                        type_file.close();
+
+                        list<string> dic_words = dic_algorithm(char_word.c_str());
                         
                         if(dic_words.size() < 1){
                             word = new Word(char_word.c_str(), line, wordnum, "unknown");

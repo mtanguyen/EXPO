@@ -12,12 +12,12 @@ int main(int argc, char **argv){
 	clear_logs();
 
 	int line_num = 0;
-	string line;
+	string line, file_location;
 
 	cout << date_time() << " [FASTNet]: Where is the file located." << endl;
-	getline(cin, line);
+	getline(cin, file_location);
 
-	ifstream file(line);
+	ifstream file(file_location);
 	ofstream logs(main_log, ios::out | ios::app);
 
 	cout << date_time() << " [FASTNet]: Program started running..." << endl;
@@ -37,12 +37,13 @@ int main(int argc, char **argv){
 	}
 	else logs << date_time() << " [ERROR][FASTNet]: File was not opened, line 26." << endl;
 	synonyms();
+	html_synonyms();
 
 	do{
 		cout << date_time() << " [FASTNet]: What would you like to find?" << endl;
 		getline(cin, line);
 		if(line != "\\exit")
-			find_function(line);
+			find_function(line, file_location);
 	}while(line != "\\exit");
 
 

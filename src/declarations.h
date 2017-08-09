@@ -5,6 +5,7 @@
 #include <vector>
 #include <list>
 #include <string>
+#include <strings.h>
 #include <cstring>
 
 #define find_function_log       "../doc/logs/find_function.txt"
@@ -22,8 +23,10 @@ extern list<string> parts;
 
 extern void synonyms();
 extern void clear_logs();
+extern void html_synonyms();
 extern void setup_algorithm();
-extern void find_function(string);
+extern void similar_find(string,string,vector<string>);
+extern void find_function(string, string);
 extern void line_reader(string line, int line_num);
 extern void sorting_algorithm(string word, int line, int wordnum);
 
@@ -38,6 +41,7 @@ private:
     list<int> wordnum;
     list<string> type;
     list<Word> synonyms;
+    list<string> html_synonyms;
 public:
     Word(string,int,int,string);
     Word(string,int,int,list<string>);
@@ -46,6 +50,7 @@ public:
     string get_line();
     string get_wordnum();
     string get_type();
+    string get_htmlsynonyms();
 
     list<Word> get_synonyms();
 
@@ -53,6 +58,7 @@ public:
     void add_wordnum(int);
     void add_type(string);
     void add_synonym(Word);
+    void add_htmlsynonym(string);
 
 };
 
